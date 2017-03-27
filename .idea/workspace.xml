@@ -2,9 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac72f575-76b7-4080-b3e0-6c5d4199b512" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basics of Technical Analysis.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GLOBAL LEADERS.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBD 50_Latest.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Money Management.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SECTOR LEADERS.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleInvestingPlan_CSI.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stock Investing Plan.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Take ways from Spring config.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trading journal master-Paper Money (Autosaved).xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trading journal master-Paper Money.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trading journal master.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trading journal master.xlsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Transactions of 2016.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YOUR WEEKLY REVIEW.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NYSE.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NYSE_marketcap.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestWatchlist.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Weekly.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_dates.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gitconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jnk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/XBI-Biotech.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/2016 IBD Leaders.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/5g Wireless companies.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Airlines.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Big 20 - Latest.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Big 20.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Biotech.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Building and Construction Dec 5-2016.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Buys.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/CANSLIM SELECT.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/CHINESE.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Chips.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/DOW.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/ETFs - Foreign Stocks.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/ETFs - Sectors.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/ETFs - U.S Diversified Stocks.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/ETFs SPDR select.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/ETFs.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Energy Shale.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Energy Solar.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Energy-Coal.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Energy_Oil and Gas.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Forex.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Gaming.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Home builders.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IBD 50 Latest.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IBD 50.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IBD Security and Big Data Software.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IBD Shipping.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IBD TELECOM FIBER.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IPOs.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Indian.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Indices.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Leaders down.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Leaders up.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Leading IPOs.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Mining-Gold SilverGems Group.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/NASDAQ.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/NYSE.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Nasdaq-100.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Oil&amp;Gas Pipeline.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Pet Product Companies.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Pullbacks.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/REIT - Cloud computing.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Restaurants.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Rounding Bottom.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Russel 3000.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/SPY Components.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Sells.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Shorts.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Steel related.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Swing Trades.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/TSU Top 50.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/XRT-Retail.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/XRT.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/XTN-holdings.wml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IBD 50.xls" afterPath="$PROJECT_DIR$/IBD 50.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IPO LEADERS.xls" afterPath="$PROJECT_DIR$/IPO LEADERS.xls" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bowtie shorts.csv" afterPath="$PROJECT_DIR$/Bowtie shorts.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For Shorting.csv" afterPath="$PROJECT_DIR$/For Shorting.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IBD 50.csv" afterPath="$PROJECT_DIR$/IBD 50.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IBD50 Latest.csv" afterPath="$PROJECT_DIR$/IBD50 Latest.csv" />
     </list>
     <ignored path="movingaverages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,18 +110,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="j.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/j.js">
+      <file leaf-file-name="IBD50 Latest.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IBD50 Latest.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="81" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="171" />
+            <state relative-caret-position="645">
+              <caret line="43" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3D Printer companies.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3D Printer companies.csv">
+      <file leaf-file-name="IBD 50.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IBD 50.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2175">
+              <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPO LEADERS.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IPO LEADERS.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Big 20.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Big 20.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CANSLIM SELECT.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CANSLIM SELECT.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -46,27 +160,125 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Export IBD50.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Export IBD50.csv">
+      <file leaf-file-name="For Shorting.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/For Shorting.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="t.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/t.js">
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="993" column="74" selection-start-line="993" selection-start-column="69" selection-end-line="993" selection-end-column="74" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#button#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#button#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#span#0;n#div#0;n#div#0;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#button#1;n#div#1;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#div#0;n#div#0;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#button#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#button#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chips.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chips.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IBD 2016 Top Stocks.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IBD 2016 Top Stocks.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1185">
+              <caret line="79" column="15" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bottoming.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bottoming.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="65" column="171" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="171" />
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,18 +293,58 @@
       <list>
         <option value="$PROJECT_DIR$/j.js" />
         <option value="$PROJECT_DIR$/t.js" />
+        <option value="$PROJECT_DIR$/Acquisitions Targets.csv" />
+        <option value="$PROJECT_DIR$/Earnings Power.csv" />
+        <option value="$PROJECT_DIR$/swingtrader.csv" />
+        <option value="$PROJECT_DIR$/input.csv" />
+        <option value="$PROJECT_DIR$/Pullbacks" />
+        <option value="$PROJECT_DIR$/jnk" />
+        <option value="$PROJECT_DIR$/Big 20.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/sector-spdr-xlf.csv" />
+        <option value="$PROJECT_DIR$/Chips.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/sector-spdr-xly.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/sector-spdr-xle.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/sector-spdr-xlp-Consumer-staples.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/xly-Healthcare.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/xli-industrials" />
+        <option value="$PROJECT_DIR$/sector-spdr/xli-Industrials.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/xlf-financials.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/xlre-Real Estate.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/xlk-Technology.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/xlu-Utilities.csv" />
+        <option value="$PROJECT_DIR$/IBD - Leading IPO Issues.csv" />
+        <option value="$PROJECT_DIR$/sector-spdr/test.html" />
+        <option value="$PROJECT_DIR$/sector-spdr/Mining and Gold silver.csv" />
+        <option value="$PROJECT_DIR$/Best Performing ETFs of 2017/U.S Diversified Stock.csv" />
+        <option value="$PROJECT_DIR$/Best Performing ETFs of 2017/Sectors.csv" />
+        <option value="$PROJECT_DIR$/Best Performing ETFs of 2017/Foreign Stock.csv" />
+        <option value="$PROJECT_DIR$/Steel miners.csv" />
+        <option value="$PROJECT_DIR$/Oil&amp;Gas Transport Pipeline.csv" />
+        <option value="$PROJECT_DIR$/Gapups.csv" />
+        <option value="$PROJECT_DIR$/Nasdaq 100.csv" />
+        <option value="$PROJECT_DIR$/Dow 30.csv" />
+        <option value="$PROJECT_DIR$/Buiding and Construction.csv" />
+        <option value="$PROJECT_DIR$/Pullbacks.csv" />
+        <option value="$PROJECT_DIR$/Bottoming.csv" />
+        <option value="$PROJECT_DIR$/IPO LEADERS_latest.csv" />
+        <option value="$PROJECT_DIR$/IPO LEADERS.csv" />
+        <option value="$PROJECT_DIR$/Leaders Up.csv" />
+        <option value="$PROJECT_DIR$/IBD50 Latest.csv" />
+        <option value="$PROJECT_DIR$/IBD 50.csv" />
+        <option value="$PROJECT_DIR$/For Shorting.csv" />
+        <option value="$PROJECT_DIR$/test.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="773" />
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -119,8 +371,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,36 +392,63 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="107" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="70" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="116" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="79" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="121" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="83" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="906" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="800" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="107" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="90" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="116" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="98" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="121" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="102" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="906" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="742" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -219,6 +496,27 @@
       <updated>1460334553427</updated>
       <workItem from="1460931692275" duration="215000" />
       <workItem from="1479432764798" duration="310000" />
+      <workItem from="1484951634507" duration="1197000" />
+      <workItem from="1485049729708" duration="1806000" />
+      <workItem from="1486094686162" duration="47000" />
+      <workItem from="1486094756758" duration="7204000" />
+      <workItem from="1486693494811" duration="530000" />
+      <workItem from="1486727605814" duration="1850000" />
+      <workItem from="1486827234688" duration="11691000" />
+      <workItem from="1487854998735" duration="2020000" />
+      <workItem from="1487900736317" duration="727000" />
+      <workItem from="1487950735050" duration="2559000" />
+      <workItem from="1488033850645" duration="3185000" />
+      <workItem from="1488142946062" duration="1065000" />
+      <workItem from="1488150607904" duration="6582000" />
+      <workItem from="1488331155744" duration="981000" />
+      <workItem from="1488379695994" duration="3536000" />
+      <workItem from="1488741054025" duration="1720000" />
+      <workItem from="1488977792405" duration="2289000" />
+      <workItem from="1489542020727" duration="6000" />
+      <workItem from="1490190180598" duration="1009000" />
+      <workItem from="1490576180450" duration="127000" />
+      <workItem from="1490576317506" duration="155000" />
     </task>
     <task id="LOCAL-00001" summary="Adding IBD 50 for Week of April 18th.">
       <created>1460931861870</created>
@@ -255,38 +553,150 @@
       <option name="project" value="LOCAL" />
       <updated>1464530933817</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding IBD 50 for Week of Jan 21, 2017">
+      <created>1486094729452</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1486094729452</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Adding IBD 50 for Week of Feb 2 2017">
+      <created>1486094802890</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1486094802890</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adding IBD 50 for Week of Jan 21, 2017">
+      <created>1486124668460</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1486124668460</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adding IBD 50 for Week of Feb 2 2017">
+      <created>1486124767479</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1486124767479</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Adding IBD 50 for Week of Jan 20 2017">
+      <created>1486343403921</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1486343403922</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Adding IBD 50 for Week of Feb 5 2017">
+      <created>1486770841307</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1486770841307</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Adding IBD 50 for Week of Feb 5 2017">
+      <created>1486771039938</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1486771039938</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Adding IBD 50 for Week of Feb 5 2017">
+      <created>1486771052818</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1486771052818</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Adding Spdr sector holdings as on Feb 10">
+      <created>1486838723179</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1486838723179</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adding Spdr sector holdings as on Feb 10">
+      <created>1486858597448</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1486858597448</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Adding Spdr sector holdings as on Feb 10 2017">
+      <created>1486863385488</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1486863385488</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Adding Spdr sector holdings as on Feb 10 2017">
+      <created>1486897180747</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1486897180747</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adding Spdr sector holdings as on Feb 10 2017">
+      <created>1486946095166</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1486946095166</updated>
+    </task>
+    <task id="LOCAL-00019" summary="REMOVED">
+      <created>1486948659330</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1486948659330</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Snapshot as of Feb26th">
+      <created>1488162488368</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1488162488368</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Snapshot as of Feb26th">
+      <created>1488669229239</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1488669229239</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="525000" />
+    <option name="totallyTimeSpent" value="50811000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06144151" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50284094" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3551263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39878234" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -311,7 +721,15 @@
     <MESSAGE value="Adding IBD 50 for Week of May 29 th" />
     <MESSAGE value="Adding IBD 50 for Week of May 22nd" />
     <MESSAGE value="Adding IBD 50 for Week of May 29th." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding IBD 50 for Week of May 29th." />
+    <MESSAGE value="Adding IBD 50 for Week of Jan 21, 2017" />
+    <MESSAGE value="Adding IBD 50 for Week of Feb 2 2017" />
+    <MESSAGE value="Adding IBD 50 for Week of Jan 20 2017" />
+    <MESSAGE value="Adding IBD 50 for Week of Feb 5 2017" />
+    <MESSAGE value="Adding Spdr sector holdings as on Feb 10" />
+    <MESSAGE value="Adding Spdr sector holdings as on Feb 10 2017" />
+    <MESSAGE value="REMOVED" />
+    <MESSAGE value="Snapshot as of Feb26th" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snapshot as of Feb26th" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -320,121 +738,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/j.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="81" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="171" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3D Printer companies.csv">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Export IBD50.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3D Printer companies.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Export IBD50.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="26" column="81" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="171" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3D Printer companies.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Export IBD50.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="26" column="81" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="171" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3D Printer companies.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Export IBD50.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -442,30 +747,407 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="81" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="171" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3D Printer companies.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Export IBD50.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="171" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Acquisitions Targets.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Export IBD50.csv" />
+    <entry file="file://$PROJECT_DIR$/jnk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="185" column="2" selection-start-line="185" selection-start-column="2" selection-end-line="185" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/sector-spdr-xlf.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/sector-spdr-xly-Consumer Discretionary.csv" />
+    <entry file="file://$PROJECT_DIR$/sector-spdr/sector-spdr-xle.csv" />
+    <entry file="file://$PROJECT_DIR$/sector-spdr/sector-spdr-xlp-Consumer-staples.csv" />
+    <entry file="file://$PROJECT_DIR$/sector-spdr/xli-industrials" />
+    <entry file="file://$PROJECT_DIR$/sector-spdr/xli-Industrials.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="68" column="3" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/xly-Healthcare.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/xlv-Consumer Discretionary.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/xlre-Real Estate.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/xlk-Technology.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/xlu-Utilities.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/xlf-financials.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Earnings Power.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IBD - Leading IPO Issues.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swingtrader.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10710">
+          <caret line="714" column="56" selection-start-line="714" selection-start-column="56" selection-end-line="714" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Best Performing ETFs of 2017/U.S Diversified Stock.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Best Performing ETFs of 2017/Sectors.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Best Performing ETFs of 2017/Foreign Stock.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/Mining and Gold silver.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Steel Stocks.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Steel miners.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gapups.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="65" column="171" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="171" />
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nasdaq 100.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dow 30.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buiding and Construction.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oil&amp;Gas Transport Pipeline.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pullbacks.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IBD.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO LEADERS_latest.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYSE.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leaders Up.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IBD 50.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IBD50 Latest.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO LEADERS.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Big 20.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CANSLIM SELECT.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For Shorting.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="993" column="74" selection-start-line="993" selection-start-column="69" selection-end-line="993" selection-end-column="74" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#button#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#button#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#span#0;n#div#0;n#div#0;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#button#1;n#div#1;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#div#0;n#div#0;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#button#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#button#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chips.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IBD 2016 Top Stocks.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="15" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bottoming.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
