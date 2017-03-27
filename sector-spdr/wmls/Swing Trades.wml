@@ -1,0 +1,1 @@
+{"name":"Swing Trades","type":"W","columns":[{"id":"symbolDisplay","width":87},{"id":"changePer","width":87},{"id":"bidPrice","width":76},{"id":"askPrice","width":76},{"id":"lastPrice","width":76},{"id":"dayVolume","width":76}]}
