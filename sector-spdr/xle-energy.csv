@@ -1,36 +1,36 @@
-XOM
-CVX
-SLB
-PXD
-EOG
-HAL
-COP
-OXY
-APC
-KMI
-VLO
-SE
-PSX
-BHI
-WMB
-TSO
-DVN
-FTI
-MPC
-APA
-COG
-NBL
-CXO
-NOV
-HES
-MRO
-XEC
-OKE
-EQT
-RRC
-NFX
-HP
-CHK
-MUR
-SWN
-RIG
+XOM,NYSE,STOCK,USD,0.01,Exxon Mobil Corp,Exxon Mobil Corp
+CVX,NYSE,STOCK,USD,0.01,Chevron Corp,Chevron Corp
+SLB,NYSE,STOCK,USD,0.01,Schlumberger Ltd,Schlumberger Ltd
+PXD,NYSE,STOCK,USD,0.01,Pioneer Natural Resources,Pioneer Natural Resources
+EOG,NYSE,STOCK,USD,0.01,EOG Resources,EOG Resources
+HAL,NYSE,STOCK,USD,0.01,Halliburton Co,Halliburton Co
+COP,NYSE,STOCK,USD,0.01,ConocoPhillips,ConocoPhillips
+OXY,NYSE,STOCK,USD,0.01,Occidental Petroleum,Occidental Petroleum
+APC,NYSE,STOCK,USD,0.01,Anadarko Petroleum Corp,Anadarko Petroleum Corp
+KMI,NYSE,STOCK,USD,0.01,Kinder Morgan Inc,Kinder Morgan Inc
+VLO,NYSE,STOCK,USD,0.01,Valero Energy Corp,Valero Energy Corp
+SE,NYSE,STOCK,USD,0.01,Spectra Energy Corp,Spectra Energy Corp
+PSX,NYSE,STOCK,USD,0.01,Phillips 66,Phillips 66
+BHI,NYSE,STOCK,USD,0.01,Baker Hughes Inc,Baker Hughes Inc
+WMB,NYSE,STOCK,USD,0.01,The Williams Companies Inc,The Williams Companies Inc
+TSO,NYSE,STOCK,USD,0.01,Tesoro Corp,Tesoro Corp
+DVN,NYSE,STOCK,USD,0.01,Devon Energy Corp,Devon Energy Corp
+FTI,NYSE,STOCK,USD,0.01,TechnipFMC Ltd,TechnipFMC Ltd
+MPC,NYSE,STOCK,USD,0.01,Marathon Petroleum Corp.,Marathon Petroleum Corp.
+APA,NYSE,STOCK,USD,0.01,Apache Corp,Apache Corp
+COG,NYSE,STOCK,USD,0.01,Cabot Oil & Gas A,Cabot Oil & Gas A
+NBL,NYSE,STOCK,USD,0.01,Noble Energy Inc,Noble Energy Inc
+CXO,NYSE,STOCK,USD,0.01,Concho Resources Inc,Concho Resources Inc
+NOV,NYSE,STOCK,USD,0.01,National Oilwell Varco Inc,National Oilwell Varco Inc
+HES,NYSE,STOCK,USD,0.01,Hess Corp,Hess Corp
+MRO,NYSE,STOCK,USD,0.01,Marathon Oil Corp,Marathon Oil Corp
+XEC,NYSE,STOCK,USD,0.01,Cimarex Energy Co,Cimarex Energy Co
+OKE,NYSE,STOCK,USD,0.01,ONEOK Inc,ONEOK Inc
+EQT,NYSE,STOCK,USD,0.01,EQT Corporation,EQT Corporation
+RRC,NYSE,STOCK,USD,0.01,Range Resources Corp,Range Resources Corp
+NFX,NYSE,STOCK,USD,0.01,Newfield Exploration Co,Newfield Exploration Co
+HP,NYSE,STOCK,USD,0.01,Helmerich & Payne Inc,Helmerich & Payne Inc
+CHK,NYSE,STOCK,USD,0.01,Chesapeake Energy Corp,Chesapeake Energy Corp
+MUR,NASDAQ,STOCK,USD,0.01,Murphy Oil Corp,Murphy Oil Corp
+SWN,NYSE,STOCK,USD,0.01,Southwestern Energy Co,Southwestern Energy Co
+RIG,NYSE,STOCK,USD,0.01,Transocean Ltd,Transocean Ltd

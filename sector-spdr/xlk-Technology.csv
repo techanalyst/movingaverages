@@ -1,72 +1,72 @@
-AAPL
-MSFT
-FB
-T
-GOOGL
-GOOG
-INTC
-VZ
-V
-CSCO
-IBM
-ORCL
-MA
-AVGO
-QCOM
-TXN
-ACN
-NVDA
-ADBE
-CRM
-PYPL
-ADP
-HPE
-YHOO
-AMAT
-EBAY
-CTSH
-ATVI
-INTU
-HPQ
-FIS
-TEL
-EA
-GLW
-MU
-ADI
-FISV
-WDC
-APH
-LRCX
-PAYX
-SYMC
-SWKS
-LVLT
-ADSK
-LLTC
-MCHP
-XLNX
-RHT
-STX
-KLAC
-ADS
-CTL
-HRS
-MSI
-CTXS
-GPN
-AKAM
-NTAP
-JNPR
-CA
-FFIV
-WU
-TSS
-QRVO
-VRSN
-XRX
-FLIR
-CSRA
-TDC
-FTR
-FSLR
+AAPL,NASDAQ,STOCK,USD,0.01,Apple Inc.,Apple Inc.
+MSFT,NASDAQ,STOCK,USD,0.01,Microsoft Corp,Microsoft Corp
+FB,NASDAQ,STOCK,USD,0.01,Facebook Inc A,Facebook Inc A
+T,NYSE,STOCK,USD,0.01,AT&T Inc,AT&T Inc
+GOOGL,NASDAQ,STOCK,USD,0.01,Alphabet Inc A,Alphabet Inc A
+GOOG,NASDAQ,STOCK,USD,0.01,Alphabet Inc C,Alphabet Inc C
+INTC,NASDAQ,STOCK,USD,0.01,Intel Corp,Intel Corp
+VZ,NYSE,STOCK,USD,0.01,Verizon Communications Inc,Verizon Communications Inc
+V,NYSE,STOCK,USD,0.01,Visa Inc A,Visa Inc A
+CSCO,NASDAQ,STOCK,USD,0.01,Cisco Systems Inc,Cisco Systems Inc
+IBM,NYSE,STOCK,USD,0.01,Intl Business Machines Corp,Intl Business Machines Corp
+ORCL,NASDAQ,STOCK,USD,0.01,Oracle Corp,Oracle Corp
+MA,NYSE,STOCK,USD,0.01,Mastercard Inc A,Mastercard Inc A
+AVGO,NASDAQ,STOCK,USD,0.01,Broadcom Limited,Broadcom Limited
+QCOM,NASDAQ,STOCK,USD,0.01,QUALCOMM Inc,QUALCOMM Inc
+TXN,NYSE,STOCK,USD,0.01,Texas Instruments Inc,Texas Instruments Inc
+ACN,NYSE,STOCK,USD,0.01,Accenture plc A,Accenture plc A
+NVDA,NASDAQ,STOCK,USD,0.01,Nvidia Corp,Nvidia Corp
+ADBE,NASDAQ,STOCK,USD,0.01,Adobe Systems Inc,Adobe Systems Inc
+CRM,NYSE,STOCK,USD,0.01,Salesforce.com,Salesforce.com
+PYPL,NASDAQ,STOCK,USD,0.01,PayPal Holdings Inc.,PayPal Holdings Inc.
+ADP,NYSE,STOCK,USD,0.01,Automatic Data Processing,Automatic Data Processing
+HPE,NYSE,STOCK,USD,0.01,Hewlett Packard Enterprise Co,Hewlett Packard Enterprise Co
+YHOO,NASDAQ,STOCK,USD,0.01,Yahoo Inc,Yahoo Inc
+AMAT,NASDAQ,STOCK,USD,0.01,Applied Materials Inc,Applied Materials Inc
+EBAY,NASDAQ,STOCK,USD,0.01,eBay Inc.,eBay Inc.
+CTSH,NASDAQ,STOCK,USD,0.01,Cognizant Tech Solutions Corp,Cognizant Tech Solutions Corp
+ATVI,NASDAQ,STOCK,USD,0.01,Activision Blizzard Inc,Activision Blizzard Inc
+INTU,NASDAQ,STOCK,USD,0.01,Intuit Inc,Intuit Inc
+HPQ,NYSE,STOCK,USD,0.01,HP Inc,HP Inc
+FIS,NYSE,STOCK,USD,0.01,Fidelity National Information,Fidelity National Information
+TEL,NYSE,STOCK,USD,0.01,TE Connectivity Ltd.,TE Connectivity Ltd.
+EA,NYSE,STOCK,USD,0.01,Electronic Arts,Electronic Arts
+GLW,NYSE,STOCK,USD,0.01,Corning Inc,Corning Inc
+MU,NYSE,STOCK,USD,0.01,Micron Technology Inc,Micron Technology Inc
+ADI,NYSE,STOCK,USD,0.01,Analog Devices Inc,Analog Devices Inc
+FISV,NASDAQ,STOCK,USD,0.01,Fiserv Inc,Fiserv Inc
+WDC,NYSE,STOCK,USD,0.01,Western Digital Corp,Western Digital Corp
+APH,NYSE,STOCK,USD,0.01,Amphenol Corp A,Amphenol Corp A
+LRCX,NASDAQ,STOCK,USD,0.01,Lam Research Corp,Lam Research Corp
+PAYX,NASDAQ,STOCK,USD,0.01,Paychex Inc,Paychex Inc
+SYMC,NASDAQ,STOCK,USD,0.01,Symantec Corp,Symantec Corp
+SWKS,NASDAQ,STOCK,USD,0.01,Skyworks Solutions Inc,Skyworks Solutions Inc
+LVLT,NASDAQ,STOCK,USD,0.01,Level 3 Communications,Level 3 Communications
+ADSK,NASDAQ,STOCK,USD,0.01,Autodesk Inc,Autodesk Inc
+LLTC,NASDAQ,STOCK,USD,0.01,Linear Technology Corp,Linear Technology Corp
+MCHP,NASDAQ,STOCK,USD,0.01,Microchip Technology Inc,Microchip Technology Inc
+XLNX,NASDAQ,STOCK,USD,0.01,Xilinx Inc,Xilinx Inc
+RHT,NYSE,STOCK,USD,0.01,Red Hat Inc,Red Hat Inc
+STX,NYSE,STOCK,USD,0.01,Seagate Technology,Seagate Technology
+KLAC,NASDAQ,STOCK,USD,0.01,KLA-Tencor Corporation,KLA-Tencor Corporation
+ADS,NYSE,STOCK,USD,0.01,Alliance Data Systems Corp,Alliance Data Systems Corp
+CTL,NYSE,STOCK,USD,0.01,CenturyLink Inc,CenturyLink Inc
+HRS,NYSE,STOCK,USD,0.01,Harris Corp,Harris Corp
+MSI,NYSE,STOCK,USD,0.01,Motorola Solutions Inc,Motorola Solutions Inc
+CTXS,NASDAQ,STOCK,USD,0.01,Citrix Systems Inc,Citrix Systems Inc
+GPN,NYSE,STOCK,USD,0.01,Global Payments Inc,Global Payments Inc
+AKAM,NASDAQ,STOCK,USD,0.01,Akamai Technologies Inc,Akamai Technologies Inc
+NTAP,NASDAQ,STOCK,USD,0.01,NetApp Inc,NetApp Inc
+JNPR,NASDAQ,STOCK,USD,0.01,Juniper Networks Inc,Juniper Networks Inc
+CA,NYSE,STOCK,USD,0.01,CA Inc,CA Inc
+FFIV,NASDAQ,STOCK,USD,0.01,F5 Networks Inc,F5 Networks Inc
+WU,NYSE,STOCK,USD,0.01,Western Union Co,Western Union Co
+TSS,NYSE,STOCK,USD,0.01,Total System Services Inc,Total System Services Inc
+QRVO,NASDAQ,STOCK,USD,0.01,Qorvo Inc,Qorvo Inc
+VRSN,NASDAQ,STOCK,USD,0.01,VeriSign Inc,VeriSign Inc
+XRX,NYSE,STOCK,USD,0.01,Xerox Corp,Xerox Corp
+FLIR,NASDAQ,STOCK,USD,0.01,FLIR Systems Inc,FLIR Systems Inc
+CSRA,NASDAQ,STOCK,USD,0.01,CSRA Inc,CSRA Inc
+TDC,NYSE,STOCK,USD,0.01,Teradata Corp,Teradata Corp
+FTR,NYSE,STOCK,USD,0.01,Frontier Communications Corp,Frontier Communications Corp
+FSLR,NASDAQ,STOCK,USD,0.01,First Solar Inc,First Solar Inc

@@ -1,60 +1,60 @@
-JNJ
-PFE
-MRK
-UNH
-AMGN
-MDT
-ABBV
-AGN
-CELG
-GILD
-BMY
-LLY
-ABT
-TMO
-BIIB
-DHR
-ESRX
-AET
-ANTM
-BDX
-SYK
-CI
-BSX
-HUM
-MCK
-ALXN
-ZTS
-ISRG
-REGN
-CAH
-BAX
-HCA
-ILMN
-ZBH
-VRTX
-EW
-BCR
-MYL
-A
-ABC
-CERN
-LH
-IDXX
-DGX
-XRAY
-HSIC
-MTD
-WAT
-CNC
-PRGO
-HOLX
-UHS
-DVA
-COO
-EVHC
-VAR
-PKI
-MNK
-PDCO
-ENDP
+JNJ,NYSE,STOCK,USD,0.01,Johnson & Johnson,Johnson & Johnson
+PFE,NYSE,STOCK,USD,0.01,Pfizer Inc,Pfizer Inc
+MRK,NYSE,STOCK,USD,0.01,Merck & Co Inc,Merck & Co Inc
+UNH,NYSE,STOCK,USD,0.01,Unitedhealth Group Inc,Unitedhealth Group Inc
+AMGN,NASDAQ,STOCK,USD,0.01,Amgen Inc,Amgen Inc
+MDT,NYSE,STOCK,USD,0.01,Medtronic plc,Medtronic plc
+ABBV,NASDAQ,STOCK,USD,0.01,AbbVie Inc.,AbbVie Inc.
+AGN,NYSE,STOCK,USD,0.01,Allergan plc,Allergan plc
+CELG,NASDAQ,STOCK,USD,0.01,Celgene Corp,Celgene Corp
+GILD,NASDAQ,STOCK,USD,0.01,Gilead Sciences Inc,Gilead Sciences Inc
+BMY,NYSE,STOCK,USD,0.01,Bristol-Myers Squibb,Bristol-Myers Squibb
+LLY,NYSE,STOCK,USD,0.01,Lilly Eli & Co,Lilly Eli & Co
+ABT,NYSE,STOCK,USD,0.01,Abbott Laboratories,Abbott Laboratories
+TMO,NYSE,STOCK,USD,0.01,Thermo Fisher Scientific,Thermo Fisher Scientific
+BIIB,NASDAQ,STOCK,USD,0.01,Biogen Inc,Biogen Inc
+DHR,NYSE,STOCK,USD,0.01,Danaher Corp,Danaher Corp
+ESRX,NASDAQ,STOCK,USD,0.01,Express Scripts Holding Co.,Express Scripts Holding Co.
+AET,NYSE,STOCK,USD,0.01,Aetna Inc,Aetna Inc
+ANTM,NASDAQ,STOCK,USD,0.01,Anthem Inc,Anthem Inc
+BDX,NYSE,STOCK,USD,0.01,Becton Dickinson & Co,Becton Dickinson & Co
+SYK,NYSE,STOCK,USD,0.01,Stryker Corp,Stryker Corp
+CI,NYSE,STOCK,USD,0.01,Cigna Corporation,Cigna Corporation
+BSX,NYSE,STOCK,USD,0.01,Boston Scientific Corp,Boston Scientific Corp
+HUM,NASDAQ,STOCK,USD,0.01,Humana Inc,Humana Inc
+MCK,NYSE,STOCK,USD,0.01,McKesson Corp,McKesson Corp
+ALXN,NYSE,STOCK,USD,0.01,Alexion Pharmaceuticals Inc,Alexion Pharmaceuticals Inc
+ZTS,NYSE,STOCK,USD,0.01,Zoetis Inc,Zoetis Inc
+ISRG,NASDAQ,STOCK,USD,0.01,Intuitive Surgical Inc,Intuitive Surgical Inc
+REGN,NASDAQ,STOCK,USD,0.01,Regeneron Pharmaceuticals Inc,Regeneron Pharmaceuticals Inc
+CAH,NYSE,STOCK,USD,0.01,Cardinal Health Inc,Cardinal Health Inc
+BAX,NYSE,STOCK,USD,0.01,Baxter Intl Inc,Baxter Intl Inc
+HCA,NYSE,STOCK,USD,0.01,HCA Holdings Inc,HCA Holdings Inc
+ILMN,NASDAQ,STOCK,USD,0.01,Illumina Inc,Illumina Inc
+ZBH,NYSE,STOCK,USD,0.01,Zimmer Biomet Holdings Inc,Zimmer Biomet Holdings Inc
+VRTX,NASDAQ,STOCK,USD,0.01,Vertex Pharmaceuticals Inc,Vertex Pharmaceuticals Inc
+EW,NYSE,STOCK,USD,0.01,Edwards Lifesciences Corp,Edwards Lifesciences Corp
+BCR,NYSE,STOCK,USD,0.01,Bard C.R. Inc,Bard C.R. Inc
+MYL,NYSE,STOCK,USD,0.01,Mylan NV,Mylan NV
+A,NYSE,STOCK,USD,0.01,Agilent Technologies Inc,Agilent Technologies Inc
+ABC,NYSE,STOCK,USD,0.01,AmerisourceBergen Corp,AmerisourceBergen Corp
+CERN,NASDAQ,STOCK,USD,0.01,Cerner Corp,Cerner Corp
+LH,NYSE,STOCK,USD,0.01,Lab Corp of America Hldgs,Lab Corp of America Hldgs
+IDXX,NASDAQ,STOCK,USD,0.01,IDEXX Laboratories Inc,IDEXX Laboratories Inc
+DGX,NYSE,STOCK,USD,0.01,Quest Diagnostics,Quest Diagnostics
+XRAY,NASDAQ,STOCK,USD,0.01,Dentsply Sirona Inc.,Dentsply Sirona Inc.
+HSIC,NASDAQ,STOCK,USD,0.01,Schein Henry Inc,Schein Henry Inc
+MTD,NYSE,STOCK,USD,0.01,Mettler-Toledo Intl,Mettler-Toledo Intl
+WAT,NYSE,STOCK,USD,0.01,Waters Corp,Waters Corp
+CNC,NYSE,STOCK,USD,0.01,Centene Corp,Centene Corp
+PRGO,NASDAQ,STOCK,USD,0.01,Perrigo Company plc,Perrigo Company plc
+HOLX,NASDAQ,STOCK,USD,0.01,Hologic Inc,Hologic Inc
+UHS,NYSE,STOCK,USD,0.01,Universal Health Services B,Universal Health Services B
+DVA,NYSE,STOCK,USD,0.01,DaVita Inc,DaVita Inc
+COO,NYSE,STOCK,USD,0.01,Cooper Companies Inc,Cooper Companies Inc
+EVHC,NASDAQ,STOCK,USD,0.01,Envision Healthcare Corp,Envision Healthcare Corp
+VAR,NYSE,STOCK,USD,0.01,Varian Medical Systems Inc,Varian Medical Systems Inc
+PKI,NYSE,STOCK,USD,0.01,PerkinElmer Inc,PerkinElmer Inc
+MNK,NYSE,STOCK,USD,0.01,Mallinckrodt plc,Mallinckrodt plc
+PDCO,NASDAQ,STOCK,USD,0.01,Patterson Cos Inc,Patterson Cos Inc
+ENDP,NASDAQ,STOCK,USD,0.01,Endo International plc,Endo International plc

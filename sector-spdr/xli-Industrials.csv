@@ -1,69 +1,69 @@
-GE
-MMM
-BA
-HON
-UNP
-UTX
-UPS
-LMT
-CAT
-GD
-CSX
-FDX
-RTN
-NOC
-EMR
-ITW
-CMI
-NSC
-ETN
-JCI
-LUV
-DAL
-DE
-WM
-PCAR
-PH
-ROK
-AAL
-EFX
-IR
-UAL
-ROP
-FTV
-SWK
-GWW
-TXT
-COL
-DOV
-NLSN
-FAST
-RSG
-VRSK
-ARNC
-TDG
-LLL
-AME
-MAS
-CTAS
-ALK
-FLR
-CHRW
-URI
-EXPD
-PNR
-SNA
-AYI
-KSU
-JBHT
-FBHS
-RHI
-XYL
-R
-JEC
-ALLE
-FLS
-SRCL
-PWR
-DNB
-PBI
+GE,NYSE,STOCK,USD,0.01,General Electric Co,General Electric Co
+MMM,NYSE,STOCK,USD,0.01,3M Co,3M Co
+BA,NYSE,STOCK,USD,0.01,Boeing Co,Boeing Co
+HON,NYSE,STOCK,USD,0.01,Honeywell Intl Inc,Honeywell Intl Inc
+UNP,NYSE,STOCK,USD,0.01,Union Pacific Corp,Union Pacific Corp
+UTX,NYSE,STOCK,USD,0.01,United Technologies Corp,United Technologies Corp
+UPS,NYSE,STOCK,USD,0.01,United Parcel Service Inc B,United Parcel Service Inc B
+LMT,NYSE,STOCK,USD,0.01,Lockheed Martin,Lockheed Martin
+CAT,NYSE,STOCK,USD,0.01,Caterpillar Inc,Caterpillar Inc
+GD,NYSE,STOCK,USD,0.01,General Dynamics,General Dynamics
+CSX,NYSE,STOCK,USD,0.01,CSX Corporation,CSX Corporation
+FDX,NYSE,STOCK,USD,0.01,FedEx Corp,FedEx Corp
+RTN,NYSE,STOCK,USD,0.01,Raytheon Co,Raytheon Co
+NOC,NYSE,STOCK,USD,0.01,Northrop Grumman Corp,Northrop Grumman Corp
+EMR,NYSE,STOCK,USD,0.01,Emerson Electric Co,Emerson Electric Co
+ITW,NYSE,STOCK,USD,0.01,Illinois Tool Works Inc,Illinois Tool Works Inc
+CMI,NYSE,STOCK,USD,0.01,Cummins Inc,Cummins Inc
+NSC,NYSE,STOCK,USD,0.01,Norfolk Southern Corp,Norfolk Southern Corp
+ETN,NYSE,STOCK,USD,0.01,Eaton Corp plc,Eaton Corp plc
+JCI,NYSE,STOCK,USD,0.01,Johnson Controls International plc,Johnson Controls International plc
+LUV,NYSE,STOCK,USD,0.01,Southwest Airlines Co,Southwest Airlines Co
+DAL,NYSE,STOCK,USD,0.01,Delta Air Lines,Delta Air Lines
+DE,NYSE,STOCK,USD,0.01,Deere & Co,Deere & Co
+WM,NYSE,STOCK,USD,0.01,Waste Management Inc,Waste Management Inc
+PCAR,NASDAQ,STOCK,USD,0.01,PACCAR Inc,PACCAR Inc
+PH,NYSE,STOCK,USD,0.01,Parker-Hannifin Corp,Parker-Hannifin Corp
+ROK,NYSE,STOCK,USD,0.01,Rockwell Automation Inc,Rockwell Automation Inc
+AAL,NYSE,STOCK,USD,0.01,American Airlines Group Inc.,American Airlines Group Inc.
+EFX,NYSE,STOCK,USD,0.01,Equifax Inc,Equifax Inc
+IR,NYSE,STOCK,USD,0.01,Ingersoll-Rand Plc,Ingersoll-Rand Plc
+UAL,NYSE,STOCK,USD,0.01,United Continental Holding Inc,United Continental Holding Inc
+ROP,NYSE,STOCK,USD,0.01,"Roper Technologies Inc","Roper Technologies Inc"
+FTV,NYSE,STOCK,USD,0.01,Fortive Corp,Fortive Corp
+SWK,NYSE,STOCK,USD,0.01,Stanley Black & Decker,Stanley Black & Decker
+GWW,NYSE,STOCK,USD,0.01,Grainger W.W. Inc,Grainger W.W. Inc
+TXT,NYSE,STOCK,USD,0.01,Textron Inc,Textron Inc
+COL,NYSE,STOCK,USD,0.01,Rockwell Collins,Rockwell Collins
+DOV,NYSE,STOCK,USD,0.01,Dover Corp,Dover Corp
+NLSN,NASDAQ,STOCK,USD,0.01,Nielsen Holdings plc,Nielsen Holdings plc
+FAST,NYSE,STOCK,USD,0.01,Fastenal Co,Fastenal Co
+RSG,NYSE,STOCK,USD,0.01,Republic Services Inc,Republic Services Inc
+VRSK,NASDAQ,STOCK,USD,0.01,Verisk Analytics Inc,Verisk Analytics Inc
+ARNC,NASDAQ,STOCK,USD,0.01,Arconic Inc,Arconic Inc
+TDG,NYSE,STOCK,USD,0.01,TransDigm Group,TransDigm Group
+LLL,NASDAQ,STOCK,USD,0.01,"L3 Technologies Inc","L3 Technologies Inc"
+AME,NASDAQ,STOCK,USD,0.01,AMETEK Inc,AMETEK Inc
+MAS,NYSE,STOCK,USD,0.01,Masco Corp,Masco Corp
+CTAS,NASDAQ,STOCK,USD,0.01,Cintas Corp,Cintas Corp
+ALK,NYSE,STOCK,USD,0.01,Alaska Air Group Inc,Alaska Air Group Inc
+FLR,NYSE,STOCK,USD,0.01,Fluor Corp,Fluor Corp
+CHRW,NASDAQ,STOCK,USD,0.01,CH Robinson Worldwide Inc,CH Robinson Worldwide Inc
+URI,NYSE,STOCK,USD,0.01,United Rentals Inc,United Rentals Inc
+EXPD,NASDAQ,STOCK,USD,0.01,Expeditors Intl of WA Inc,Expeditors Intl of WA Inc
+PNR,NYSE,STOCK,USD,0.01,Pentair PLC,Pentair PLC
+SNA,NYSE,STOCK,USD,0.01,Snap On Inc,Snap On Inc
+AYI,NYSE,STOCK,USD,0.01,Acuity Brands Inc,Acuity Brands Inc
+KSU,NYSE,STOCK,USD,0.01,Kansas City Southern Inc,Kansas City Southern Inc
+JBHT,NASDAQ,STOCK,USD,0.01,Hunt J.B. Transport Services,Hunt J.B. Transport Services
+FBHS,NASDAQ,STOCK,USD,0.01,Fortune Brands Home & Security Inc,Fortune Brands Home & Security Inc
+RHI,NYSE,STOCK,USD,0.01,Robert Half Intl Inc,Robert Half Intl Inc
+XYL,NYSE,STOCK,USD,0.01,Xylem Inc,Xylem Inc
+R,NYSE,STOCK,USD,0.01,Ryder System Inc,Ryder System Inc
+JEC,NYSE,STOCK,USD,0.01,Jacobs Engineering Group Inc,Jacobs Engineering Group Inc
+ALLE,NASDAQ,STOCK,USD,0.01,Allegion plc,Allegion plc
+FLS,NYSE,STOCK,USD,0.01,Flowserve Corp,Flowserve Corp
+SRCL,NASDAQ,STOCK,USD,0.01,Stericycle Inc,Stericycle Inc
+PWR,NYSE,STOCK,USD,0.01,Quanta Services Inc,Quanta Services Inc
+DNB,NYSE,STOCK,USD,0.01,Dun & Bradstreet Corp,Dun & Bradstreet Corp
+PBI,NYSE,STOCK,USD,0.01,Pitney Bowes Inc,Pitney Bowes Inc

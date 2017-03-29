@@ -1,86 +1,86 @@
-AMZN
-CMCSA
-HD
-DIS
-MCD
-SBUX
-PCLN
-NKE
-TWX
-CHTR
-LOW
-NFLX
-TJX
-F
-GM
-TGT
-FOXA
-MAR
-ROST
-ORLY
-CBS
-CCL
-YUM
-NWL
-AZO
-DLPH
-OMC
-DG
-DLTR
-VFC
-RCL
-ULTA
-VIAB
-EXPE
-GPC
-FOX
-LB
-MHK
-WHR
-KMX
-BBY
-AAP
-CMG
-HAS
-COH
-DHI
-HOG
-M
-TSCO
-IPG
-FL
-LKQ
-DRI
-LEN
-GT
-MAT
-TIF
-WYN
-BWA
-HAR
-WYNN
-HBI
-KSS
-SNI
-PVH
-LEG
-KORS
-PHM
-BBBY
-DISCK
-SPLS
-TRIP
-GRMN
-GPS
-JWN
-NWSA
-TGNA
-SIG
-DISCA
-HRB
-RL
-UAA
-UA
-AN
-URBN
-NWS
+AMZN,NASDAQ,STOCK,USD,0.01,Amazon.com Inc,Amazon.com Inc
+CMCSA,NASDAQ,STOCK,USD,0.01,Comcast Corp A,Comcast Corp A
+HD,NYSE,STOCK,USD,0.01,Home Depot Inc,Home Depot Inc
+DIS,NYSE,STOCK,USD,0.01,Walt Disney Co,Walt Disney Co
+MCD,NYSE,STOCK,USD,0.01,McDonald's Corp,McDonald's Corp
+SBUX,NASDAQ,STOCK,USD,0.01,Starbucks Corp,Starbucks Corp
+PCLN,NASDAQ,STOCK,USD,0.01,The Priceline Group Inc,The Priceline Group Inc
+NKE,NYSE,STOCK,USD,0.01,NIKE Inc B,NIKE Inc B
+TWX,NYSE,STOCK,USD,0.01,Time Warner Inc,Time Warner Inc
+CHTR,NASDAQ,STOCK,USD,0.01,Charter Communications Inc A,Charter Communications Inc A
+LOW,NYSE,STOCK,USD,0.01,Lowe's Cos Inc,Lowe's Cos Inc
+NFLX,NASDAQ,STOCK,USD,0.01,NetFlix Inc,NetFlix Inc
+TJX,NYSE,STOCK,USD,0.01,TJX Cos Inc,TJX Cos Inc
+F,NYSE,STOCK,USD,0.01,Ford Motor Co,Ford Motor Co
+GM,NYSE,STOCK,USD,0.01,General Motors Company,General Motors Company
+TGT,NYSE,STOCK,USD,0.01,Target Corp,Target Corp
+FOXA,NASDAQ,STOCK,USD,0.01,Twenty-First Century Fox Inc A,Twenty-First Century Fox Inc A
+MAR,NYSE,STOCK,USD,0.01,Marriott Intl A,Marriott Intl A
+ROST,NASDAQ,STOCK,USD,0.01,Ross Stores Inc,Ross Stores Inc
+ORLY,NASDAQ,STOCK,USD,0.01,O'Reilly Automotive,O'Reilly Automotive
+CBS,NYSE,STOCK,USD,0.01,CBS Corp B,CBS Corp B
+CCL,NYSE,STOCK,USD,0.01,Carnival Corp,Carnival Corp
+YUM,NYSE,STOCK,USD,0.01,Yum! Brands Inc,Yum! Brands Inc
+NWL,NASDAQ,STOCK,USD,0.01,Newell Brands Inc,Newell Brands Inc
+AZO,NYSE,STOCK,USD,0.01,AutoZone Inc,AutoZone Inc
+DLPH,NASDAQ,STOCK,USD,0.01,Delphi Automotive PLC,Delphi Automotive PLC
+OMC,NYSE,STOCK,USD,0.01,Omnicom Group,Omnicom Group
+DG,NYSE,STOCK,USD,0.01,Dollar General Corp,Dollar General Corp
+DLTR,NASDAQ,STOCK,USD,0.01,Dollar Tree Inc,Dollar Tree Inc
+VFC,NYSE,STOCK,USD,0.01,VF Corp,VF Corp
+RCL,NYSE,STOCK,USD,0.01,Royal Caribbean Cruises Ltd,Royal Caribbean Cruises Ltd
+ULTA,NASDAQ,STOCK,USD,0.01,Ulta Beauty Inc,Ulta Beauty Inc
+VIAB,NASDAQ,STOCK,USD,0.01,Viacom Inc B,Viacom Inc B
+EXPE,NASDAQ,STOCK,USD,0.01,Expedia,Expedia
+GPC,NYSE,STOCK,USD,0.01,Genuine Parts Co,Genuine Parts Co
+FOX,NYSE,STOCK,USD,0.01,Twenty-First Century Fox Inc B,Twenty-First Century Fox Inc B
+LB,NYSE,STOCK,USD,0.01,L Brands Inc,L Brands Inc
+MHK,NYSE,STOCK,USD,0.01,Mohawk Industries Inc,Mohawk Industries Inc
+WHR,NYSE,STOCK,USD,0.01,Whirlpool Corp,Whirlpool Corp
+KMX,NYSE,STOCK,USD,0.01,Carmax Inc,Carmax Inc
+BBY,NYSE,STOCK,USD,0.01,Best Buy Co Inc,Best Buy Co Inc
+AAP,NYSE,STOCK,USD,0.01,Advance Auto Parts Inc,Advance Auto Parts Inc
+CMG,NYSE,STOCK,USD,0.01,Chipotle Mexican Grill Inc.,Chipotle Mexican Grill Inc.
+HAS,NYSE,STOCK,USD,0.01,Hasbro Inc,Hasbro Inc
+COH,NYSE,STOCK,USD,0.01,Coach Inc,Coach Inc
+DHI,NYSE,STOCK,USD,0.01,Horton D.R. Inc,Horton D.R. Inc
+HOG,NYSE,STOCK,USD,0.01,Harley-Davidson Inc,Harley-Davidson Inc
+M,NYSE,STOCK,USD,0.01,Macy's Inc,Macy's Inc
+TSCO,NASDAQ,STOCK,USD,0.01,Tractor Supply Co,Tractor Supply Co
+IPG,NYSE,STOCK,USD,0.01,Interpublic Group Cos,Interpublic Group Cos
+FL,NYSE,STOCK,USD,0.01,Foot Locker Inc,Foot Locker Inc
+LKQ,NYSE,STOCK,USD,0.01,LKQ Corp,LKQ Corp
+DRI,NYSE,STOCK,USD,0.01,Darden Restaurants Inc,Darden Restaurants Inc
+LEN,NYSE,STOCK,USD,0.01,Lennar Corp A,Lennar Corp A
+GT,NYSE,STOCK,USD,0.01,Goodyear Tire & Rubber Co,Goodyear Tire & Rubber Co
+MAT,NYSE,STOCK,USD,0.01,Mattel Inc,Mattel Inc
+TIF,NYSE,STOCK,USD,0.01,Tiffany & Co,Tiffany & Co
+WYN,NYSE,STOCK,USD,0.01,Wyndham Worldwide Corp,Wyndham Worldwide Corp
+BWA,NYSE,STOCK,USD,0.01,Borgwarner Inc,Borgwarner Inc
+HAR,NYSE,STOCK,USD,0.01,Harman Intl Industries Inc,Harman Intl Industries Inc
+WYNN,NASDAQ,STOCK,USD,0.01,Wynn Resorts Ltd,Wynn Resorts Ltd
+HBI,NYSE,STOCK,USD,0.01,Hanesbrands Inc,Hanesbrands Inc
+KSS,NYSE,STOCK,USD,0.01,Kohl's Corp,Kohl's Corp
+SNI,NYSE,STOCK,USD,0.01,Scripps Networks Interactive A,Scripps Networks Interactive A
+PVH,NYSE,STOCK,USD,0.01,PVH Corp,PVH Corp
+LEG,NYSE,STOCK,USD,0.01,Leggett & Platt,Leggett & Platt
+KORS,NASDAQ,STOCK,USD,0.01,Michael Kors Holdings Ltd,Michael Kors Holdings Ltd
+PHM,NYSE,STOCK,USD,0.01,Pulte Group Inc,Pulte Group Inc
+BBBY,NASDAQ,STOCK,USD,0.01,Bed Bath & Beyond Inc,Bed Bath & Beyond Inc
+DISCK,NASDAQ,STOCK,USD,0.01,Discovery Communications Inc C,Discovery Communications Inc C
+SPLS,NASDAQ,STOCK,USD,0.01,Staples Inc,Staples Inc
+TRIP,NASDAQ,STOCK,USD,0.01,TripAdvisor Inc. A,TripAdvisor Inc. A
+GRMN,NASDAQ,STOCK,USD,0.01,Garmin Ltd,Garmin Ltd
+GPS,NYSE,STOCK,USD,0.01,Gap Inc,Gap Inc
+JWN,NYSE,STOCK,USD,0.01,Nordstrom Inc,Nordstrom Inc
+NWSA,NASDAQ,STOCK,USD,0.01,News Corp A,News Corp A
+TGNA,NASDAQ,STOCK,USD,0.01,TEGNA Inc,TEGNA Inc
+SIG,NYSE,STOCK,USD,0.01,Signet Jewelers Ltd,Signet Jewelers Ltd
+DISCA,NASDAQ,STOCK,USD,0.01,Discovery Communications Inc A,Discovery Communications Inc A
+HRB,NYSE,STOCK,USD,0.01,Block H & R Inc,Block H & R Inc
+RL,NYSE,STOCK,USD,0.01,Ralph Lauren Corp A,Ralph Lauren Corp A
+UAA,NYSE,STOCK,USD,0.01,Under Armour Inc A,Under Armour Inc A
+UA,NYSE,STOCK,USD,0.01,Under Armour Inc-C,Under Armour Inc-C
+AN,NYSE,STOCK,USD,0.01,AutoNation Inc,AutoNation Inc
+URBN,NASDAQ,STOCK,USD,0.01,Urban Outfitters,Urban Outfitters
+NWS,NYSE,STOCK,USD,0.01,News Corp B,News Corp B

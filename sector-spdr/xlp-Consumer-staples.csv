@@ -1,37 +1,37 @@
-PG
-PM
-KO
-MO
-WMT
-PEP
-CVS
-COST
-WBA
-MDLZ
-CL
-RAI
-KHC
-KMB
-STZ
-GIS
-KR
-SYY
-ADM
-TSN
-TAP
-K
-EL
-MNST
-DPS
-CLX
-SJM
-CAG
-MJN
-HSY
-CPB
-HRL
-MKC
-CHD
-WFM
-BF.b
-COTY
+PG,NYSE,STOCK,USD,0.01,Procter & Gamble,Procter & Gamble
+PM,NYSE,STOCK,USD,0.01,Philip Morris International,Philip Morris International
+KO,NYSE,STOCK,USD,0.01,Coca-Cola Co,Coca-Cola Co
+MO,NYSE,STOCK,USD,0.01,Altria Group Inc,Altria Group Inc
+WMT,NYSE,STOCK,USD,0.01,Wal-Mart Stores,Wal-Mart Stores
+PEP,NYSE,STOCK,USD,0.01,PepsiCo Inc,PepsiCo Inc
+CVS,NYSE,STOCK,USD,0.01,CVS Health Corporation,CVS Health Corporation
+COST,NASDAQ,STOCK,USD,0.01,Costco Wholesale Corp,Costco Wholesale Corp
+WBA,NYSE,STOCK,USD,0.01,Walgreens Boots Alliance Inc,Walgreens Boots Alliance Inc
+MDLZ,NASDAQ,STOCK,USD,0.01,Mondelez International Inc,Mondelez International Inc
+CL,NYSE,STOCK,USD,0.01,Colgate-Palmolive Co,Colgate-Palmolive Co
+RAI,NYSE,STOCK,USD,0.01,Reynolds American Inc,Reynolds American Inc
+KHC,NYSE,STOCK,USD,0.01,The Kraft Heinz Company,The Kraft Heinz Company
+KMB,NYSE,STOCK,USD,0.01,Kimberly-Clark,Kimberly-Clark
+STZ,NYSE,STOCK,USD,0.01,Constellation Brands Inc A,Constellation Brands Inc A
+GIS,NYSE,STOCK,USD,0.01,General Mills Inc,General Mills Inc
+KR,NYSE,STOCK,USD,0.01,Kroger Co,Kroger Co
+SYY,NYSE,STOCK,USD,0.01,Sysco Corp,Sysco Corp
+ADM,NYSE,STOCK,USD,0.01,Archer-Daniels-Midland Co,Archer-Daniels-Midland Co
+TSN,NYSE,STOCK,USD,0.01,Tyson Foods Inc A,Tyson Foods Inc A
+TAP,NYSE,STOCK,USD,0.01,Molson Coors Brewing Co B,Molson Coors Brewing Co B
+K,NYSE,STOCK,USD,0.01,Kellogg Co,Kellogg Co
+EL,NYSE,STOCK,USD,0.01,Estee Lauder Cos. A,Estee Lauder Cos. A
+MNST,NASDAQ,STOCK,USD,0.01,Monster Beverage Corp New,Monster Beverage Corp New
+DPS,NYSE,STOCK,USD,0.01,Dr Pepper Snapple Group,Dr Pepper Snapple Group
+CLX,NYSE,STOCK,USD,0.01,Clorox Co,Clorox Co
+SJM,NYSE,STOCK,USD,0.01,Smucker J.M. Co,Smucker J.M. Co
+CAG,NYSE,STOCK,USD,0.01,"Conagra Brands, Inc","Conagra Brands, Inc"
+MJN,NYSE,STOCK,USD,0.01,Mead Johnson Nutrition Co,Mead Johnson Nutrition Co
+HSY,NYSE,STOCK,USD,0.01,Hershey Foods Corp,Hershey Foods Corp
+CPB,NYSE,STOCK,USD,0.01,Campbell Soup Co,Campbell Soup Co
+HRL,NYSE,STOCK,USD,0.01,Hormel Foods Corp,Hormel Foods Corp
+MKC,NYSE,STOCK,USD,0.01,McCormick & Co,McCormick & Co
+CHD,NYSE,STOCK,USD,0.01,Church & Dwight Co,Church & Dwight Co
+WFM,NYSE,STOCK,USD,0.01,Whole Foods Market Inc,Whole Foods Market Inc
+BF.b,NYSE,STOCK,USD,0.01,Brown-Forman Corp B,Brown-Forman Corp B
+COTY,NYSE,STOCK,USD,0.01,Coty Inc.,Coty Inc.
