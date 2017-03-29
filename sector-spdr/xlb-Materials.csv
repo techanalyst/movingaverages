@@ -1,27 +1,26 @@
-Symbol
-XLB
-DOW
-DD
-MON
-PX
-ECL
-APD
-LYB
-PPG
-SHW
-IP
-FCX
-NEM
-NUE
-VMC
-MLM
-WRK
-BLL
-EMN
-MOS
-ALB
-IFF
-SEE
-CF
-FMC
-AVY
+XLB,NYSE,STOCK,USD,0.01,Materials Select Sector SPDR,Materials Select Sector SPDR
+DOW,NYSE,STOCK,USD,0.01,The Dow Chemical Company,The Dow Chemical Company
+DD,NYSE,STOCK,USD,0.01,E. I. du Pont de Nemours and Company,E. I. du Pont de Nemours and Company
+MON,NYSE,STOCK,USD,0.01,Monsanto Company,Monsanto Company
+PX,NYSE,STOCK,USD,0.01,"Praxair, Inc.","Praxair, Inc."
+ECL,NYSE,STOCK,USD,0.01,Ecolab Inc.,Ecolab Inc.
+APD,NYSE,STOCK,USD,0.01,"Air Products and Chemicals, Inc.","Air Products and Chemicals, Inc."
+LYB,NYSE,STOCK,USD,0.01,LyondellBasell Industries N.V.,LyondellBasell Industries N.V.
+PPG,NYSE,STOCK,USD,0.01,"PPG Industries, Inc.","PPG Industries, Inc."
+SHW,NYSE,STOCK,USD,0.01,The Sherwin-Williams Company,The Sherwin-Williams Company
+IP,NYSE,STOCK,USD,0.01,International Paper Company,International Paper Company
+FCX,NYSE,STOCK,USD,0.01,Freeport-McMoRan Inc.,Freeport-McMoRan Inc.
+NEM,NYSE,STOCK,USD,0.01,Newmont Mining Corporation,Newmont Mining Corporation
+NUE,NYSE,STOCK,USD,0.01,Nucor Corp,Nucor Corp
+VMC,NYSE,STOCK,USD,0.01,Vulcan Materials Co,Vulcan Materials Co
+MLM,NYSE,STOCK,USD,0.01,Martin Marietta Materials,Martin Marietta Materials
+WRK,NYSE,STOCK,USD,0.01,WestRock Co,WestRock Co
+BLL,NYSE,STOCK,USD,0.01,Ball Corp,Ball Corp
+EMN,NYSE,STOCK,USD,0.01,Eastman Chemical Co,Eastman Chemical Co
+MOS,NYSE,STOCK,USD,0.01,Mosaic Co,Mosaic Co
+ALB,NYSE,STOCK,USD,0.01,Albemarle Corp,Albemarle Corp
+IFF,NYSE,STOCK,USD,0.01,Intl Flavors & Fragrances,Intl Flavors & Fragrances
+SEE,NYSE,STOCK,USD,0.01,Sealed Air Corp,Sealed Air Corp
+CF,NYSE,STOCK,USD,0.01,CF Industries Holdings,CF Industries Holdings
+FMC,NYSE,STOCK,USD,0.01,FMC Corp,FMC Corp
+AVY,NYSE,STOCK,USD,0.01,Avery Dennison Corp,Avery Dennison Corp
