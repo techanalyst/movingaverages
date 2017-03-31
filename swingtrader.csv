@@ -1,51 +1,50 @@
-SYMBOL COMPANY NAME       ENTRY  EXIT   ENTRY PRICE    EXIT PRICE % GAIN/LOSS
-PRI     Primerica         01/13/2017 01/17/2017 $74.96 $73.00 2.61%
-ANET    Arista Networks   01/04/2017 01/11/2017 $100.63    $98.79 1.83%
-STLD   Steel Dynamics     01/04/2017 01/09/2017 $37.46 $36.22 3.31%
-KLXI   KLX                01/03/2017 01/06/2017 $46.63 $45.98 1.39%
-BURL   Burlington Stores  01/04/2017 01/05/2017 $86.89 $84.37 2.9%
-SPXU   ProUSSP500         12/28/2016 01/04/2017 $20.20 $19.61 2.92%
-AVGO   Broadcom           12/20/2016 12/28/2016 $182.63    $181.54    0.6%
-NFLX   Netflix            12/06/2016 12/28/2016 $122.56    $127.33    3.89%
-AKAM   Akamai Tech        12/14/2016 12/28/2016 $68.13 $67.28 1.25%
-Z      Zillow C           12/15/2016 12/22/2016 $38.43 $37.07 3.54%
-NVDA   Nvidia Corp        12/14/2016 12/22/2016 $96.64 $104.82    8.46%
-KMT    Kennametal         12/20/2016 12/22/2016 $33.51 $32.40 3.31%
-ANET   Arista Networks    12/07/2016 12/09/2016 $97.25 $94.24 3.1%
-AMD    Advanced Micro      12/06/2016 12/07/2016 $9.25  $9.39  1.51%
-TTWO   Take-Two Interactv  11/17/2016 12/01/2016 $48.03 $49.31 2.67%
-RS     Reliance Steel Alum    11/22/2016 11/30/2016 $81.19 $81.34 0.18%
-MTCH   Match  11/29/2016 11/30/2016 $18.45 $17.60 4.61%
-VMC    Vulcan Materials   11/25/2016 11/28/2016 $131.77    $127.58    3.18%
-FCX    Freeport-McMoRan   11/21/2016 11/23/2016 $14.45 $15.65 8.3%
-SYMC   Symantec Corp      11/02/2016 11/21/2016 $25.30 $24.63 2.65%
-ANET   Arista Networks    11/07/2016 11/18/2016 $84.89 $89.32 5.22%
-AMD    Advanced Micro         11/16/2016 11/17/2016 $7.52  $8.10  7.71%
-AVGO   Broadcom               11/07/2016 11/09/2016 $176.98    $173.31    2.07%
-VMW        Vmware A           10/24/2016 11/03/2016 $73.84 $77.73 5.27%
-PAYC   Paycom Software        10/24/2016 10/27/2016 $51.51 $50.68 1.61%
-ATVI   Activision Blizzard    10/14/2016 10/26/2016 $44.07 $44.56 1.11%
-PRAH   PRA Health Sciences    10/18/2016 10/25/2016 $55.34 $56.20 1.55%
-BPOP   Popular    10/05/2016 10/11/2016 $38.55 $37.32 3.19%
-ZBH        Zimmer Biomet Holdi    09/30/2016 10/11/2016 $130.27    $125.87    3.38%
-VIPS   Vipshop                09/22/2016 10/07/2016 $14.99 $15.49 3.34%
-OC     Owens Corning      10/06/2016 10/07/2016 $54.82 $53.32 2.74%
-SYNA(S)    Synaptics          09/29/2016 09/30/2016 $55.17 $57.15 3.59%
-NCLH(S)    Norwegian Cruise Line  09/26/2016 09/27/2016 $36.46 $37.62 3.18%
-TYL        Tyler Tech 09/15/2016 09/26/2016 $170.95    $170.97    0.01%
-ETSY   Etsy   09/23/2016 09/26/2016 $14.87 $14.99 0.81%
-TEAM   Atlassian A    09/21/2016 09/23/2016 $31.17 $30.71 1.48%
-SWN        Southwestern Energy    09/08/2016 09/12/2016 $15.05 $14.44 4.05%
-TPX        Tempur Sealy   09/06/2016 09/09/2016 $80.12 $77.24 3.59%
-MLNX(S)    Mellanox Tech  09/07/2016 09/09/2016 $43.33 $41.16 5.01%
-AMZN   Amazon.com 09/06/2016 09/09/2016 $786.27    $770.21    2.04%
-STX        Seagate Tech   08/26/2016 09/07/2016 $33.28 $36.04 8.29%
-DPZ        Domino's Pizza 08/18/2016 08/26/2016 $147.06    $147.57    0.35%
-KEX(S)     Kirby Corp     08/24/2016 08/26/2016 $54.49 $51.77 4.99%
-COHR   Coherent   08/09/2016 08/24/2016 $107.84    $109.82    1.84%
-PRAH   PRA Health Sciences    08/15/2016 08/24/2016 $50.97 $51.25 0.55%
-AMGN   Amgen  08/18/2016 08/19/2016 $175.47    $173.77    0.97%
-DY     Dycom  08/04/2016 08/10/2016 $91.31 $94.19 3.15%
-ABMD   Abiomed    07/29/2016 08/09/2016 $117.55    $123.48    5.04%
-LPX    Louisiana Pacific Corp 08/04/2016 08/08/2016 $20.43 $19.88 2.69%
-HA     Hawaiian   07/22/2016 08/02/2016 $45.70 $43.92 3.89%
+PRI
+ANET
+STLD
+KLXI
+BURL
+SPXU
+AVGO
+NFLX
+AKAM
+Z
+NVDA
+KMT
+ANET
+AMD
+TTWO
+RS
+MTCH
+VMC
+FCX
+SYMC
+ANET
+AMD
+AVGO
+VMW
+PAYC
+ATVI
+PRAH
+BPOP
+ZBH
+VIPS
+OC
+SYNA
+NCLH
+TYL
+ETSY
+TEAM
+SWN
+TPX
+MLNX
+AMZN
+STX
+DPZ
+KEX
+COHR
+PRAH
+AMGN
+DY
+ABMD
+LPX
+HA

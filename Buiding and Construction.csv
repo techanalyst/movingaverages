@@ -1,26 +1,25 @@
-
-MTZ
-FLR
-JEC
-GVA
-PWR
-MLM
-VMC
-THO
-TREX
-EXP
-APOG
-CSTM
-GSM
-CRS
-USAP
-ATI
-X
-AKS
-STLD
-NUE
-CMC
-CAT
-DE
-GE
-MT
+MTZ,NYSE,STOCK,USD,0.01,MasTec,MasTec
+FLR,NYSE,STOCK,USD,0.01,Fluor Corporation Common Stock ,Fluor Corporation Common Stock 
+JEC,NYSE,STOCK,USD,0.01,Jacobs Engineering Group Inc. Commo,Jacobs Engineering Group Inc. Commo
+GVA,NYSE,STOCK,USD,0.01,Granite Construction Incorporated C,Granite Construction Incorporated C
+PWR,NYSE,STOCK,USD,0.01,Quanta Services,Quanta Services
+MLM,NYSE,STOCK,USD,0.01,Martin Marietta Materials,Martin Marietta Materials
+VMC,NYSE,STOCK,USD,0.01,Vulcan Materials Company ,Vulcan Materials Company 
+THO,NYSE,STOCK,USD,0.01,Thor Industries,Thor Industries
+TREX,NYSE,STOCK,USD,0.01,Trex Company,Trex Company
+EXP,NYSE,STOCK,USD,0.01,Eagle Materials Inc Common Stock ,Eagle Materials Inc Common Stock 
+APOG,NASDAQ,STOCK,USD,0.01,Apogee Enterprises,Apogee Enterprises
+CSTM,NYSE,STOCK,USD,0.01,Constellium N.V. Ordinary Shares ,Constellium N.V. Ordinary Shares 
+GSM,NASDAQ,STOCK,USD,0.01,Ferroglobe PLC Ordinary Shares ,Ferroglobe PLC Ordinary Shares 
+CRS,NYSE,STOCK,USD,0.01,Carpenter Technology Corporation Co,Carpenter Technology Corporation Co
+USAP,NASDAQ,STOCK,USD,0.01,Universal Stainless ,Universal Stainless 
+ATI,NYSE,STOCK,USD,0.01,Allegheny Technologies Incorporated,Allegheny Technologies Incorporated
+X,NYSE,STOCK,USD,0.01,United States Steel Corporation Com,United States Steel Corporation Com
+AKS,NYSE,STOCK,USD,0.01,AK Steel Holding Corporation Common,AK Steel Holding Corporation Common
+STLD,NASDAQ,STOCK,USD,0.01,Steel Dynamics,Steel Dynamics
+NUE,NYSE,STOCK,USD,0.01,Nucor Corporation Common Stock ,Nucor Corporation Common Stock 
+CMC,NYSE,STOCK,USD,0.01,Commercial Metals Company Common St,Commercial Metals Company Common St
+CAT,NYSE,STOCK,USD,0.01,Caterpillar,Caterpillar
+DE,NYSE,STOCK,USD,0.01,Deere ,Deere 
+GE,NYSE,STOCK,USD,0.01,General Electric Company Common Sto,General Electric Company Common Sto
+MT,NYSE,STOCK,USD,0.01,Arcelor Mittal NY Registry Shares N,Arcelor Mittal NY Registry Shares N

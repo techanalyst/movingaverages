@@ -1,79 +1,76 @@
-DW
-HIW
-CTXS
-LII
-SHW
-MO
-TSE
-BIG
-GEO
-KORS
-MAS
-NTT
-TTC
-KEP
-NWN
-PZZA
-A
-WR
-CW
-HA
-ABX
-SYY
-CAG
-CPS
-NI
-BWXT
-EIX
-ITW
-PPS
-VLRS
-BAX
-KMB
-PEP
-AFG
-NFX
-HDS
-PPG
-RS
-SNA
-CVG
-PKX
-JBHT
-CMC
-ORCL
-WYN
-ACXM
-PM
-APA
-AGO
-CVX
-DF
-SPR
-NCR
-DAL
-EOCC
-EQR
-LEA
-MSM
-GRA
-PINC
-GILD
-KT
-CCL
-IX
-AIT
-Q
-MSI
-QCOM
-DRI
-GT
-VC
-AMG
-MYGN
-HPQ
-TSRA
-FSLR
-EXPR
-SOHU
-SHY
+HIW,NYSE,STOCK,USD,0.01,Highwoods Properties,Highwoods Properties
+CTXS,NASDAQ,STOCK,USD,0.01,Citrix Systems,Citrix Systems
+LII,NYSE,STOCK,USD,0.01,Lennox International,Lennox International
+SHW,NYSE,STOCK,USD,0.01,Sherwin-Williams Company  Comm,Sherwin-Williams Company  Comm
+MO,NYSE,STOCK,USD,0.01,Altria Group,Altria Group
+TSE,NYSE,STOCK,USD,0.01,Trinseo S.A. Ordinary Shares ,Trinseo S.A. Ordinary Shares 
+BIG,NYSE,STOCK,USD,0.01,Big Lots,Big Lots
+GEO,NYSE,STOCK,USD,0.01,Geo Group Inc  REIT ,Geo Group Inc  REIT 
+KORS,NYSE,STOCK,USD,0.01,Michael Kors Holdings Limited Ordin,Michael Kors Holdings Limited Ordin
+MAS,NYSE,STOCK,USD,0.01,Masco Corporation Common Stock ,Masco Corporation Common Stock 
+NTT,NYSE,STOCK,USD,0.01,Nippon Telegraph and Telephone Corp,Nippon Telegraph and Telephone Corp
+TTC,NYSE,STOCK,USD,0.01,Toro Company  Common Stock ,Toro Company  Common Stock 
+KEP,NYSE,STOCK,USD,0.01,Korea Electric Power Corporation Co,Korea Electric Power Corporation Co
+NWN,NYSE,STOCK,USD,0.01,Northwest Natural Gas Company Commo,Northwest Natural Gas Company Commo
+PZZA,NASDAQ,STOCK,USD,0.01,Papa John,Papa John
+A,NYSE,STOCK,USD,0.01,Agilent Technologies,Agilent Technologies
+WR,NYSE,STOCK,USD,0.01,Westar Energy,Westar Energy
+CW,NYSE,STOCK,USD,0.01,Curtiss-Wright Corporation Common S,Curtiss-Wright Corporation Common S
+HA,NASDAQ,STOCK,USD,0.01,Hawaiian Holdings,Hawaiian Holdings
+ABX,NYSE,STOCK,USD,0.01,Barrick Gold Corporation Common Sto,Barrick Gold Corporation Common Sto
+SYY,NYSE,STOCK,USD,0.01,Sysco Corporation Common Stock ,Sysco Corporation Common Stock 
+CAG,NYSE,STOCK,USD,0.01,ConAgra Brands,ConAgra Brands
+CPS,NYSE,STOCK,USD,0.01,Cooper-Standard Holdings Inc. Commo,Cooper-Standard Holdings Inc. Commo
+NI,NYSE,STOCK,USD,0.01,NiSource Inc Common Stock ,NiSource Inc Common Stock 
+BWXT,NYSE,STOCK,USD,0.01,BWX Technologies,BWX Technologies
+EIX,NYSE,STOCK,USD,0.01,Edison International Common Stock ,Edison International Common Stock 
+ITW,NYSE,STOCK,USD,0.01,Illinois Tool Works Inc. Common Sto,Illinois Tool Works Inc. Common Sto
+VLRS,NYSE,STOCK,USD,0.01,Controladora Vuela Compania de Avia,Controladora Vuela Compania de Avia
+BAX,NYSE,STOCK,USD,0.01,Baxter International Inc. Common St,Baxter International Inc. Common St
+KMB,NYSE,STOCK,USD,0.01,Kimberly-Clark Corporation Common S,Kimberly-Clark Corporation Common S
+PEP,NYSE,STOCK,USD,0.01,Pepsico,Pepsico
+AFG,NYSE,STOCK,USD,0.01,American Financial Group,American Financial Group
+NFX,NYSE,STOCK,USD,0.01,Newfield Exploration Company Common,Newfield Exploration Company Common
+HDS,NASDAQ,STOCK,USD,0.01,HD Supply Holdings,HD Supply Holdings
+PPG,NYSE,STOCK,USD,0.01,PPG Industries,PPG Industries
+RS,NYSE,STOCK,USD,0.01,Reliance Steel ,Reliance Steel 
+SNA,NYSE,STOCK,USD,0.01,Snap-On Incorporated Common Stock ,Snap-On Incorporated Common Stock 
+CVG,NYSE,STOCK,USD,0.01,Convergys Corporation Common Stock ,Convergys Corporation Common Stock 
+PKX,NYSE,STOCK,USD,0.01,POSCO Common Stock ,POSCO Common Stock 
+JBHT,NASDAQ,STOCK,USD,0.01,J.B. Hunt Transport Services,J.B. Hunt Transport Services
+CMC,NYSE,STOCK,USD,0.01,Commercial Metals Company Common St,Commercial Metals Company Common St
+ORCL,NYSE,STOCK,USD,0.01,Oracle Corporation Common Stock ,Oracle Corporation Common Stock 
+WYN,NYSE,STOCK,USD,0.01,Wyndham Worldwide Corp Common  Stoc,Wyndham Worldwide Corp Common  Stoc
+ACXM,NASDAQ,STOCK,USD,0.01,Acxiom Corporation Common Stock ,Acxiom Corporation Common Stock 
+PM,NYSE,STOCK,USD,0.01,Philip Morris International Inc Com,Philip Morris International Inc Com
+APA,NYSE,STOCK,USD,0.01,Apache Corporation Common Stock ,Apache Corporation Common Stock 
+AGO,NYSE,STOCK,USD,0.01,Assured Guaranty Ltd. Common Stock ,Assured Guaranty Ltd. Common Stock 
+CVX,NYSE,STOCK,USD,0.01,Chevron Corporation Common Stock ,Chevron Corporation Common Stock 
+DF,NYSE,STOCK,USD,0.01,Dean Foods Company Common Stock ,Dean Foods Company Common Stock 
+SPR,NYSE,STOCK,USD,0.01,Spirit Aerosystems Holdings,Spirit Aerosystems Holdings
+NCR,NYSE,STOCK,USD,0.01,NCR Corporation Common Stock ,NCR Corporation Common Stock 
+DAL,NYSE,STOCK,USD,0.01,Delta Air Lines,Delta Air Lines
+EOCC,NYSE,STOCK,USD,0.01,Enel Generacion Chile S.A. American,Enel Generacion Chile S.A. American
+EQR,NYSE,STOCK,USD,0.01,Equity Residential Common Shares of,Equity Residential Common Shares of
+LEA,NYSE,STOCK,USD,0.01,Lear Corporation Common Stock ,Lear Corporation Common Stock 
+MSM,NYSE,STOCK,USD,0.01,MSC Industrial Direct Company,MSC Industrial Direct Company
+GRA,NYSE,STOCK,USD,0.01,W.R. Grace ,W.R. Grace 
+PINC,NASDAQ,STOCK,USD,0.01,Premier,Premier
+GILD,NASDAQ,STOCK,USD,0.01,Gilead Sciences,Gilead Sciences
+KT,NYSE,STOCK,USD,0.01,KT Corporation Common Stock ,KT Corporation Common Stock 
+CCL,NYSE,STOCK,USD,0.01,Carnival Corporation Common Stock ,Carnival Corporation Common Stock 
+IX,NYSE,STOCK,USD,0.01,Orix Corp Ads Common Stock ,Orix Corp Ads Common Stock 
+AIT,NYSE,STOCK,USD,0.01,Applied Industrial Technologies,Applied Industrial Technologies
+Q,NYSE,STOCK,USD,0.01,Quintiles IMS Holdings,Quintiles IMS Holdings
+MSI,NYSE,STOCK,USD,0.01,Motorola Solutions,Motorola Solutions
+QCOM,NASDAQ,STOCK,USD,0.01,QUALCOMM Incorporated Common Stock ,QUALCOMM Incorporated Common Stock 
+DRI,NYSE,STOCK,USD,0.01,Darden Restaurants,Darden Restaurants
+GT,NASDAQ,STOCK,USD,0.01,The Goodyear Tire ,The Goodyear Tire 
+VC,NYSE,STOCK,USD,0.01,Visteon Corporation Common Stock ,Visteon Corporation Common Stock 
+AMG,NYSE,STOCK,USD,0.01,Affiliated Managers Group,Affiliated Managers Group
+MYGN,NASDAQ,STOCK,USD,0.01,Myriad Genetics,Myriad Genetics
+HPQ,NYSE,STOCK,USD,0.01,HP Inc. Common Stock ,HP Inc. Common Stock 
+FSLR,NASDAQ,STOCK,USD,0.01,First Solar,First Solar
+EXPR,NYSE,STOCK,USD,0.01,Express,Express
+SOHU,NASDAQ,STOCK,USD,0.01,Sohu.com Inc. Common Stock ,Sohu.com Inc. Common Stock 
+SHY,NYSE,STOCK,USD,0.01,iShares 1-3 Year Treasury Bond ETF ,iShares 1-3 Year Treasury Bond ETF 

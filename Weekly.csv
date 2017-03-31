@@ -1,436 +1,424 @@
-AAL
-ABBV
-ABC
-ABT
-ABX
-ACAD
-ACHN
-ACN
-ADM
-AEO
-AET
-AGN
-AGU
-AIG
-AKAM
-AMBA
-AMD
-AMGN
-AMJ
-AMLP
-AMRN
-AMT
-AMZN
-ANF
-ANTM
-APA
-APC
-ARIA
-ARNA
-ASHR
-ATHN
-ATVI
-AUY
-AVGO
-AVP
-AXP
-AZN
-BA
-BABA
-BAC
-BAX
-BBBY
-BBRY
-BBY
-BHI
-BIDU
-BIIB
-BK
-BRK.B
-BX
-C
-CAH
-CALM
-CAT
-CBI
-CBS
-CCJ
-CELG
-CF
-CHK
-CHTR
-CIEN
-CL
-CLF
-CLR
-CMCSA
-CME
-CMG
-CMI
-COF
-COG
-COH
-COP
-COST
-CORY
-CREE
-CRM
-CRUS
-CSCO
-COTY
-CREE
-CRUS
-CSCO
-CSIQ
-CTRP
-CTSH
-CVS
-CVX
-CYBR
-CYH
-CZR
-DAL
-DATA
-DB
-DD
-DDD
-DE
-DECK
-DFS
-DG
-DHI
-DIA
-DIS
-DISH
-DJX
-DOW
-DUST
-DVN
-DXJ
-EA
-EBAY
-EEM
-EFA
-EMES
-ENDP
-EOG
-EPD
-EPI
-ERX
-ESRX
-ETE
-ETFC
-ETN
-EWG
-EWI
-EWJ
-EWU
-EWW
-EWZ
-EXPE
-F
-FAS
-FAZ
-FB
-FCX
-FDX
-FEYE
-FEZ
-FFIV
-FIT
-FLR
-FOSL
-FOXA
-FSLR
-FXE
-FXI
-FXY
-GALE
-GDX
-GDXJ
-GE
-GG
-GILD
-GLD
-GLW
-GM
-GME
-GNW
-GOGO
-GOOG
-GOOGL
-GPRO
-GPS
-GREK
-GRPN
-GS
-GSK
-GT
-HACK
-HAL
-HAS
-HCA
-HD
-HEDJ
-HES
-HFC
-HIG
-HIMX
-HL
-HLF
-HOG
-HPE
-HPQ
-HSBC
-HSY
-HUM
-HYG
-IAU
-IBB
-IBM
-ICPT
-ILG
-ILMN
-INFN
-INTC
-INVN
-IOC
-IP
-ISRG
-ITB
-IWM
-IYR
-JAZZ
-JCP
-JD
-JNJ
-JNPR
-JNUG
-JOY
-JPM
-KGC
-KMI
-KNDI
-KO
-KORS
-KRE
-KSU
-LDOS
-LL
-LLY
-LMT
-LNG
-LOCO
-LOW
-LULU
-LUV
-LVS
-LYB
-M
-MA
-MAR
-MAT
-MBI
-MBLY
-MC
-MCD
-MCK
-MDLZ
-MDT
-MDY
-MET
-MGM
-MNK
-MNKD
-MNST
-MP
-MOMO
-MON
-MOS
-MPC
-MPEL
-MRK
-MRO
-MRVL
-MS
-MSFT
-MT
-MTG
-MU
-MYGN
-MYL
-NAV
-NDX
-NE
-NEM
-NFLX
-NKE
-LLY
-NOC
-NOK
-NOV
-NOW
-NQ
-NSC
-NTAP
-NTES
-NUE
-NUGT
-NUS
-NVDA
-NXPI
-OEX
-OIH
-OKE
-OLN
-OPHT
-OPK
-ORCL
-OXY
-P
-PANW
-PBR
-PBYI
-PCLN
-PEP
-PFE
-PG
-PHM
-PLUG
-REGN
-RH
-RHT
-RICE
-RIG
-RL
-RSX
-RUT
-S
-SBUX
-SCHW
-SCO
-SDRL
-SDS
-SFUN
-SHAK
-SHLD
-SHPG
-SIRI
-SKX
-SLB
-SLV
-SLW
-SNE
-SODA
-SPLK
-SPLS
-SPWR
-SPX
-SPY
-SRPT
-SSO
-SSYS
-STMP
-STX
-SU
-SVXY
-SWKS
-SYF
-SYMC
-SYNA
-T
-TAP
-TASR
-TBT
-TEVA
-TGT
-THC
-TIF
-TLT
-TMUS
-TNA
-TOL
-TQQQ
-TRIP
-TRN
-TSLA
-TSN
-TSO
-TTM
-TWLO
-TWTR
-TWX
-TXN
-TZA
-UA
-UAA
-UCO
-ULTA
-UNG
-UNH
-UNP
-UPRO
-UPS
-URBN
-URI
-USB
-USO
-UTX
-UUP
-UVXY
-V
-VALE
-VER
-VIAB
-VIPS
-VIX
-VIXY
-VLO
-VMW
-VNET
-VOD
-VRTX
-VRX
-VWO
-VXX
-VZ
-W
-WB
-WBA
-WDAY
-WDC
-WFC
-WFM
-WFT
-WHR
-WLL
-WMB
-WMT
-WTW
-WY
-WYNN
-X
-XBI
-XEO
-XHB
-XLB
-XLE
-XLF
-XLI
-XLK
-XME
-XOM
-XON
-XRT
-SXP
-YANG
-YELP
-YHOO
-YNDX
-YPF
-YUM
-YY
-Z
-ZG
-ZNGA
-ZTS
+AAL,NASDAQ,STOCK,USD,0.01,American Airlines Group Inc. Common,American Airlines Group Inc. Common
+ABBV,NYSE,STOCK,USD,0.01,AbbVie Inc. Common Stock (ABBV),AbbVie Inc. Common Stock (ABBV)
+ABC,NYSE,STOCK,USD,0.01,AmerisourceBergen Corporation Commo,AmerisourceBergen Corporation Commo
+ABT,NYSE,STOCK,USD,0.01,Abbott Laboratories Common Stock (A,Abbott Laboratories Common Stock (A
+ABX,NYSE,STOCK,USD,0.01,Barrick Gold Corporation Common Sto,Barrick Gold Corporation Common Sto
+ACAD,NASDAQ,STOCK,USD,0.01,ACADIA Pharmaceuticals Inc. Common ,ACADIA Pharmaceuticals Inc. Common
+ACHN,NASDAQ,STOCK,USD,0.01,Achillion Pharmaceuticals,Achillion Pharmaceuticals
+ACN,NYSE,STOCK,USD,0.01,Accenture plc Class A Ordinary Shar,Accenture plc Class A Ordinary Shar
+ADM,NYSE,STOCK,USD,0.01,Archer-Daniels-Midland Company Comm,Archer-Daniels-Midland Company Comm
+AEO,NYSE,STOCK,USD,0.01,American Eagle Outfitters,American Eagle Outfitters
+AET,NYSE,STOCK,USD,0.01,Aetna Inc. Common Stock (AET),Aetna Inc. Common Stock (AET)
+AGN,NYSE,STOCK,USD,0.01,Allergan plc Ordinary Shares (AGN),Allergan plc Ordinary Shares (AGN)
+AGU,NYSE,STOCK,USD,0.01,Agrium Inc. Common Stock (AGU),Agrium Inc. Common Stock (AGU)
+AIG,NYSE,STOCK,USD,0.01,American International Group,American International Group
+AKAM,NASDAQ,STOCK,USD,0.01,Akamai Technologies,Akamai Technologies
+AMBA,NASDAQ,STOCK,USD,0.01,Ambarella,Ambarella
+AMD,NASDAQ,STOCK,USD,0.01,Advanced Micro Devices,Advanced Micro Devices
+AMGN,NASDAQ,STOCK,USD,0.01,Amgen Inc. Common Stock (AMGN),Amgen Inc. Common Stock (AMGN)
+AMJ,NYSE,STOCK,USD,0.01,JPMorgan Chase Capital XVI JP Morga,JPMorgan Chase Capital XVI JP Morga
+AMLP,NYSE,STOCK,USD,0.01,Alerian MLP ETF (AMLP),Alerian MLP ETF (AMLP)
+AMRN,NASDAQ,STOCK,USD,0.01,Amarin Corporation plc (AMRN),Amarin Corporation plc (AMRN)
+AMT,NYSE,STOCK,USD,0.01,American Tower Corporation (REIT) C,American Tower Corporation (REIT) C
+AMZN,NASDAQ,STOCK,USD,0.01,Amazon.com,Amazon.com
+ANF,NYSE,STOCK,USD,0.01,Abercrombie ,Abercrombie
+ANTM,NYSE,STOCK,USD,0.01,Anthem,Anthem
+APA,NYSE,STOCK,USD,0.01,Apache Corporation Common Stock (AP,Apache Corporation Common Stock (AP
+APC,NYSE,STOCK,USD,0.01,Anadarko Petroleum Corporation Comm,Anadarko Petroleum Corporation Comm
+ARNA,NASDAQ,STOCK,USD,0.01,Arena Pharmaceuticals,Arena Pharmaceuticals
+ASHR,NYSE,STOCK,USD,0.01,Deutsche X-Trackers Harvest CSI 300,Deutsche X-Trackers Harvest CSI 300
+ATHN,NASDAQ,STOCK,USD,0.01,athenahealth,athenahealth
+ATVI,NASDAQ,STOCK,USD,0.01,Activision Blizzard,Activision Blizzard
+AUY,NYSE,STOCK,USD,0.01,Yamana Gold Inc. Ordinary Shares (C,Yamana Gold Inc. Ordinary Shares (C
+AVGO,NASDAQ,STOCK,USD,0.01,Broadcom Limited Ordinary Shares (A,Broadcom Limited Ordinary Shares (A
+AVP,NYSE,STOCK,USD,0.01,Avon Products,Avon Products
+AXP,NYSE,STOCK,USD,0.01,American Express Company Common Sto,American Express Company Common Sto
+AZN,NYSE,STOCK,USD,0.01,Astrazeneca PLC Common Stock (AZN),Astrazeneca PLC Common Stock (AZN)
+BA,NYSE,STOCK,USD,0.01,Boeing Company (The) Common Stock (,Boeing Company (The) Common Stock (
+BABA,NYSE,STOCK,USD,0.01,Alibaba Group Holding Limited Ameri,Alibaba Group Holding Limited Ameri
+BAC,NYSE,STOCK,USD,0.01,Bank of America Corporation Common ,Bank of America Corporation Common
+BAX,NYSE,STOCK,USD,0.01,Baxter International Inc. Common St,Baxter International Inc. Common St
+BBBY,NASDAQ,STOCK,USD,0.01,Bed Bath ,Bed Bath
+BBRY,NASDAQ,STOCK,USD,0.01,BlackBerry Limited Common Stock (BB,BlackBerry Limited Common Stock (BB
+BBY,NYSE,STOCK,USD,0.01,Best Buy Co.,Best Buy Co.
+BHI,NYSE,STOCK,USD,0.01,Baker Hughes Incorporated Common St,Baker Hughes Incorporated Common St
+BIDU,NASDAQ,STOCK,USD,0.01,Baidu,Baidu
+BIIB,NASDAQ,STOCK,USD,0.01,Biogen Inc. Common Stock (BIIB),Biogen Inc. Common Stock (BIIB)
+BK,NYSE,STOCK,USD,0.01,Bank of New York Mellon Corporation,Bank of New York Mellon Corporation
+BRK.B,NYSE,STOCK,USD,0.01,Berkshire Hathaway Inc. New Common ,Berkshire Hathaway Inc. New Common
+BX,NYSE,STOCK,USD,0.01,The Blackstone Group L.P. Common Un,The Blackstone Group L.P. Common Un
+C,NYSE,STOCK,USD,0.01,Citigroup,Citigroup
+CAH,NYSE,STOCK,USD,0.01,Cardinal Health,Cardinal Health
+CALM,NASDAQ,STOCK,USD,0.01,Cal-Maine Foods,Cal-Maine Foods
+CAT,NYSE,STOCK,USD,0.01,Caterpillar,Caterpillar
+CBI,NYSE,STOCK,USD,0.01,Chicago Bridge ,Chicago Bridge
+CBS,NYSE,STOCK,USD,0.01,CBS Corporation Class B Common Stoc,CBS Corporation Class B Common Stoc
+CCJ,NYSE,STOCK,USD,0.01,Cameco Corporation Common Stock (CC,Cameco Corporation Common Stock (CC
+CELG,NASDAQ,STOCK,USD,0.01,Celgene Corporation Common Stock (C,Celgene Corporation Common Stock (C
+CF,NYSE,STOCK,USD,0.01,CF Industries Holdings,CF Industries Holdings
+CHK,NYSE,STOCK,USD,0.01,Chesapeake Energy Corporation Commo,Chesapeake Energy Corporation Commo
+CHTR,NASDAQ,STOCK,USD,0.01,Charter Communications,Charter Communications
+CIEN,NYSE,STOCK,USD,0.01,Ciena Corporation Common Stock (CIE,Ciena Corporation Common Stock (CIE
+CL,NYSE,STOCK,USD,0.01,Colgate-Palmolive Company Common St,Colgate-Palmolive Company Common St
+CLF,NYSE,STOCK,USD,0.01,Cliffs Natural Resources Inc Common,Cliffs Natural Resources Inc Common
+CLR,NYSE,STOCK,USD,0.01,Continental Resources,Continental Resources
+CMCSA,NASDAQ,STOCK,USD,0.01,Comcast Corporation Class A Common ,Comcast Corporation Class A Common
+CME,NASDAQ,STOCK,USD,0.01,CME Group Inc. Class A Common Stock,CME Group Inc. Class A Common Stock
+CMG,NYSE,STOCK,USD,0.01,Chipotle Mexican Grill,Chipotle Mexican Grill
+CMI,NYSE,STOCK,USD,0.01,Cummins Inc. Common Stock (CMI),Cummins Inc. Common Stock (CMI)
+COF,NYSE,STOCK,USD,0.01,Capital One Financial Corporation C,Capital One Financial Corporation C
+COG,NYSE,STOCK,USD,0.01,Cabot Oil ,Cabot Oil
+COH,NYSE,STOCK,USD,0.01,Coach,Coach
+COP,NYSE,STOCK,USD,0.01,ConocoPhillips Common Stock (COP),ConocoPhillips Common Stock (COP)
+COST,NASDAQ,STOCK,USD,0.01,Costco Wholesale Corporation Common,Costco Wholesale Corporation Common
+CREE,NASDAQ,STOCK,USD,0.01,Cree,Cree
+CRM,NYSE,STOCK,USD,0.01,Salesforce.com Inc Common Stock (CR,Salesforce.com Inc Common Stock (CR
+CRUS,NASDAQ,STOCK,USD,0.01,Cirrus Logic,Cirrus Logic
+CSCO,NASDAQ,STOCK,USD,0.01,Cisco Systems,Cisco Systems
+COTY,NYSE,STOCK,USD,0.01,Coty Inc. Class A Common Stock (COT,Coty Inc. Class A Common Stock (COT
+CREE,NASDAQ,STOCK,USD,0.01,Cree,Cree
+CRUS,NASDAQ,STOCK,USD,0.01,Cirrus Logic,Cirrus Logic
+CSCO,NASDAQ,STOCK,USD,0.01,Cisco Systems,Cisco Systems
+CSIQ,NASDAQ,STOCK,USD,0.01,Canadian Solar Inc. Common Shares (,Canadian Solar Inc. Common Shares (
+CTRP,NASDAQ,STOCK,USD,0.01,Ctrip.com International,Ctrip.com International
+CTSH,NASDAQ,STOCK,USD,0.01,Cognizant Technology Solutions Corp,Cognizant Technology Solutions Corp
+CVS,NYSE,STOCK,USD,0.01,CVS Health Corporation Common Stock,CVS Health Corporation Common Stock
+CVX,NYSE,STOCK,USD,0.01,Chevron Corporation Common Stock (C,Chevron Corporation Common Stock (C
+CYBR,NASDAQ,STOCK,USD,0.01,CyberArk Software Ltd. Ordinary Sha,CyberArk Software Ltd. Ordinary Sha
+CYH,NYSE,STOCK,USD,0.01,Community Health Systems,Community Health Systems
+CZR,NASDAQ,STOCK,USD,0.01,Caesars Entertainment Corporation C,Caesars Entertainment Corporation C
+DAL,NYSE,STOCK,USD,0.01,Delta Air Lines,Delta Air Lines
+DATA,NYSE,STOCK,USD,0.01,Tableau Software,Tableau Software
+DB,NYSE,STOCK,USD,0.01,Deutsche Bank AG Common Stock (DB),Deutsche Bank AG Common Stock (DB)
+DD,NYSE,STOCK,USD,0.01,E.I. du Pont de Nemours and Company,E.I. du Pont de Nemours and Company
+DDD,NYSE,STOCK,USD,0.01,3D Systems Corporation Common Stock,3D Systems Corporation Common Stock
+DE,NYSE,STOCK,USD,0.01,Deere ,Deere
+DECK,NYSE,STOCK,USD,0.01,Deckers Outdoor Corporation Common ,Deckers Outdoor Corporation Common
+DFS,NYSE,STOCK,USD,0.01,Discover Financial Services Common ,Discover Financial Services Common
+DG,NYSE,STOCK,USD,0.01,Dollar General Corporation Common S,Dollar General Corporation Common S
+DHI,NYSE,STOCK,USD,0.01,D.R. Horton,D.R. Horton
+DIA,NYSE,STOCK,USD,0.01,SPDR Dow Jones Industrial Average E,SPDR Dow Jones Industrial Average E
+DIS,NYSE,STOCK,USD,0.01,Walt Disney Company (The) Common St,Walt Disney Company (The) Common St
+DISH,NASDAQ,STOCK,USD,0.01,DISH Network Corporation Class A Co,DISH Network Corporation Class A Co
+DOW,NYSE,STOCK,USD,0.01,Dow Chemical Company (The) Common S,Dow Chemical Company (The) Common S
+DUST,NYSE,STOCK,USD,0.01,Direxion Daily Gold Miners Index Be,Direxion Daily Gold Miners Index Be
+DVN,NYSE,STOCK,USD,0.01,Devon Energy Corporation Common Sto,Devon Energy Corporation Common Sto
+DXJ,NYSE,STOCK,USD,0.01,WisdomTree Japan Hedged Equity Fund,WisdomTree Japan Hedged Equity Fund
+EA,NASDAQ,STOCK,USD,0.01,Electronic Arts Inc. Common Stock (,Electronic Arts Inc. Common Stock (
+EBAY,NASDAQ,STOCK,USD,0.01,eBay Inc. Common Stock (EBAY),eBay Inc. Common Stock (EBAY)
+EEM,NYSE,STOCK,USD,0.01,iShares MSCI Emerging Index Fund (E,iShares MSCI Emerging Index Fund (E
+EFA,NYSE,STOCK,USD,0.01,iShares MSCI EAFE ETF (EFA),iShares MSCI EAFE ETF (EFA)
+EMES,NYSE,STOCK,USD,0.01,Emerge Energy Services LP Common Un,Emerge Energy Services LP Common Un
+ENDP,NASDAQ,STOCK,USD,0.01,Endo International plc Ordinary Sha,Endo International plc Ordinary Sha
+EOG,NYSE,STOCK,USD,0.01,EOG Resources,EOG Resources
+EPD,NYSE,STOCK,USD,0.01,Enterprise Products Partners L.P. C,Enterprise Products Partners L.P. C
+EPI,NYSE,STOCK,USD,0.01,WisdomTree India Earnings Fund (EPI,WisdomTree India Earnings Fund (EPI
+ERX,NYSE,STOCK,USD,0.01,Direxion Energy Bull 3X Shares (ERX,Direxion Energy Bull 3X Shares (ERX
+ESRX,NASDAQ,STOCK,USD,0.01,Express Scripts Holding Company Com,Express Scripts Holding Company Com
+ETE,NYSE,STOCK,USD,0.01,Energy Transfer Equity,Energy Transfer Equity
+ETFC,NASDAQ,STOCK,USD,0.01,E*TRADE Financial Corporation Commo,E*TRADE Financial Corporation Commo
+ETN,NYSE,STOCK,USD,0.01,Eaton Corporation,Eaton Corporation
+EWG,NYSE,STOCK,USD,0.01,iShares MSCI Germany Index Fund (EW,iShares MSCI Germany Index Fund (EW
+EWI,NYSE,STOCK,USD,0.01,iShares MSCI Italy Capped Index Fun,iShares MSCI Italy Capped Index Fun
+EWJ,NYSE,STOCK,USD,0.01,iShares MSCI Japan Index Fund (EWJ),iShares MSCI Japan Index Fund (EWJ)
+EWU,NYSE,STOCK,USD,0.01,iShares MSCI United Kingdom ETF (EW,iShares MSCI United Kingdom ETF (EW
+EWW,NYSE,STOCK,USD,0.01,iShares MSCI Mexico Capped Investab,iShares MSCI Mexico Capped Investab
+EWZ,NYSE,STOCK,USD,0.01,iShares MSCI Brazil Capped Index Fu,iShares MSCI Brazil Capped Index Fu
+EXPE,NASDAQ,STOCK,USD,0.01,Expedia,Expedia
+F,NYSE,STOCK,USD,0.01,Ford Motor Company Common Stock (F),Ford Motor Company Common Stock (F)
+FAS,NYSE,STOCK,USD,0.01,Direxion Financial Bull 3X Shares (,Direxion Financial Bull 3X Shares (
+FAZ,NYSE,STOCK,USD,0.01,Direxion Financial Bear 3X Shares (,Direxion Financial Bear 3X Shares (
+FB,NASDAQ,STOCK,USD,0.01,Facebook,Facebook
+FCX,NYSE,STOCK,USD,0.01,Freeport-McMoRan,Freeport-McMoRan
+FDX,NYSE,STOCK,USD,0.01,FedEx Corporation Common Stock (FDX,FedEx Corporation Common Stock (FDX
+FEYE,NASDAQ,STOCK,USD,0.01,FireEye,FireEye
+FEZ,NYSE,STOCK,USD,0.01,SPDR DJ Euro STOXX 50 Etf (FEZ),SPDR DJ Euro STOXX 50 Etf (FEZ)
+FFIV,NASDAQ,STOCK,USD,0.01,F5 Networks,F5 Networks
+FIT,NYSE,STOCK,USD,0.01,Fitbit,Fitbit
+FLR,NYSE,STOCK,USD,0.01,Fluor Corporation Common Stock (FLR,Fluor Corporation Common Stock (FLR
+FOSL,NASDAQ,STOCK,USD,0.01,Fossil Group,Fossil Group
+FOXA,NASDAQ,STOCK,USD,0.01,Twenty-First Century Fox,Twenty-First Century Fox
+FSLR,NASDAQ,STOCK,USD,0.01,First Solar,First Solar
+FXE,NYSE,STOCK,USD,0.01,Guggenheim CurrencyShares Euro Curr,Guggenheim CurrencyShares Euro Curr
+FXI,NYSE,STOCK,USD,0.01,iShares China Large-Cap ETF (FXI),iShares China Large-Cap ETF (FXI)
+FXY,NYSE,STOCK,USD,0.01,Guggenheim CurrencyShares Japanese ,Guggenheim CurrencyShares Japanese
+GALE,NASDAQ,STOCK,USD,0.01,Galena Biopharma,Galena Biopharma
+GDX,NYSE,STOCK,USD,0.01,VanEck Vectors Gold Miners ETF (GDX,VanEck Vectors Gold Miners ETF (GDX
+GDXJ,NYSE,STOCK,USD,0.01,VanEck Vectors Junior Gold Miners E,VanEck Vectors Junior Gold Miners E
+GE,NYSE,STOCK,USD,0.01,General Electric Company Common Sto,General Electric Company Common Sto
+GG,NYSE,STOCK,USD,0.01,Goldcorp Inc. Common Stock (GG),Goldcorp Inc. Common Stock (GG)
+GILD,NASDAQ,STOCK,USD,0.01,Gilead Sciences,Gilead Sciences
+GLD,NYSE,STOCK,USD,0.01,SPDR Gold Trust (GLD),SPDR Gold Trust (GLD)
+GLW,NYSE,STOCK,USD,0.01,Corning Incorporated Common Stock (,Corning Incorporated Common Stock (
+GM,NYSE,STOCK,USD,0.01,General Motors Company Common Stock,General Motors Company Common Stock
+GME,NYSE,STOCK,USD,0.01,Gamestop Corporation Common Stock (,Gamestop Corporation Common Stock (
+GNW,NYSE,STOCK,USD,0.01,Genworth Financial Inc Common Stock,Genworth Financial Inc Common Stock
+GOGO,NASDAQ,STOCK,USD,0.01,Gogo Inc. Common Stock (GOGO),Gogo Inc. Common Stock (GOGO)
+GOOG,NASDAQ,STOCK,USD,0.01,Alphabet Inc. Class C Capital Stock,Alphabet Inc. Class C Capital Stock
+GOOGL,NASDAQ,STOCK,USD,0.01,Alphabet Inc. Class A Common Stock ,Alphabet Inc. Class A Common Stock
+GPRO,NASDAQ,STOCK,USD,0.01,GoPro,GoPro
+GPS,NYSE,STOCK,USD,0.01,Gap,Gap
+GREK,NYSE,STOCK,USD,0.01,Global X MSCI Greece ETF (GREK),Global X MSCI Greece ETF (GREK)
+GRPN,NASDAQ,STOCK,USD,0.01,Groupon,Groupon
+GS,NYSE,STOCK,USD,0.01,Goldman Sachs Group,Goldman Sachs Group
+GSK,NYSE,STOCK,USD,0.01,GlaxoSmithKline PLC Common Stock (G,GlaxoSmithKline PLC Common Stock (G
+GT,NASDAQ,STOCK,USD,0.01,The Goodyear Tire ,The Goodyear Tire
+HACK,NYSE,STOCK,USD,0.01,PureFunds ISE Cyber Security ETF (H,PureFunds ISE Cyber Security ETF (H
+HAL,NYSE,STOCK,USD,0.01,Halliburton Company Common Stock (H,Halliburton Company Common Stock (H
+HAS,NASDAQ,STOCK,USD,0.01,Hasbro,Hasbro
+HCA,NYSE,STOCK,USD,0.01,HCA Holdings,HCA Holdings
+HD,NYSE,STOCK,USD,0.01,Home Depot,Home Depot
+HEDJ,NYSE,STOCK,USD,0.01,WisdomTree Europe Hedged Equity Fun,WisdomTree Europe Hedged Equity Fun
+HES,NYSE,STOCK,USD,0.01,Hess Corporation Common Stock (HES),Hess Corporation Common Stock (HES)
+HFC,NYSE,STOCK,USD,0.01,HollyFrontier Corporation Common St,HollyFrontier Corporation Common St
+HIG,NYSE,STOCK,USD,0.01,Hartford Financial Services Group,Hartford Financial Services Group
+HIMX,NASDAQ,STOCK,USD,0.01,Himax Technologies,Himax Technologies
+HL,NYSE,STOCK,USD,0.01,Hecla Mining Company Common Stock (,Hecla Mining Company Common Stock (
+HLF,NYSE,STOCK,USD,0.01,Herbalife Ltd. Common Stock (HLF),Herbalife Ltd. Common Stock (HLF)
+HOG,NYSE,STOCK,USD,0.01,Harley-Davidson,Harley-Davidson
+HPE,NYSE,STOCK,USD,0.01,Hewlett Packard Enterprise Company ,Hewlett Packard Enterprise Company
+HPQ,NYSE,STOCK,USD,0.01,HP Inc. Common Stock (HPQ),HP Inc. Common Stock (HPQ)
+HSBC,NYSE,STOCK,USD,0.01,HSBC Holdings,HSBC Holdings
+HSY,NYSE,STOCK,USD,0.01,The Hershey Company Common Stock (H,The Hershey Company Common Stock (H
+HUM,NYSE,STOCK,USD,0.01,Humana Inc. Common Stock (HUM),Humana Inc. Common Stock (HUM)
+HYG,NYSE,STOCK,USD,0.01,iShares iBoxx ,iShares iBoxx
+IAU,NYSE,STOCK,USD,0.01,ishares Gold Trust (IAU),ishares Gold Trust (IAU)
+IBB,NASDAQ,STOCK,USD,0.01,iShares Nasdaq Biotechnology ETF (I,iShares Nasdaq Biotechnology ETF (I
+IBM,NYSE,STOCK,USD,0.01,International Business Machines Cor,International Business Machines Cor
+ICPT,NASDAQ,STOCK,USD,0.01,Intercept Pharmaceuticals,Intercept Pharmaceuticals
+ILG,NASDAQ,STOCK,USD,0.01,ILG,ILG
+ILMN,NASDAQ,STOCK,USD,0.01,Illumina,Illumina
+INFN,NASDAQ,STOCK,USD,0.01,Infinera Corporation Common Stock (,Infinera Corporation Common Stock (
+INTC,NASDAQ,STOCK,USD,0.01,Intel Corporation Common Stock (INT,Intel Corporation Common Stock (INT
+INVN,NYSE,STOCK,USD,0.01,InvenSense,InvenSense
+IP,NYSE,STOCK,USD,0.01,International Paper Company Common ,International Paper Company Common
+ISRG,NASDAQ,STOCK,USD,0.01,Intuitive Surgical,Intuitive Surgical
+ITB,NYSE,STOCK,USD,0.01,iShares U.S. Home Construction ETF ,iShares U.S. Home Construction ETF
+IWM,NYSE,STOCK,USD,0.01,iShares Russell 2000 ETF (IWM),iShares Russell 2000 ETF (IWM)
+IYR,NYSE,STOCK,USD,0.01,iShares U.S. Real Estate ETF (IYR),iShares U.S. Real Estate ETF (IYR)
+JAZZ,NASDAQ,STOCK,USD,0.01,Jazz Pharmaceuticals plc Common Sto,Jazz Pharmaceuticals plc Common Sto
+JCP,NYSE,STOCK,USD,0.01,J.C. Penney Company,J.C. Penney Company
+JD,NASDAQ,STOCK,USD,0.01,JD.com,JD.com
+JNJ,NYSE,STOCK,USD,0.01,Johnson ,Johnson
+JNPR,NYSE,STOCK,USD,0.01,Juniper Networks,Juniper Networks
+JNUG,NYSE,STOCK,USD,0.01,Direxion Daily Junior Gold Miners I,Direxion Daily Junior Gold Miners I
+JOY,NYSE,STOCK,USD,0.01,Joy Global Inc. Common Stock (JOY),Joy Global Inc. Common Stock (JOY)
+JPM,NYSE,STOCK,USD,0.01,JP Morgan Chase ,JP Morgan Chase
+KGC,NYSE,STOCK,USD,0.01,Kinross Gold Corporation Common Sto,Kinross Gold Corporation Common Sto
+KMI,NYSE,STOCK,USD,0.01,Kinder Morgan,Kinder Morgan
+KNDI,NASDAQ,STOCK,USD,0.01,Kandi Technologies Group,Kandi Technologies Group
+KO,NYSE,STOCK,USD,0.01,Coca-Cola Company (The) Common Stoc,Coca-Cola Company (The) Common Stoc
+KORS,NYSE,STOCK,USD,0.01,Michael Kors Holdings Limited Ordin,Michael Kors Holdings Limited Ordin
+KRE,NYSE,STOCK,USD,0.01,SPDR S,SPDR S
+KSU,NYSE,STOCK,USD,0.01,Kansas City Southern Common Stock (,Kansas City Southern Common Stock (
+LDOS,NYSE,STOCK,USD,0.01,Leidos Holdings,Leidos Holdings
+LL,NYSE,STOCK,USD,0.01,Lumber Liquidators Holdings,Lumber Liquidators Holdings
+LLY,NYSE,STOCK,USD,0.01,Eli Lilly and Company Common Stock ,Eli Lilly and Company Common Stock
+LMT,NYSE,STOCK,USD,0.01,Lockheed Martin Corporation Common ,Lockheed Martin Corporation Common
+LNG,AMEX,STOCK,USD,0.01,Cheniere Energy,Cheniere Energy
+LOCO,NASDAQ,STOCK,USD,0.01,El Pollo Loco Holdings,El Pollo Loco Holdings
+LOW,NYSE,STOCK,USD,0.01,Lowe,Lowe
+LULU,NASDAQ,STOCK,USD,0.01,lululemon athletica inc. Common Sto,lululemon athletica inc. Common Sto
+LUV,NYSE,STOCK,USD,0.01,Southwest Airlines Company Common S,Southwest Airlines Company Common S
+LVS,NYSE,STOCK,USD,0.01,Las Vegas Sands Corp. Common Stock ,Las Vegas Sands Corp. Common Stock
+LYB,NYSE,STOCK,USD,0.01,LyondellBasell Industries NV Ordina,LyondellBasell Industries NV Ordina
+M,NYSE,STOCK,USD,0.01,Macy,Macy
+MA,NYSE,STOCK,USD,0.01,Mastercard Incorporated Common Stoc,Mastercard Incorporated Common Stoc
+MAR,NASDAQ,STOCK,USD,0.01,Marriot International Class A Commo,Marriot International Class A Commo
+MAT,NASDAQ,STOCK,USD,0.01,Mattel,Mattel
+MBI,NYSE,STOCK,USD,0.01,MBIA Inc. Common Stock (MBI),MBIA Inc. Common Stock (MBI)
+MBLY,NYSE,STOCK,USD,0.01,Mobileye N.V. Ordinary Shares (MBLY,Mobileye N.V. Ordinary Shares (MBLY
+MC,NYSE,STOCK,USD,0.01,Moelis ,Moelis
+MCD,NYSE,STOCK,USD,0.01,McDonald,McDonald
+MCK,NYSE,STOCK,USD,0.01,McKesson Corporation Common Stock (,McKesson Corporation Common Stock (
+MDLZ,NASDAQ,STOCK,USD,0.01,Mondelez International,Mondelez International
+MDT,NYSE,STOCK,USD,0.01,Medtronic plc. Ordinary Shares (MDT,Medtronic plc. Ordinary Shares (MDT
+MDY,NYSE,STOCK,USD,0.01,SPDR MidCap Trust Series I (MDY),SPDR MidCap Trust Series I (MDY)
+MET,NYSE,STOCK,USD,0.01,MetLife,MetLife
+MGM,NYSE,STOCK,USD,0.01,MGM Resorts International Common St,MGM Resorts International Common St
+MNK,NYSE,STOCK,USD,0.01,Mallinckrodt plc Ordinary Shares (M,Mallinckrodt plc Ordinary Shares (M
+MNKD,NASDAQ,STOCK,USD,0.01,MannKind Corporation Common Stock (,MannKind Corporation Common Stock (
+MNST,NASDAQ,STOCK,USD,0.01,Monster Beverage Corporation (MNST),Monster Beverage Corporation (MNST)
+MOMO,NASDAQ,STOCK,USD,0.01,Momo Inc. American Depositary Share,Momo Inc. American Depositary Share
+MON,NYSE,STOCK,USD,0.01,Monsanto Company Common Stock (MON),Monsanto Company Common Stock (MON)
+MOS,NYSE,STOCK,USD,0.01,Mosaic Company (The) Common Stock (,Mosaic Company (The) Common Stock (
+MPC,NYSE,STOCK,USD,0.01,Marathon Petroleum Corporation Comm,Marathon Petroleum Corporation Comm
+MPEL,NASDAQ,STOCK,USD,0.01,Melco Crown Entertainment Limited A,Melco Crown Entertainment Limited A
+MRK,NYSE,STOCK,USD,0.01,Merck ,Merck
+MRO,NYSE,STOCK,USD,0.01,Marathon Oil Corporation Common Sto,Marathon Oil Corporation Common Sto
+MRVL,NASDAQ,STOCK,USD,0.01,Marvell Technology Group Ltd. Commo,Marvell Technology Group Ltd. Commo
+MS,NYSE,STOCK,USD,0.01,Morgan Stanley Common Stock (MS),Morgan Stanley Common Stock (MS)
+MSFT,NASDAQ,STOCK,USD,0.01,Microsoft Corporation Common Stock ,Microsoft Corporation Common Stock
+MT,NYSE,STOCK,USD,0.01,Arcelor Mittal NY Registry Shares N,Arcelor Mittal NY Registry Shares N
+MTG,NYSE,STOCK,USD,0.01,MGIC Investment Corporation Common ,MGIC Investment Corporation Common
+MU,NASDAQ,STOCK,USD,0.01,Micron Technology,Micron Technology
+MYGN,NASDAQ,STOCK,USD,0.01,Myriad Genetics,Myriad Genetics
+MYL,NASDAQ,STOCK,USD,0.01,Mylan N.V. Ordinary Shares (MYL),Mylan N.V. Ordinary Shares (MYL)
+NAV,NYSE,STOCK,USD,0.01,Navistar International Corporation ,Navistar International Corporation
+NE,NYSE,STOCK,USD,0.01,Noble Corporation Ordinary Shares (,Noble Corporation Ordinary Shares (
+NEM,NYSE,STOCK,USD,0.01,Newmont Mining Corporation (NEM),Newmont Mining Corporation (NEM)
+NFLX,NASDAQ,STOCK,USD,0.01,Netflix,Netflix
+NKE,NYSE,STOCK,USD,0.01,Nike,Nike
+LLY,NYSE,STOCK,USD,0.01,Eli Lilly and Company Common Stock ,Eli Lilly and Company Common Stock
+NOC,NYSE,STOCK,USD,0.01,Northrop Grumman Corporation Common,Northrop Grumman Corporation Common
+NOK,NYSE,STOCK,USD,0.01,Nokia Corporation Sponsored America,Nokia Corporation Sponsored America
+NOV,NYSE,STOCK,USD,0.01,National Oilwell Varco,National Oilwell Varco
+NOW,NYSE,STOCK,USD,0.01,ServiceNow,ServiceNow
+NQ,NYSE,STOCK,USD,0.01,NQ Mobile Inc. American Depositary ,NQ Mobile Inc. American Depositary
+NSC,NYSE,STOCK,USD,0.01,Norfolk Southern Corporation Common,Norfolk Southern Corporation Common
+NTAP,NASDAQ,STOCK,USD,0.01,NetApp,NetApp
+NTES,NASDAQ,STOCK,USD,0.01,NetEase,NetEase
+NUE,NYSE,STOCK,USD,0.01,Nucor Corporation Common Stock (NUE,Nucor Corporation Common Stock (NUE
+NUGT,NYSE,STOCK,USD,0.01,Direxion Daily Gold Miners Index Bu,Direxion Daily Gold Miners Index Bu
+NUS,NYSE,STOCK,USD,0.01,Nu Skin Enterprises,Nu Skin Enterprises
+NVDA,NASDAQ,STOCK,USD,0.01,NVIDIA Corporation Common Stock (NV,NVIDIA Corporation Common Stock (NV
+NXPI,NASDAQ,STOCK,USD,0.01,NXP Semiconductors N.V. Common Stoc,NXP Semiconductors N.V. Common Stoc
+OIH,NYSE,STOCK,USD,0.01,VanEck Vectors Oil Services ETF (OI,VanEck Vectors Oil Services ETF (OI
+OKE,NYSE,STOCK,USD,0.01,ONEOK,ONEOK
+OLN,NYSE,STOCK,USD,0.01,Olin Corporation Common Stock (OLN),Olin Corporation Common Stock (OLN)
+OPHT,NASDAQ,STOCK,USD,0.01,Ophthotech Corporation Common Stock,Ophthotech Corporation Common Stock
+OPK,NASDAQ,STOCK,USD,0.01,OPKO Health,OPKO Health
+ORCL,NYSE,STOCK,USD,0.01,Oracle Corporation Common Stock (OR,Oracle Corporation Common Stock (OR
+OXY,NYSE,STOCK,USD,0.01,Occidental Petroleum Corporation Co,Occidental Petroleum Corporation Co
+P,NYSE,STOCK,USD,0.01,Pandora Media,Pandora Media
+PANW,NYSE,STOCK,USD,0.01,Palo Alto Networks,Palo Alto Networks
+PBR,NYSE,STOCK,USD,0.01,Petroleo Brasileiro S.A.- Petrobras,Petroleo Brasileiro S.A.- Petrobras
+PBYI,NASDAQ,STOCK,USD,0.01,Puma Biotechnology Inc Common Stock,Puma Biotechnology Inc Common Stock
+PCLN,NASDAQ,STOCK,USD,0.01,The Priceline Group Inc. Common Sto,The Priceline Group Inc. Common Sto
+PEP,NYSE,STOCK,USD,0.01,Pepsico,Pepsico
+PFE,NYSE,STOCK,USD,0.01,Pfizer,Pfizer
+PG,NYSE,STOCK,USD,0.01,Procter ,Procter
+PHM,NYSE,STOCK,USD,0.01,PulteGroup,PulteGroup
+PLUG,NASDAQ,STOCK,USD,0.01,Plug Power,Plug Power
+REGN,NASDAQ,STOCK,USD,0.01,Regeneron Pharmaceuticals,Regeneron Pharmaceuticals
+RH,NYSE,STOCK,USD,0.01,RH Common Stock (RH),RH Common Stock (RH)
+RHT,NYSE,STOCK,USD,0.01,Red Hat,Red Hat
+RICE,NYSE,STOCK,USD,0.01,Rice Energy Inc. Common Stock (RICE,Rice Energy Inc. Common Stock (RICE
+RIG,NYSE,STOCK,USD,0.01,Transocean Ltd (Switzerland) Common,Transocean Ltd (Switzerland) Common
+RL,NYSE,STOCK,USD,0.01,Ralph Lauren Corporation Common Sto,Ralph Lauren Corporation Common Sto
+RSX,NYSE,STOCK,USD,0.01,VanEck Vectors Russia ETF (RSX),VanEck Vectors Russia ETF (RSX)
+S,NYSE,STOCK,USD,0.01,Sprint Corporation Common Stock (S),Sprint Corporation Common Stock (S)
+SBUX,NASDAQ,STOCK,USD,0.01,Starbucks Corporation Common Stock ,Starbucks Corporation Common Stock
+SCHW,NYSE,STOCK,USD,0.01,Charles Schwab Corporation (The) Co,Charles Schwab Corporation (The) Co
+SCO,NYSE,STOCK,USD,0.01,ProShares UltraShort Bloomberg Crud,ProShares UltraShort Bloomberg Crud
+SDRL,NYSE,STOCK,USD,0.01,Seadrill Limited Ordinary Shares (B,Seadrill Limited Ordinary Shares (B
+SDS,NYSE,STOCK,USD,0.01,ProShares UltraShort S,ProShares UltraShort S
+SFUN,NYSE,STOCK,USD,0.01,Fang Holdings Limited American Depo,Fang Holdings Limited American Depo
+SHAK,NYSE,STOCK,USD,0.01,Shake Shack,Shake Shack
+SHLD,NASDAQ,STOCK,USD,0.01,Sears Holdings Corporation Common S,Sears Holdings Corporation Common S
+SHPG,NASDAQ,STOCK,USD,0.01,Shire plc American Depositary Share,Shire plc American Depositary Share
+SIRI,NASDAQ,STOCK,USD,0.01,Sirius XM Holdings Inc. Common Stoc,Sirius XM Holdings Inc. Common Stoc
+SKX,NYSE,STOCK,USD,0.01,Skechers U.S.A.,Skechers U.S.A.
+SLB,NYSE,STOCK,USD,0.01,Schlumberger N.V. Common Stock (SLB,Schlumberger N.V. Common Stock (SLB
+SLV,NYSE,STOCK,USD,0.01,iShares Silver Trust (SLV),iShares Silver Trust (SLV)
+SLW,NYSE,STOCK,USD,0.01,Silver Wheaton Corp Common Shares (,Silver Wheaton Corp Common Shares (
+SNE,NYSE,STOCK,USD,0.01,Sony Corporation Common Stock (SNE),Sony Corporation Common Stock (SNE)
+SODA,NASDAQ,STOCK,USD,0.01,SodaStream International Ltd. Ordin,SodaStream International Ltd. Ordin
+SPLK,NASDAQ,STOCK,USD,0.01,Splunk Inc. Common Stock (SPLK),Splunk Inc. Common Stock (SPLK)
+SPLS,NASDAQ,STOCK,USD,0.01,Staples,Staples
+SPWR,NASDAQ,STOCK,USD,0.01,SunPower Corporation Common Stock (,SunPower Corporation Common Stock (
+SPY,NYSE,STOCK,USD,0.01,SPDR S,SPDR S
+SRPT,NASDAQ,STOCK,USD,0.01,Sarepta Therapeutics,Sarepta Therapeutics
+SSO,NYSE,STOCK,USD,0.01,ProShares Ultra S,ProShares Ultra S
+SSYS,NASDAQ,STOCK,USD,0.01,Stratasys,Stratasys
+STMP,NASDAQ,STOCK,USD,0.01,Stamps.com Inc.  Common Stock (,Stamps.com Inc.  Common Stock (
+STX,NASDAQ,STOCK,USD,0.01,Seagate Technology PLC Ordinary Sha,Seagate Technology PLC Ordinary Sha
+SU,NYSE,STOCK,USD,0.01,Suncor Energy  Inc. Common Stock (S,Suncor Energy  Inc. Common Stock (S
+SVXY,NYSE,STOCK,USD,0.01,ProShares Short VIX Short Term Futu,ProShares Short VIX Short Term Futu
+SWKS,NASDAQ,STOCK,USD,0.01,Skyworks Solutions,Skyworks Solutions
+SYF,NYSE,STOCK,USD,0.01,Synchrony Financial Common Stock (S,Synchrony Financial Common Stock (S
+SYMC,NASDAQ,STOCK,USD,0.01,Symantec Corporation Common Stock (,Symantec Corporation Common Stock (
+SYNA,NASDAQ,STOCK,USD,0.01,Synaptics Incorporated Common Stock,Synaptics Incorporated Common Stock
+T,NYSE,STOCK,USD,0.01,AT,AT
+TAP,NYSE,STOCK,USD,0.01,Molson Coors Brewing Company Class ,Molson Coors Brewing Company Class
+TASR,NASDAQ,STOCK,USD,0.01,TASER International,TASER International
+TBT,NYSE,STOCK,USD,0.01,ProShares UltraShort Lehman 20  Yea,ProShares UltraShort Lehman 20  Yea
+TEVA,NYSE,STOCK,USD,0.01,Teva Pharmaceutical Industries Limi,Teva Pharmaceutical Industries Limi
+TGT,NYSE,STOCK,USD,0.01,Target Corporation Common Stock (TG,Target Corporation Common Stock (TG
+THC,NYSE,STOCK,USD,0.01,Tenet Healthcare Corporation Common,Tenet Healthcare Corporation Common
+TIF,NYSE,STOCK,USD,0.01,Tiffany ,Tiffany
+TLT,NASDAQ,STOCK,USD,0.01,iShares 20 Year Treasury Bond ETF (,iShares 20 Year Treasury Bond ETF (
+TMUS,NASDAQ,STOCK,USD,0.01,T-Mobile US,T-Mobile US
+TNA,NYSE,STOCK,USD,0.01,Direxion Small Cap Bull 3X Shares (,Direxion Small Cap Bull 3X Shares (
+TOL,NYSE,STOCK,USD,0.01,Toll Brothers Inc. Common Stock (TO,Toll Brothers Inc. Common Stock (TO
+TQQQ,NASDAQ,STOCK,USD,0.01,ProShares UltraPro QQQ (TQQQ),ProShares UltraPro QQQ (TQQQ)
+TRIP,NASDAQ,STOCK,USD,0.01,TripAdvisor,TripAdvisor
+TRN,NYSE,STOCK,USD,0.01,Trinity Industries,Trinity Industries
+TSLA,NASDAQ,STOCK,USD,0.01,Tesla,Tesla
+TSN,NYSE,STOCK,USD,0.01,Tyson Foods,Tyson Foods
+TSO,NYSE,STOCK,USD,0.01,Tesoro Corporation Common Stock (TS,Tesoro Corporation Common Stock (TS
+TTM,NYSE,STOCK,USD,0.01,Tata Motors Ltd Tata Motors Limited,Tata Motors Ltd Tata Motors Limited
+TWLO,NYSE,STOCK,USD,0.01,Twilio Inc. Class A Common Stock (T,Twilio Inc. Class A Common Stock (T
+TWTR,NYSE,STOCK,USD,0.01,Twitter,Twitter
+TWX,NYSE,STOCK,USD,0.01,Time Warner Inc. New Common Stock (,Time Warner Inc. New Common Stock (
+TXN,NASDAQ,STOCK,USD,0.01,Texas Instruments Incorporated Comm,Texas Instruments Incorporated Comm
+TZA,NYSE,STOCK,USD,0.01,Direxion Small Cap Bear 3X Shares (,Direxion Small Cap Bear 3X Shares (
+UA,NYSE,STOCK,USD,0.01,Under Armour,Under Armour
+UAA,NYSE,STOCK,USD,0.01,Under Armour,Under Armour
+UCO,NYSE,STOCK,USD,0.01,ProShares Ultra Bloomberg Crude Oil,ProShares Ultra Bloomberg Crude Oil
+ULTA,NASDAQ,STOCK,USD,0.01,Ulta Beauty,Ulta Beauty
+UNG,NYSE,STOCK,USD,0.01,United States Natural Gas Fund LP (,United States Natural Gas Fund LP (
+UNH,NYSE,STOCK,USD,0.01,UnitedHealth Group Incorporated Com,UnitedHealth Group Incorporated Com
+UNP,NYSE,STOCK,USD,0.01,Union Pacific Corporation Common St,Union Pacific Corporation Common St
+UPRO,NYSE,STOCK,USD,0.01,ProShares UltraPro S,ProShares UltraPro S
+UPS,NYSE,STOCK,USD,0.01,United Parcel Service,United Parcel Service
+URBN,NASDAQ,STOCK,USD,0.01,Urban Outfitters,Urban Outfitters
+URI,NYSE,STOCK,USD,0.01,United Rentals,United Rentals
+USB,NYSE,STOCK,USD,0.01,U.S. Bancorp Common Stock (USB),U.S. Bancorp Common Stock (USB)
+USO,NYSE,STOCK,USD,0.01,United States Oil Fund (USO),United States Oil Fund (USO)
+UTX,NYSE,STOCK,USD,0.01,United Technologies Corporation Com,United Technologies Corporation Com
+UUP,NYSE,STOCK,USD,0.01,PowerShares DB USD Index Bullish (U,PowerShares DB USD Index Bullish (U
+UVXY,NYSE,STOCK,USD,0.01,ProShares Trust Ultra VIX Short Ter,ProShares Trust Ultra VIX Short Ter
+V,NYSE,STOCK,USD,0.01,Visa Inc. (V),Visa Inc. (V)
+VALE,NYSE,STOCK,USD,0.01,VALE S.A.  American Depositary Shar,VALE S.A.  American Depositary Shar
+VER,NYSE,STOCK,USD,0.01,VEREIT,VEREIT
+VIAB,NASDAQ,STOCK,USD,0.01,Viacom Inc. Class B Common Stock (V,Viacom Inc. Class B Common Stock (V
+VIPS,NYSE,STOCK,USD,0.01,Vipshop Holdings Limited American D,Vipshop Holdings Limited American D
+VIXY,NYSE,STOCK,USD,0.01,ProShares Trust VIX Short-Term Futu,ProShares Trust VIX Short-Term Futu
+VLO,NYSE,STOCK,USD,0.01,Valero Energy Corporation Common St,Valero Energy Corporation Common St
+VMW,NYSE,STOCK,USD,0.01,Vmware,Vmware
+VNET,NASDAQ,STOCK,USD,0.01,21Vianet Group,21Vianet Group
+VOD,NASDAQ,STOCK,USD,0.01,Vodafone Group Plc American Deposit,Vodafone Group Plc American Deposit
+VRTX,NASDAQ,STOCK,USD,0.01,Vertex Pharmaceuticals Incorporated,Vertex Pharmaceuticals Incorporated
+VRX,NYSE,STOCK,USD,0.01,Valeant Pharmaceuticals Internation,Valeant Pharmaceuticals Internation
+VWO,NYSE,STOCK,USD,0.01,Vanguard FTSE Emerging Markets ETF ,Vanguard FTSE Emerging Markets ETF
+VXX,NYSE,STOCK,USD,0.01,iPath S,iPath S
+VZ,NYSE,STOCK,USD,0.01,Verizon Communications Inc. Common ,Verizon Communications Inc. Common
+W,NYSE,STOCK,USD,0.01,Wayfair Inc. Class A Common Stock (,Wayfair Inc. Class A Common Stock (
+WB,NASDAQ,STOCK,USD,0.01,Weibo Corporation American Deposita,Weibo Corporation American Deposita
+WBA,NASDAQ,STOCK,USD,0.01,Walgreens Boots Alliance,Walgreens Boots Alliance
+WDAY,NYSE,STOCK,USD,0.01,Workday,Workday
+WDC,NASDAQ,STOCK,USD,0.01,Western Digital Corporation Common ,Western Digital Corporation Common
+WFC,NYSE,STOCK,USD,0.01,Wells Fargo ,Wells Fargo
+WFM,NASDAQ,STOCK,USD,0.01,Whole Foods Market,Whole Foods Market
+WFT,NYSE,STOCK,USD,0.01,Weatherford International plc (Irel,Weatherford International plc (Irel
+WHR,NYSE,STOCK,USD,0.01,Whirlpool Corporation Common Stock ,Whirlpool Corporation Common Stock
+WLL,NYSE,STOCK,USD,0.01,Whiting Petroleum Corporation Commo,Whiting Petroleum Corporation Commo
+WMB,NYSE,STOCK,USD,0.01,Williams Companies,Williams Companies
+WMT,NYSE,STOCK,USD,0.01,Wal-Mart Stores,Wal-Mart Stores
+WTW,NYSE,STOCK,USD,0.01,Weight Watchers International Inc W,Weight Watchers International Inc W
+WY,NYSE,STOCK,USD,0.01,Weyerhaeuser Company Common Stock (,Weyerhaeuser Company Common Stock (
+WYNN,NASDAQ,STOCK,USD,0.01,Wynn Resorts,Wynn Resorts
+X,NYSE,STOCK,USD,0.01,United States Steel Corporation Com,United States Steel Corporation Com
+XBI,NYSE,STOCK,USD,0.01,SPDR Series Trust  SPDR S,SPDR Series Trust  SPDR S
+XHB,NYSE,STOCK,USD,0.01,SPDR Series Trust SPDR Homebuilders,SPDR Series Trust SPDR Homebuilders
+XLB,NYSE,STOCK,USD,0.01,Materials Select Sector SPDR (XLB),Materials Select Sector SPDR (XLB)
+XLE,NYSE,STOCK,USD,0.01,SPDR Select Sector Fund - Energy Se,SPDR Select Sector Fund - Energy Se
+XLF,NYSE,STOCK,USD,0.01,SPDR Select Sector Fund - Financial,SPDR Select Sector Fund - Financial
+XLI,NYSE,STOCK,USD,0.01,SPDR Select Sector Fund - Industria,SPDR Select Sector Fund - Industria
+XLK,NYSE,STOCK,USD,0.01,SPDR Select Sector Fund - Technolog,SPDR Select Sector Fund - Technolog
+XME,NYSE,STOCK,USD,0.01,SPDR S,SPDR S
+XOM,NYSE,STOCK,USD,0.01,Exxon Mobil Corporation Common Stoc,Exxon Mobil Corporation Common Stoc
+XON,NYSE,STOCK,USD,0.01,Intrexon Corporation Common Stock (,Intrexon Corporation Common Stock (
+XRT,NYSE,STOCK,USD,0.01,SPDR S,SPDR S
+YANG,NYSE,STOCK,USD,0.01,Direxion Daily FTSE China Bear 3x S,Direxion Daily FTSE China Bear 3x S
+YELP,NYSE,STOCK,USD,0.01,Yelp Inc. Common Stock (YELP),Yelp Inc. Common Stock (YELP)
+YHOO,NASDAQ,STOCK,USD,0.01,Yahoo,Yahoo
+YNDX,NASDAQ,STOCK,USD,0.01,Yandex N.V. Class A Ordinary Shares,Yandex N.V. Class A Ordinary Shares
+YPF,NYSE,STOCK,USD,0.01,YPF Sociedad Anonima Common Stock (,YPF Sociedad Anonima Common Stock (
+YUM,NYSE,STOCK,USD,0.01,Yum,Yum
+YY,NASDAQ,STOCK,USD,0.01,YY Inc. American Depositary Shares ,YY Inc. American Depositary Shares
+Z,NASDAQ,STOCK,USD,0.01,Zillow Group,Zillow Group
+ZG,NASDAQ,STOCK,USD,0.01,Zillow Group,Zillow Group
+ZNGA,NASDAQ,STOCK,USD,0.01,Zynga Inc. Class A Common Stock (ZN,Zynga Inc. Class A Common Stock (ZN
+ZTS,NYSE,STOCK,USD,0.01,Zoetis Inc. Class A Common Stock (Z,Zoetis Inc. Class A Common Stock (Z
