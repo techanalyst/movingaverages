@@ -1,22 +1,21 @@
-IBN
-HDB
-INFO
-RDY
-INFO
-MMYY
-SIFY
-TTM
-VEDL
-VDTH
-WIT
-WNS
-SIFY
-VDTH
-RDY
-HDB
-IBN
-INFY
-TTM
-VEDL
-WIT
-WNS
+IBN,NYSE,STOCK,USD,0.01,ICICI Bank Limited Common Stock (IBN),ICICI Bank Limited Common Stock (IBN)
+HDB,NYSE,STOCK,USD,0.01,HDFC Bank Limited Common Stock (HDB),HDFC Bank Limited Common Stock (HDB)
+INFO,NASDAQ,STOCK,USD,0.01,IHS Markit Ltd. Common Shares (INFO),IHS Markit Ltd. Common Shares (INFO)
+RDY,NYSE,STOCK,USD,0.01,Dr. Reddy,Dr. Reddy
+INFO,NASDAQ,STOCK,USD,0.01,IHS Markit Ltd. Common Shares (INFO),IHS Markit Ltd. Common Shares (INFO)
+SIFY,NASDAQ,STOCK,USD,0.01,Sify Technologies Limited American Depositary Shar,Sify Technologies Limited American Depositary Shar
+TTM,NYSE,STOCK,USD,0.01,Tata Motors Ltd Tata Motors Limited (TTM),Tata Motors Ltd Tata Motors Limited (TTM)
+VEDL,NYSE,STOCK,USD,0.01,Vedanta Limited  American Depositary Shares (Each ,Vedanta Limited  American Depositary Shares (Each
+VDTH,NASDAQ,STOCK,USD,0.01,Videocon d2h Limited American Depositary Shares (V,Videocon d2h Limited American Depositary Shares (V
+WIT,NYSE,STOCK,USD,0.01,Wipro Limited Common Stock (WIT),Wipro Limited Common Stock (WIT)
+WNS,NYSE,STOCK,USD,0.01,WNS (Holdings) Limited Sponsored ADR (Jersey) (WNS,WNS (Holdings) Limited Sponsored ADR (Jersey) (WNS
+SIFY,NASDAQ,STOCK,USD,0.01,Sify Technologies Limited American Depositary Shar,Sify Technologies Limited American Depositary Shar
+VDTH,NASDAQ,STOCK,USD,0.01,Videocon d2h Limited American Depositary Shares (V,Videocon d2h Limited American Depositary Shares (V
+RDY,NYSE,STOCK,USD,0.01,Dr. Reddy,Dr. Reddy
+HDB,NYSE,STOCK,USD,0.01,HDFC Bank Limited Common Stock (HDB),HDFC Bank Limited Common Stock (HDB)
+IBN,NYSE,STOCK,USD,0.01,ICICI Bank Limited Common Stock (IBN),ICICI Bank Limited Common Stock (IBN)
+INFY,NYSE,STOCK,USD,0.01,Infosys Limited American Depositary Shares (INFY),Infosys Limited American Depositary Shares (INFY)
+TTM,NYSE,STOCK,USD,0.01,Tata Motors Ltd Tata Motors Limited (TTM),Tata Motors Ltd Tata Motors Limited (TTM)
+VEDL,NYSE,STOCK,USD,0.01,Vedanta Limited  American Depositary Shares (Each ,Vedanta Limited  American Depositary Shares (Each
+WIT,NYSE,STOCK,USD,0.01,Wipro Limited Common Stock (WIT),Wipro Limited Common Stock (WIT)
+WNS,NYSE,STOCK,USD,0.01,WNS (Holdings) Limited Sponsored ADR (Jersey) (WNS,WNS (Holdings) Limited Sponsored ADR (Jersey)
