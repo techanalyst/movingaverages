@@ -2,93 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac72f575-76b7-4080-b3e0-6c5d4199b512" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basics of Technical Analysis.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GLOBAL LEADERS.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IBD 50_Latest.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Money Management.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SECTOR LEADERS.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleInvestingPlan_CSI.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Stock Investing Plan.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Take ways from Spring config.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trading journal master-Paper Money (Autosaved).xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trading journal master-Paper Money.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trading journal master.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Trading journal master.xlsm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Transactions of 2016.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YOUR WEEKLY REVIEW.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NYSE.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NYSE_marketcap.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestWatchlist.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Weekly.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_dates.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gitconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jnk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/XBI-Biotech.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/2016 IBD Leaders.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/5g Wireless companies.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Airlines.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Big 20 - Latest.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Big 20.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Biotech.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Building and Construction Dec 5-2016.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Buys.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/CANSLIM SELECT.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/CHINESE.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Chips.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/DOW.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/ETFs - Foreign Stocks.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/ETFs - Sectors.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/ETFs - U.S Diversified Stocks.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/ETFs SPDR select.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/ETFs.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Energy Shale.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Energy Solar.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Energy-Coal.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Energy_Oil and Gas.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Forex.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Gaming.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Home builders.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IBD 50 Latest.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IBD 50.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IBD Security and Big Data Software.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IBD Shipping.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IBD TELECOM FIBER.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/IPOs.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Indian.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Indices.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Leaders down.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Leaders up.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Leading IPOs.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Mining-Gold SilverGems Group.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/NASDAQ.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/NYSE.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Nasdaq-100.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Oil&amp;Gas Pipeline.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Pet Product Companies.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Pullbacks.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/REIT - Cloud computing.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Restaurants.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Rounding Bottom.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Russel 3000.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/SPY Components.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Sells.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Shorts.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Steel related.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/Swing Trades.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/TSU Top 50.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/XRT-Retail.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/XRT.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/wmls/XTN-holdings.wml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IBD 50.xls" afterPath="$PROJECT_DIR$/IBD 50.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IPO LEADERS.xls" afterPath="$PROJECT_DIR$/IPO LEADERS.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Airlilnes.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BarronsCoverage.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/Cleanup.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/ETFS - Foreign stocks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/ETFs - U.S Diversified stocks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/ETFs Sectors" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/Gaming.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/solar.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/MiningAndGolSilver.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/build_mw_watchlist.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CANSLIM SELECT.wml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sector-spdr/XBI-Biotech.wml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xlf.xls" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XME_All_Holdings.xls" afterPath="$PROJECT_DIR$/XME_All_Holdings.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XTN_All_Holdings.xls" afterPath="$PROJECT_DIR$/XTN_All_Holdings.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xle.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xle.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xli.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xli.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xlk.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xlk.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xlp.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xlp.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xlu.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xlu.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xlv.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xlv.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xly.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xly.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/movingaverages.iml" afterPath="$PROJECT_DIR$/.idea/movingaverages.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For Shorting.csv" afterPath="$PROJECT_DIR$/For Shorting.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IBD 50.csv" afterPath="$PROJECT_DIR$/IBD 50.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IBD50 Latest.csv" afterPath="$PROJECT_DIR$/IBD50 Latest.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IBD_50.csv" afterPath="$PROJECT_DIR$/IBD_50.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Nasdaq 100.csv" afterPath="$PROJECT_DIR$/Nasdaq 100.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestWatchlist.csv" afterPath="$PROJECT_DIR$/TestWatchlist.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XRT_All_Holdings.csv" afterPath="$PROJECT_DIR$/XRT_All_Holdings.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XTN_transports.csv" afterPath="$PROJECT_DIR$/XTN_transports.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csvbackup/IBD_50.csv" afterPath="$PROJECT_DIR$/csvbackup/IBD_50.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/j.js" afterPath="$PROJECT_DIR$/j.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/test.html" afterPath="$PROJECT_DIR$/sector-spdr/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/xlf-financials.csv" afterPath="$PROJECT_DIR$/sector-spdr/xlf-financials.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/xlre-Real Estate.csv" afterPath="$PROJECT_DIR$/sector-spdr/xlre-Real Estate.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/xlu-Utilities.csv" afterPath="$PROJECT_DIR$/sector-spdr/xlu-Utilities.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solar.csv" afterPath="$PROJECT_DIR$/solar.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t.js" afterPath="$PROJECT_DIR$/t.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test.html" />
     </list>
     <ignored path="movingaverages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -110,48 +61,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IBD50 Latest.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IBD50 Latest.csv">
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="45975">
+              <caret line="3065" column="59" selection-start-line="3065" selection-start-column="41" selection-end-line="3065" selection-end-column="59" />
+              <folding>
+                <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#2;n#div#0;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#1;n#div#1;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#2;n#div#1;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#select#0;n#form#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#5;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#7;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#9;n#div#7;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#9;n#div#7;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#td#0;n#tr#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="j.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/j.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1245">
+              <caret line="83" column="171" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="171" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IBD 50.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IBD 50.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2175">
-              <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IPO LEADERS.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IPO LEADERS.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Big 20.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Big 20.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CANSLIM SELECT.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CANSLIM SELECT.csv">
+      <file leaf-file-name="get_dates.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_dates.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -160,83 +112,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="For Shorting.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/For Shorting.csv">
+      <file leaf-file-name="t.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/t.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="175">
+              <caret line="67" column="173" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="173" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.html">
+      <file leaf-file-name="t2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/t2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="993" column="74" selection-start-line="993" selection-start-column="69" selection-end-line="993" selection-end-column="74" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#a#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#div#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#button#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#button#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#span#0;n#div#0;n#div#0;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#button#1;n#div#1;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#a#0;n#div#0;n#div#0;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#a#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#button#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#a#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#button#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="160">
+              <caret line="45" column="173" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="173" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Airlilnes.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Airlilnes.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cleanup.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cleanup.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1016">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -277,6 +188,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -291,8 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/j.js" />
-        <option value="$PROJECT_DIR$/t.js" />
         <option value="$PROJECT_DIR$/Acquisitions Targets.csv" />
         <option value="$PROJECT_DIR$/Earnings Power.csv" />
         <option value="$PROJECT_DIR$/swingtrader.csv" />
@@ -332,7 +242,12 @@
         <option value="$PROJECT_DIR$/IBD50 Latest.csv" />
         <option value="$PROJECT_DIR$/IBD 50.csv" />
         <option value="$PROJECT_DIR$/For Shorting.csv" />
+        <option value="$PROJECT_DIR$/j.js" />
         <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/build_mw_watchlist.py" />
+        <option value="$PROJECT_DIR$/t.js" />
+        <option value="$PROJECT_DIR$/t2.js" />
+        <option value="$PROJECT_DIR$/Airlilnes.csv" />
       </list>
     </option>
   </component>
@@ -343,8 +258,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -391,8 +307,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -419,7 +335,6 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -516,7 +431,11 @@
       <workItem from="1489542020727" duration="6000" />
       <workItem from="1490190180598" duration="1009000" />
       <workItem from="1490576180450" duration="127000" />
-      <workItem from="1490576317506" duration="155000" />
+      <workItem from="1490576317506" duration="637000" />
+      <workItem from="1490755654049" duration="5779000" />
+      <workItem from="1490803021172" duration="2355000" />
+      <workItem from="1490815270776" duration="1809000" />
+      <workItem from="1491604855877" duration="1730000" />
     </task>
     <task id="LOCAL-00001" summary="Adding IBD 50 for Week of April 18th.">
       <created>1460931861870</created>
@@ -665,20 +584,27 @@
       <option name="project" value="LOCAL" />
       <updated>1488669229239</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Snapshot as of Mar26th, 2017. Tracking in Github">
+      <created>1490576608887</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1490576608887</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50811000" />
+    <option name="totallyTimeSpent" value="62966000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06144151" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20436928" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3551263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12549537" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -729,63 +655,14 @@
     <MESSAGE value="Adding Spdr sector holdings as on Feb 10 2017" />
     <MESSAGE value="REMOVED" />
     <MESSAGE value="Snapshot as of Feb26th" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snapshot as of Feb26th" />
+    <MESSAGE value="Snapshot as of Mar26th, 2017. Tracking in Github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snapshot as of Mar26th, 2017. Tracking in Github" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/j.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/j.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="81" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="171" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3D Printer companies.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/t.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="171" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="171" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Acquisitions Targets.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Export IBD50.csv" />
-    <entry file="file://$PROJECT_DIR$/jnk">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2775">
-          <caret line="185" column="2" selection-start-line="185" selection-start-column="2" selection-end-line="185" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sector-spdr/sector-spdr-xlf.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
@@ -895,13 +772,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sector-spdr/Mining and Gold silver.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sector-spdr/Mining and Gold silver.csv" />
     <entry file="file://$PROJECT_DIR$/Steel Stocks.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -909,13 +780,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Steel miners.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Steel miners.csv" />
     <entry file="file://$PROJECT_DIR$/output.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -943,25 +808,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dow 30.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Dow 30.csv" />
     <entry file="file://$PROJECT_DIR$/Buiding and Construction.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -969,13 +816,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Oil&amp;Gas Transport Pipeline.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Oil&amp;Gas Transport Pipeline.csv" />
     <entry file="file://$PROJECT_DIR$/Pullbacks.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1011,35 +852,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IBD 50.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2175">
-          <caret line="145" column="4" selection-start-line="145" selection-start-column="4" selection-end-line="145" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/IBD 50.csv" />
     <entry file="file://$PROJECT_DIR$/IBD50 Latest.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IPO LEADERS.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/IPO LEADERS.csv" />
     <entry file="file://$PROJECT_DIR$/Big 20.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,75 +881,6 @@
         <state relative-caret-position="150">
           <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="993" column="74" selection-start-line="993" selection-start-column="69" selection-end-line="993" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#a#0;n#li#11;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#td#1;n#tr#0;n#tbody#0;n#table#0;n#form#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#button#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#button#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#span#0;n#div#0;n#div#0;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#button#1;n#div#1;n#div#0;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#1;n#header#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#a#0;n#div#0;n#div#0;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#a#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#button#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#i#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#a#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#button#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#button#0;n#div#0;n#div#2;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#section#0;n#section#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#2;n#aside#0;n#div#1;n#section#0;n#div#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1148,6 +904,91 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_dates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/j.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="171" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="171" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45975">
+          <caret line="3065" column="59" selection-start-line="3065" selection-start-column="41" selection-end-line="3065" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#2;n#div#0;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#1;n#div#1;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#2;n#div#1;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#form#0;n#div#1;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#5;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#1;n#div#7;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#9;n#div#7;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#9;n#div#7;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#td#0;n#tr#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_mw_watchlist.py" />
+    <entry file="file://$PROJECT_DIR$/t.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="67" column="173" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="173" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/t2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="45" column="173" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="173" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Airlilnes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cleanup.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1016">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -1,29 +1,29 @@
-SPG
-AMT
-PSA
-CCI
-EQIX
-PLD
-WY
-AVB
-HCN
-EQR
-VTR
-BXP
-VNO
-DLR
-O
-ESS
-GGP
-HCP
-HST
-MAA
-SLG
-KIM
-FRT
-CBG
-UDR
-EXR
-IRM
-MAC
-AIV
+SPG,NYSE,STOCK,USD,0.01,Simon Property Group,Simon Property Group
+AMT,NYSE,STOCK,USD,0.01,American Tower Corporation (REIT) Common Stock (AM,American Tower Corporation (REIT) Common Stock (AM
+PSA,NYSE,STOCK,USD,0.01,Public Storage Common Stock (PSA),Public Storage Common Stock (PSA)
+CCI,NYSE,STOCK,USD,0.01,Crown Castle International Corp. (REIT) Common Sto,Crown Castle International Corp. (REIT) Common Sto
+EQIX,NASDAQ,STOCK,USD,0.01,Equinix,Equinix
+PLD,NYSE,STOCK,USD,0.01,ProLogis,ProLogis
+WY,NYSE,STOCK,USD,0.01,Weyerhaeuser Company Common Stock (WY),Weyerhaeuser Company Common Stock (WY)
+AVB,NYSE,STOCK,USD,0.01,AvalonBay Communities,AvalonBay Communities
+HCN,NYSE,STOCK,USD,0.01,Welltower Inc. Common Stock (HCN),Welltower Inc. Common Stock (HCN)
+EQR,NYSE,STOCK,USD,0.01,Equity Residential Common Shares of Beneficial Int,Equity Residential Common Shares of Beneficial Int
+VTR,NYSE,STOCK,USD,0.01,Ventas,Ventas
+BXP,NYSE,STOCK,USD,0.01,Boston Properties,Boston Properties
+VNO,NYSE,STOCK,USD,0.01,Vornado Realty Trust Common Stock (VNO),Vornado Realty Trust Common Stock (VNO)
+DLR,NYSE,STOCK,USD,0.01,Digital Realty Trust,Digital Realty Trust
+O,NYSE,STOCK,USD,0.01,Realty Income Corporation Common Stock (O),Realty Income Corporation Common Stock (O)
+ESS,NYSE,STOCK,USD,0.01,Essex Property Trust,Essex Property Trust
+GGP,NYSE,STOCK,USD,0.01,GGP Inc. Common Stock (GGP),GGP Inc. Common Stock (GGP)
+HCP,NYSE,STOCK,USD,0.01,HCP,HCP
+HST,NYSE,STOCK,USD,0.01,Host Hotels & Resorts,Host Hotels & Resorts
+MAA,NYSE,STOCK,USD,0.01,Mid-America Apartment Communities,Mid-America Apartment Communities
+SLG,NYSE,STOCK,USD,0.01,SL Green Realty Corporation Common Stock (SLG),SL Green Realty Corporation Common Stock (SLG)
+KIM,NYSE,STOCK,USD,0.01,Kimco Realty Corporation Common Stock (KIM),Kimco Realty Corporation Common Stock (KIM)
+FRT,NYSE,STOCK,USD,0.01,Federal Realty Investment Trust Common Stock (FRT),Federal Realty Investment Trust Common Stock (FRT)
+CBG,NYSE,STOCK,USD,0.01,CBRE Group Inc Common Stock Class A (CBG),CBRE Group Inc Common Stock Class A (CBG)
+UDR,NYSE,STOCK,USD,0.01,UDR,UDR
+EXR,NYSE,STOCK,USD,0.01,Extra Space Storage Inc Common Stock (EXR),Extra Space Storage Inc Common Stock (EXR)
+IRM,NYSE,STOCK,USD,0.01,Iron Mountain Incorporated (Delaware)Common Stock ,Iron Mountain Incorporated (Delaware)Common Stock
+MAC,NYSE,STOCK,USD,0.01,Macerich Company (The) Common Stock (MAC),Macerich Company (The) Common Stock (MAC)
+AIV,NYSE,STOCK,USD,0.01,Apartment Investment and Management Company Common,Apartment Investment and Management Company Common

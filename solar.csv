@@ -1,14 +1,11 @@
-FSLR
-CAFD
-JKS
-SEDG
-DQ
-SPWR
-RUN
-VSLR
-JASO
-ENPH
-HQCL
-SPI
-
-
+FSLR,NASDAQ,STOCK,USD,0.01,First Solar,First Solar
+CAFD,NASDAQ,STOCK,USD,0.01,8point3 Energy Partners LP Class A shares (CAFD),8point3 Energy Partners LP Class A shares (CAFD)
+JKS,NYSE,STOCK,USD,0.01,JinkoSolar Holding Company Limited American Deposi,JinkoSolar Holding Company Limited American Deposi
+SEDG,NASDAQ,STOCK,USD,0.01,SolarEdge Technologies,SolarEdge Technologies
+DQ,NYSE,STOCK,USD,0.01,DAQO New Energy Corp. American Depositary Shares,DAQO New Energy Corp. American Depositary Shares
+SPWR,NASDAQ,STOCK,USD,0.01,SunPower Corporation Common Stock (SPWR),SunPower Corporation Common Stock (SPWR)
+RUN,NASDAQ,STOCK,USD,0.01,Sunrun Inc. Common Stock (RUN),Sunrun Inc. Common Stock (RUN)
+VSLR,NYSE,STOCK,USD,0.01,Vivint Solar,Vivint Solar
+JASO,NASDAQ,STOCK,USD,0.01,JA Solar Holdings,JA Solar Holdings
+ENPH,NASDAQ,STOCK,USD,0.01,Enphase Energy,Enphase Energy
+HQCL,NASDAQ,STOCK,USD,0.01,Hanwha Q CELLS Co.,Hanwha Q CELLS Co.

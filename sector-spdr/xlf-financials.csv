@@ -1,63 +1,64 @@
-BRK.b,NYSE,STOCK,USD,0.01,Berkshire Hathaway B,Berkshire Hathaway B
-JPM,NYSE,STOCK,USD,0.01,JP Morgan Chase & Co,JP Morgan Chase & Co
-WFC,NYSE,STOCK,USD,0.01,Wells Fargo & Co,Wells Fargo & Co
-BAC,NYSE,STOCK,USD,0.01,Bank of America Corp,Bank of America Corp
-C,NYSE,STOCK,USD,0.01,Citigroup Inc,Citigroup Inc
-GS,NYSE,STOCK,USD,0.01,Goldman Sachs Group Inc,Goldman Sachs Group Inc
-USB,NYSE,STOCK,USD,0.01,US Bancorp,US Bancorp
-MS,NYSE,STOCK,USD,0.01,Morgan Stanley,Morgan Stanley
-AIG,NYSE,STOCK,USD,0.01,American Intl Group Inc,American Intl Group Inc
-CB,NYSE,STOCK,USD,0.01,Chubb Limited,Chubb Limited
-AXP,NYSE,STOCK,USD,0.01,American Express Co,American Express Co
-PNC,NYSE,STOCK,USD,0.01,PNC Finl Services Group,PNC Finl Services Group
-MET,NYSE,STOCK,USD,0.01,Metlife Inc,Metlife Inc
-BK,NYSE,STOCK,USD,0.01,The Bank of New York Mellon Corp,The Bank of New York Mellon Corp
-SCHW,NYSE,STOCK,USD,0.01,Schwab Charles Corp,Schwab Charles Corp
-PRU,NYSE,STOCK,USD,0.01,Prudential Financial Inc,Prudential Financial Inc
-BLK,NYSE,STOCK,USD,0.01,BlackRock Inc,BlackRock Inc
-COF,NYSE,STOCK,USD,0.01,Capital One Financial,Capital One Financial
-CME,NYSE,STOCK,USD,0.01,CME Group Inc A,CME Group Inc A
-BBT,NYSE,STOCK,USD,0.01,BB&T Corp,BB&T Corp
-MMC,NYSE,STOCK,USD,0.01,Marsh & McLennan Companies,Marsh & McLennan Companies
-ICE,NYSE,STOCK,USD,0.01,Intercontinental Exchange Inc,Intercontinental Exchange Inc
-TRV,NYSE,STOCK,USD,0.01,Travelers Cos Inc,Travelers Cos Inc
-SPGI,NASDAQ,STOCK,USD,0.01,S&P Global Inc,S&P Global Inc
-AON,NYSE,STOCK,USD,0.01,Aon plc,Aon plc
-ALL,NYSE,STOCK,USD,0.01,Allstate Corp,Allstate Corp
-AFL,NYSE,STOCK,USD,0.01,AFLAC Inc,AFLAC Inc
-SYF,NYSE,STOCK,USD,0.01,Synchrony Financial,Synchrony Financial
-STI,NYSE,STOCK,USD,0.01,SunTrust Banks Inc (GA),SunTrust Banks Inc (GA)
-STT,NYSE,STOCK,USD,0.01,State Street Corp,State Street Corp
-DFS,NYSE,STOCK,USD,0.01,Discover Financial Services,Discover Financial Services
-MTB,NYSE,STOCK,USD,0.01,M&T Bank Corp,M&T Bank Corp
-PGR,NYSE,STOCK,USD,0.01,Progressive Corp,Progressive Corp
-FITB,NASDAQ,STOCK,USD,0.01,Fifth Third Bancorp (OH),Fifth Third Bancorp (OH)
-AMP,NYSE,STOCK,USD,0.01,Ameriprise Financial Inc,Ameriprise Financial Inc
-KEY,NYSE,STOCK,USD,0.01,KeyCorp,KeyCorp
-CFG,NYSE,STOCK,USD,0.01,Citizens Financial Group Inc,Citizens Financial Group Inc
-RF,NYSE,STOCK,USD,0.01,Regions Financial Corp,Regions Financial Corp
-HIG,NYSE,STOCK,USD,0.01,Hartford Finl Services Group,Hartford Finl Services Group
-MCO,NYSE,STOCK,USD,0.01,Moody's Corp,Moody's Corp
-NTRS,NASDAQ,STOCK,USD,0.01,Northern Trust Corp (IL),Northern Trust Corp (IL)
-TROW,NASDAQ,STOCK,USD,0.01,T Rowe Price Group Inc,T Rowe Price Group Inc
-PFG,NYSE,STOCK,USD,0.01,Principal Financial Group,Principal Financial Group
-LNC,NYSE,STOCK,USD,0.01,Lincoln National Corp,Lincoln National Corp
-WLTW,NASDAQ,STOCK,USD,0.01,Willis Towers Watson PLC,Willis Towers Watson PLC
-HBAN,NASDAQ,STOCK,USD,0.01,Huntington Bancshares (OH),Huntington Bancshares (OH)
-BEN,NYSE,STOCK,USD,0.01,Franklin Resources Inc,Franklin Resources Inc
-IVZ,NYSE,STOCK,USD,0.01,Invesco Ltd,Invesco Ltd
-L,NYSE,STOCK,USD,0.01,Loews Corp,Loews Corp
-CMA,NYSE,STOCK,USD,0.01,Comerica Inc (MI),Comerica Inc (MI)
-UNM,NYSE,STOCK,USD,0.01,Unum Group,Unum Group
-CINF,NASDAQ,STOCK,USD,0.01,Cincinnati Financial Corp,Cincinnati Financial Corp
-XL,NYSE,STOCK,USD,0.01,XL Group Ltd,XL Group Ltd
-AJG,NYSE,STOCK,USD,0.01,Gallagher Arthur J. & Co,Gallagher Arthur J. & Co
-ETFC,NASDAQ,STOCK,USD,0.01,E*TRADE Financial Corp,E*TRADE Financial Corp
-AMG,NYSE,STOCK,USD,0.01,Affiliated Managers Grp,Affiliated Managers Grp
-ZION,NASDAQ,STOCK,USD,0.01,Zions Bancorp (UT),Zions Bancorp (UT)
-TMK,NYSE,STOCK,USD,0.01,Torchmark Corp,Torchmark Corp
-LUK,NYSE,STOCK,USD,0.01,Leucadia National Corp (NY),Leucadia National Corp (NY)
-NDAQ,NASDAQ,STOCK,USD,0.01,Nasdaq Inc,Nasdaq Inc
-PBCT,NASDAQ,STOCK,USD,0.01,People's United Financial Inc,People's United Financial Inc
-AIZ,NYSE,STOCK,USD,0.01,Assurant Inc,Assurant Inc
-NAVI,NASDAQ,STOCK,USD,0.01,Navient Corp,Navient Corp
+BRK.b
+JPM
+WFC
+BAC
+C
+GS
+USB
+MS
+AIG
+CB
+AXP
+PNC
+MET
+BK
+SCHW
+PRU
+BLK
+COF
+CME
+BBT
+MMC
+ICE
+TRV
+SPGI
+AON
+ALL
+AFL
+SYF
+STI
+STT
+DFS
+MTB
+PGR
+FITB
+AMP
+KEY
+CFG
+RF
+HIG
+MCO
+NTRS
+TROW
+PFG
+LNC
+WLTW
+HBAN
+BEN
+IVZ
+L
+CMA
+UNM
+CINF
+XL
+AJG
+ETFC
+AMG
+ZION
+TMK
+LUK
+NDAQ
+PBCT
+AIZ
+NAVI
+AMTD
