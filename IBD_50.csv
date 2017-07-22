@@ -1,157 +1,207 @@
-NVDA,NASDAQ,STOCK,USD,0.01,NVIDIA Corporation Common Stock ,NVIDIA Corporation Common Stock 
-ESNT,NYSE,STOCK,USD,0.01,Essent Group Ltd. Common Shares ,Essent Group Ltd. Common Shares 
-AEIS,NASDAQ,STOCK,USD,0.01,Advanced Energy Industries,Advanced Energy Industries
-HQY,NASDAQ,STOCK,USD,0.01,HealthEquity,HealthEquity
-UBNT,NASDAQ,STOCK,USD,0.01,Ubiquiti Networks,Ubiquiti Networks
-THO,NYSE,STOCK,USD,0.01,Thor Industries,Thor Industries
-IDCC,NASDAQ,STOCK,USD,0.01,InterDigital,InterDigital
-EVR,NYSE,STOCK,USD,0.01,Evercore Partners Inc Class A Commo,Evercore Partners Inc Class A Commo
-MRCY,NASDAQ,STOCK,USD,0.01,Mercury Systems Inc Common Stock ,Mercury Systems Inc Common Stock 
-CFG,NYSE,STOCK,USD,0.01,Citizens Financial Group,Citizens Financial Group
-BOFI,NASDAQ,STOCK,USD,0.01,BofI Holding,BofI Holding
-NTES,NASDAQ,STOCK,USD,0.01,NetEase,NetEase
-GRUB,NYSE,STOCK,USD,0.01,GrubHub Inc. Common Stock ,GrubHub Inc. Common Stock 
-RDN,NYSE,STOCK,USD,0.01,Radian Group Inc. Common Stock ,Radian Group Inc. Common Stock 
-WAL,NYSE,STOCK,USD,0.01,Western Alliance Bancorporation Com,Western Alliance Bancorporation Com
-WTFC,NASDAQ,STOCK,USD,0.01,Wintrust Financial Corporation Comm,Wintrust Financial Corporation Comm
-PRI,NYSE,STOCK,USD,0.01,Primerica,Primerica
-AMAT,NASDAQ,STOCK,USD,0.01,Applied Materials,Applied Materials
-PLAY,NASDAQ,STOCK,USD,0.01,Dave ,Dave 
-EXP,NYSE,STOCK,USD,0.01,Eagle Materials Inc Common Stock ,Eagle Materials Inc Common Stock 
-UTHR,NASDAQ,STOCK,USD,0.01,United Therapeutics Corporation Com,United Therapeutics Corporation Com
-VEEV,NYSE,STOCK,USD,0.01,Veeva Systems Inc. Class A Common S,Veeva Systems Inc. Class A Common S
-MXL,NYSE,STOCK,USD,0.01,MaxLinear,MaxLinear
-ZION,NASDAQ,STOCK,USD,0.01,Zions Bancorporation Common Stock ,Zions Bancorporation Common Stock 
-COMM,NASDAQ,STOCK,USD,0.01,CommScope Holding Company,CommScope Holding Company
-LOGM,NASDAQ,STOCK,USD,0.01,LogMeIn,LogMeIn
-BPFH,NASDAQ,STOCK,USD,0.01,Boston Private Financial Holdings,Boston Private Financial Holdings
-EWBC,NASDAQ,STOCK,USD,0.01,East West Bancorp,East West Bancorp
-CGNX,NASDAQ,STOCK,USD,0.01,Cognex Corporation Common Stock ,Cognex Corporation Common Stock 
-AVGO,NASDAQ,STOCK,USD,0.01,Broadcom Limited Ordinary Shares ,Broadcom Limited Ordinary Shares 
-SCHW,NYSE,STOCK,USD,0.01,Charles Schwab Corporation  Co,Charles Schwab Corporation  Co
-MSCC,NASDAQ,STOCK,USD,0.01,Microsemi Corporation Common Stock ,Microsemi Corporation Common Stock 
-STL,NYSE,STOCK,USD,0.01,Sterling Bancorp ,Sterling Bancorp 
-OZRK,NASDAQ,STOCK,USD,0.01,Bank of the Ozarks Common Stock ,Bank of the Ozarks Common Stock 
-TCBI,NASDAQ,STOCK,USD,0.01,Texas Capital Bancshares,Texas Capital Bancshares
-HOMB,NASDAQ,STOCK,USD,0.01,Home BancShares,Home BancShares
-BC,NYSE,STOCK,USD,0.01,Brunswick Corporation Common Stock ,Brunswick Corporation Common Stock 
-LRCX,NASDAQ,STOCK,USD,0.01,Lam Research Corporation Common Sto,Lam Research Corporation Common Sto
-CMA,NYSE,STOCK,USD,0.01,Comerica Incorporated Common Stock ,Comerica Incorporated Common Stock 
-MASI,NASDAQ,STOCK,USD,0.01,Masimo Corporation Common Stock ,Masimo Corporation Common Stock 
-ULTA,NASDAQ,STOCK,USD,0.01,Ulta Beauty,Ulta Beauty
-MTCH,NASDAQ,STOCK,USD,0.01,Match Group,Match Group
-MPWR,NASDAQ,STOCK,USD,0.01,Monolithic Power Systems,Monolithic Power Systems
-CAVM,NASDAQ,STOCK,USD,0.01,Cavium,Cavium
-FRC,NYSE,STOCK,USD,0.01,FIRST REPUBLIC BANK Common Stock ,FIRST REPUBLIC BANK Common Stock 
-QRVO,NASDAQ,STOCK,USD,0.01,Qorvo,Qorvo
-TAL,NYSE,STOCK,USD,0.01,TAL Education Group American Deposi,TAL Education Group American Deposi
-MCHP,NASDAQ,STOCK,USD,0.01,Microchip Technology Incorporated C,Microchip Technology Incorporated C
-BABA,NYSE,STOCK,USD,0.01,Alibaba Group Holding Limited Ameri,Alibaba Group Holding Limited Ameri
-JCOM,NASDAQ,STOCK,USD,0.01,j2 Global,j2 Global
-NTES,NASDAQ,STOCK,USD,0.01,NetEase,NetEase
-NVDA,NASDAQ,STOCK,USD,0.01,NVIDIA Corporation Common Stock ,NVIDIA Corporation Common Stock 
-CGNX,NASDAQ,STOCK,USD,0.01,Cognex Corporation Common Stock ,Cognex Corporation Common Stock 
-AEIS,NASDAQ,STOCK,USD,0.01,Advanced Energy Industries,Advanced Energy Industries
-THO,NYSE,STOCK,USD,0.01,Thor Industries,Thor Industries
-ANET,NYSE,STOCK,USD,0.01,Arista Networks,Arista Networks
-MRCY,NASDAQ,STOCK,USD,0.01,Mercury Systems Inc Common Stock ,Mercury Systems Inc Common Stock 
-MASI,NASDAQ,STOCK,USD,0.01,Masimo Corporation Common Stock ,Masimo Corporation Common Stock 
-ESNT,NYSE,STOCK,USD,0.01,Essent Group Ltd. Common Shares ,Essent Group Ltd. Common Shares 
-AMAT,NASDAQ,STOCK,USD,0.01,Applied Materials,Applied Materials
-EVR,NYSE,STOCK,USD,0.01,Evercore Partners Inc Class A Commo,Evercore Partners Inc Class A Commo
-HQY,NASDAQ,STOCK,USD,0.01,HealthEquity,HealthEquity
-CFG,NYSE,STOCK,USD,0.01,Citizens Financial Group,Citizens Financial Group
-BOFI,NASDAQ,STOCK,USD,0.01,BofI Holding,BofI Holding
-ZION,NASDAQ,STOCK,USD,0.01,Zions Bancorporation Common Stock ,Zions Bancorporation Common Stock 
-PLAY,NASDAQ,STOCK,USD,0.01,Dave ,Dave 
-AVGO,NASDAQ,STOCK,USD,0.01,Broadcom Limited Ordinary Shares ,Broadcom Limited Ordinary Shares 
-SBGI,NASDAQ,STOCK,USD,0.01,Sinclair Broadcast Group,Sinclair Broadcast Group
-RDN,NYSE,STOCK,USD,0.01,Radian Group Inc. Common Stock ,Radian Group Inc. Common Stock 
-WAL,NYSE,STOCK,USD,0.01,Western Alliance Bancorporation Com,Western Alliance Bancorporation Com
-WTFC,NASDAQ,STOCK,USD,0.01,Wintrust Financial Corporation Comm,Wintrust Financial Corporation Comm
-AMN,NYSE,STOCK,USD,0.01,AMN Healthcare Services Inc AMN Hea,AMN Healthcare Services Inc AMN Hea
-MCHP,NASDAQ,STOCK,USD,0.01,Microchip Technology Incorporated C,Microchip Technology Incorporated C
-EWBC,NASDAQ,STOCK,USD,0.01,East West Bancorp,East West Bancorp
-VEEV,NYSE,STOCK,USD,0.01,Veeva Systems Inc. Class A Common S,Veeva Systems Inc. Class A Common S
-BPFH,NASDAQ,STOCK,USD,0.01,Boston Private Financial Holdings,Boston Private Financial Holdings
-STL,NYSE,STOCK,USD,0.01,Sterling Bancorp ,Sterling Bancorp 
-TAL,NYSE,STOCK,USD,0.01,TAL Education Group American Deposi,TAL Education Group American Deposi
-CMA,NYSE,STOCK,USD,0.01,Comerica Incorporated Common Stock ,Comerica Incorporated Common Stock 
-TCBI,NASDAQ,STOCK,USD,0.01,Texas Capital Bancshares,Texas Capital Bancshares
-COR,NYSE,STOCK,USD,0.01,CoreSite Realty Corporation Common ,CoreSite Realty Corporation Common 
-MBLY,NYSE,STOCK,USD,0.01,Mobileye N.V. Ordinary Shares ,Mobileye N.V. Ordinary Shares 
-BABA,NYSE,STOCK,USD,0.01,Alibaba Group Holding Limited Ameri,Alibaba Group Holding Limited Ameri
-SCHW,NYSE,STOCK,USD,0.01,Charles Schwab Corporation  Co,Charles Schwab Corporation  Co
-FRC,NYSE,STOCK,USD,0.01,FIRST REPUBLIC BANK Common Stock ,FIRST REPUBLIC BANK Common Stock 
-ZBRA,NASDAQ,STOCK,USD,0.01,Zebra Technologies Corporation Clas,Zebra Technologies Corporation Clas
-BC,NYSE,STOCK,USD,0.01,Brunswick Corporation Common Stock ,Brunswick Corporation Common Stock 
-SNPS,NASDAQ,STOCK,USD,0.01,Synopsys,Synopsys
-QRVO,NASDAQ,STOCK,USD,0.01,Qorvo,Qorvo
-OZRK,NASDAQ,STOCK,USD,0.01,Bank of the Ozarks Common Stock ,Bank of the Ozarks Common Stock 
-LRCX,NASDAQ,STOCK,USD,0.01,Lam Research Corporation Common Sto,Lam Research Corporation Common Sto
-MOMO,NASDAQ,STOCK,USD,0.01,Momo Inc. American Depositary Share,Momo Inc. American Depositary Share
-EXP,NYSE,STOCK,USD,0.01,Eagle Materials Inc Common Stock ,Eagle Materials Inc Common Stock 
-MPWR,NASDAQ,STOCK,USD,0.01,Monolithic Power Systems,Monolithic Power Systems
-HOMB,NASDAQ,STOCK,USD,0.01,Home BancShares,Home BancShares
-CDW,NASDAQ,STOCK,USD,0.01,CDW Corporation Common Stock ,CDW Corporation Common Stock 
-ATHM,NYSE,STOCK,USD,0.01,Autohome Inc. American Depositary S,Autohome Inc. American Depositary S
-NCR,NYSE,STOCK,USD,0.01,NCR Corporation Common Stock ,NCR Corporation Common Stock 
-ULTA,NASDAQ,STOCK,USD,0.01,Ulta Beauty,Ulta Beauty
-FB,NASDAQ,STOCK,USD,0.01,Facebook,Facebook
-NVDA,NASDAQ,STOCK,USD,0.01,NVIDIA Corporation Common Stock ,NVIDIA Corporation Common Stock 
-CGNX,NASDAQ,STOCK,USD,0.01,Cognex Corporation Common Stock ,Cognex Corporation Common Stock 
-NTES,NASDAQ,STOCK,USD,0.01,NetEase,NetEase
-ANET,NYSE,STOCK,USD,0.01,Arista Networks,Arista Networks
-AEIS,NASDAQ,STOCK,USD,0.01,Advanced Energy Industries,Advanced Energy Industries
-MRCY,NASDAQ,STOCK,USD,0.01,Mercury Systems Inc Common Stock ,Mercury Systems Inc Common Stock 
-MASI,NASDAQ,STOCK,USD,0.01,Masimo Corporation Common Stock ,Masimo Corporation Common Stock 
-THO,NYSE,STOCK,USD,0.01,Thor Industries,Thor Industries
-ESNT,NYSE,STOCK,USD,0.01,Essent Group Ltd. Common Shares ,Essent Group Ltd. Common Shares 
-BEAT,NASDAQ,STOCK,USD,0.01,BioTelemetry,BioTelemetry
-AVGO,NASDAQ,STOCK,USD,0.01,Broadcom Limited Ordinary Shares ,Broadcom Limited Ordinary Shares 
-AMAT,NASDAQ,STOCK,USD,0.01,Applied Materials,Applied Materials
-CFG,NYSE,STOCK,USD,0.01,Citizens Financial Group,Citizens Financial Group
-EVR,NYSE,STOCK,USD,0.01,Evercore Partners Inc Class A Commo,Evercore Partners Inc Class A Commo
-PLAY,NASDAQ,STOCK,USD,0.01,Dave ,Dave 
-AM,NYSE,STOCK,USD,0.01,Antero Midstream Partners LP Common,Antero Midstream Partners LP Common
-HQY,NASDAQ,STOCK,USD,0.01,HealthEquity,HealthEquity
-DY,NYSE,STOCK,USD,0.01,Dycom Industries,Dycom Industries
-MCHP,NASDAQ,STOCK,USD,0.01,Microchip Technology Incorporated C,Microchip Technology Incorporated C
-SBGI,NASDAQ,STOCK,USD,0.01,Sinclair Broadcast Group,Sinclair Broadcast Group
-WAL,NYSE,STOCK,USD,0.01,Western Alliance Bancorporation Com,Western Alliance Bancorporation Com
-RDN,NYSE,STOCK,USD,0.01,Radian Group Inc. Common Stock ,Radian Group Inc. Common Stock 
-WTFC,NASDAQ,STOCK,USD,0.01,Wintrust Financial Corporation Comm,Wintrust Financial Corporation Comm
-BOFI,NASDAQ,STOCK,USD,0.01,BofI Holding,BofI Holding
-ZION,NASDAQ,STOCK,USD,0.01,Zions Bancorporation Common Stock ,Zions Bancorporation Common Stock 
-IDXX,NASDAQ,STOCK,USD,0.01,IDEXX Laboratories,IDEXX Laboratories
-TAL,NYSE,STOCK,USD,0.01,TAL Education Group American Deposi,TAL Education Group American Deposi
-BPFH,NASDAQ,STOCK,USD,0.01,Boston Private Financial Holdings,Boston Private Financial Holdings
-SCHW,NYSE,STOCK,USD,0.01,Charles Schwab Corporation  Co,Charles Schwab Corporation  Co
-EWBC,NASDAQ,STOCK,USD,0.01,East West Bancorp,East West Bancorp
-EXP,NYSE,STOCK,USD,0.01,Eagle Materials Inc Common Stock ,Eagle Materials Inc Common Stock 
-PCLN,NASDAQ,STOCK,USD,0.01,The Priceline Group Inc. Common Sto,The Priceline Group Inc. Common Sto
-SNPS,NASDAQ,STOCK,USD,0.01,Synopsys,Synopsys
-STL,NYSE,STOCK,USD,0.01,Sterling Bancorp ,Sterling Bancorp 
-CMA,NYSE,STOCK,USD,0.01,Comerica Incorporated Common Stock ,Comerica Incorporated Common Stock 
-TCBI,NASDAQ,STOCK,USD,0.01,Texas Capital Bancshares,Texas Capital Bancshares
-MOMO,NASDAQ,STOCK,USD,0.01,Momo Inc. American Depositary Share,Momo Inc. American Depositary Share
-BABA,NYSE,STOCK,USD,0.01,Alibaba Group Holding Limited Ameri,Alibaba Group Holding Limited Ameri
-MBLY,NYSE,STOCK,USD,0.01,Mobileye N.V. Ordinary Shares ,Mobileye N.V. Ordinary Shares 
-AMN,NYSE,STOCK,USD,0.01,AMN Healthcare Services Inc AMN Hea,AMN Healthcare Services Inc AMN Hea
-HOMB,NASDAQ,STOCK,USD,0.01,Home BancShares,Home BancShares
-MPWR,NASDAQ,STOCK,USD,0.01,Monolithic Power Systems,Monolithic Power Systems
-AL,NYSE,STOCK,USD,0.01,Air Lease Corporation Class A Commo,Air Lease Corporation Class A Commo
-ATHM,NYSE,STOCK,USD,0.01,Autohome Inc. American Depositary S,Autohome Inc. American Depositary S
-FRC,NYSE,STOCK,USD,0.01,FIRST REPUBLIC BANK Common Stock ,FIRST REPUBLIC BANK Common Stock 
-ATVI,NASDAQ,STOCK,USD,0.01,Activision Blizzard,Activision Blizzard
-LRCX,NASDAQ,STOCK,USD,0.01,Lam Research Corporation Common Sto,Lam Research Corporation Common Sto
-OZRK,NASDAQ,STOCK,USD,0.01,Bank of the Ozarks Common Stock ,Bank of the Ozarks Common Stock 
-VEEV,NYSE,STOCK,USD,0.01,Veeva Systems Inc. Class A Common S,Veeva Systems Inc. Class A Common S
-FB,NASDAQ,STOCK,USD,0.01,Facebook,Facebook
-JD,NASDAQ,STOCK,USD,0.01,JD.com,JD.com
-TSLA,NASDAQ,STOCK,USD,0.01,Tesla,Tesla
-EXPE,NASDAQ,STOCK,USD,0.01,Expedia,Expedia
-FMC,NYSE,STOCK,USD,0.01,FMC Corporation Common Stock (FMC),FMC Corporation Common Stock (FMC)
-GMS,NYSE,STOCK,USD,0.01,GMS Inc. Common Stock (GMS),GMS Inc. Common Stock (GMS)
-TSM,NYSE,STOCK,USD,0.01,Taiwan Semiconductor Manufacturing Company Ltd. (T,Taiwan Semiconductor Manufacturing Company Ltd. (T
-SUPN,NASDAQ,STOCK,USD,0.01,Supernus Pharmaceuticals,Supernus Pharmaceuticals
+NVDA
+ESNT
+AEIS
+HQY
+UBNT
+THO
+IDCC
+EVR
+MRCY
+CFG
+BOFI
+NTES
+GRUB
+RDN
+WAL
+WTFC
+PRI
+AMAT
+PLAY
+EXP
+UTHR
+VEEV
+MXL
+ZION
+COMM
+LOGM
+BPFH
+EWBC
+CGNX
+AVGO
+SCHW
+MSCC
+STL
+OZRK
+TCBI
+HOMB
+BC
+LRCX
+CMA
+MASI
+ULTA
+MTCH
+MPWR
+CAVM
+FRC
+QRVO
+TAL
+MCHP
+BABA
+JCOM
+NTES
+NVDA
+CGNX
+AEIS
+THO
+ANET
+MRCY
+MASI
+ESNT
+AMAT
+EVR
+HQY
+CFG
+BOFI
+ZION
+PLAY
+AVGO
+SBGI
+RDN
+WAL
+WTFC
+AMN
+MCHP
+EWBC
+VEEV
+BPFH
+STL
+TAL
+CMA
+TCBI
+COR
+MBLY
+BABA
+SCHW
+FRC
+ZBRA
+BC
+SNPS
+QRVO
+OZRK
+LRCX
+MOMO
+EXP
+MPWR
+HOMB
+CDW
+ATHM
+NCR
+ULTA
+FB
+NVDA
+CGNX
+NTES
+ANET
+AEIS
+MRCY
+MASI
+THO
+ESNT
+BEAT
+AVGO
+AMAT
+CFG
+EVR
+PLAY
+AM
+HQY
+DY
+MCHP
+SBGI
+WAL
+RDN
+WTFC
+BOFI
+ZION
+IDXX
+TAL
+BPFH
+SCHW
+EWBC
+EXP
+PCLN
+SNPS
+STL
+CMA
+TCBI
+MOMO
+BABA
+MBLY
+AMN
+HOMB
+MPWR
+AL
+ATHM
+FRC
+ATVI
+LRCX
+OZRK
+VEEV
+FB
+JD
+TSLA
+EXPE
+FMC
+GMS
+TSM
+SUPN
+TAL
+LRCX
+ANET
+CGNX
+NVDA
+LITE
+VEEV
+PAYC
+PLAY
+FOXF
+LOGM
+AMAT
+COHR
+ESNT
+DY
+PCLN
+IDXX
+MRCY
+TRU
+GRUB
+CFG
+MDSO
+CAVM
+BABA
+FIVE
+CRUS
+ATHM
+EWBC
+QIWI
+EDU
+MOMO
+FND
+NTES
+MCHP
+MTCH
+ZBRA
+TTMI
+CC
+ICHR
+FB
+ULTA
+TSM
+SNPS
+ATVI
+RP
+CSX
+TEAM
+ALGN
+CNC
+EW

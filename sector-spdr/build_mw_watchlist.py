@@ -29,6 +29,13 @@ def extract_exchange(text):
 
 def extractStockName(text):
     #patternForStockName = r"(?P<junk1><meta property=\"og:title\" content=\")(?P<stockName>[\w+\s\w+(\.)?]*)"
+    #<meta property="og:title" content="Tencent&#32;Holdings&#32;Ltd.&#32;ADR (TCEHY)" />
+    < title > TCEHY     stock
+    quote - Tencent
+    Holdings
+    Ltd.ADR
+    price - NASDAQ.com < / title >
+
     patternForStockName = r"(?P<junk1><meta property=\"og:title\" content=\")(?P<stockName>[\w+(\-)*(\&)*\s\w+(\.)?]*)"
 
     match_iter = re.finditer(patternForStockName, text)
