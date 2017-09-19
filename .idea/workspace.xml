@@ -1,45 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac72f575-76b7-4080-b3e0-6c5d4199b512" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Airlilnes.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BarronsCoverage.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/Cleanup.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/ETFS - Foreign stocks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/ETFs - U.S Diversified stocks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/ETFs Sectors" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/Gaming.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csvbackup/solar.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/MiningAndGolSilver.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sector-spdr/build_mw_watchlist.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CANSLIM SELECT.wml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sector-spdr/XBI-Biotech.wml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xlf.xls" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XME_All_Holdings.xls" afterPath="$PROJECT_DIR$/XME_All_Holdings.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XTN_All_Holdings.xls" afterPath="$PROJECT_DIR$/XTN_All_Holdings.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xle.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xle.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xli.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xli.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xlk.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xlk.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xlp.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xlp.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xlu.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xlu.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xlv.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xlv.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/holdings-xly.xls" afterPath="$PROJECT_DIR$/sector-spdr/holdings-xly.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/movingaverages.iml" afterPath="$PROJECT_DIR$/.idea/movingaverages.iml" />
+    <list default="true" id="ac72f575-76b7-4080-b3e0-6c5d4199b512" name="Default" comment="Snapshot as of Mar26th, 2017. Tracking in Github">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bull Flag Setup.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LongTermBuy.csv" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IBD 50.xls" afterPath="$PROJECT_DIR$/IBD 50.xls" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IBD_50.csv" afterPath="$PROJECT_DIR$/IBD_50.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Nasdaq 100.csv" afterPath="$PROJECT_DIR$/Nasdaq 100.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestWatchlist.csv" afterPath="$PROJECT_DIR$/TestWatchlist.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XRT_All_Holdings.csv" afterPath="$PROJECT_DIR$/XRT_All_Holdings.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XTN_transports.csv" afterPath="$PROJECT_DIR$/XTN_transports.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csvbackup/IBD_50.csv" afterPath="$PROJECT_DIR$/csvbackup/IBD_50.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/j.js" afterPath="$PROJECT_DIR$/j.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/test.html" afterPath="$PROJECT_DIR$/sector-spdr/test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/xlf-financials.csv" afterPath="$PROJECT_DIR$/sector-spdr/xlf-financials.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/xlre-Real Estate.csv" afterPath="$PROJECT_DIR$/sector-spdr/xlre-Real Estate.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sector-spdr/xlu-Utilities.csv" afterPath="$PROJECT_DIR$/sector-spdr/xlu-Utilities.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solar.csv" afterPath="$PROJECT_DIR$/solar.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/t.js" afterPath="$PROJECT_DIR$/t.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IBD50 Latest.csv" afterPath="$PROJECT_DIR$/IBD50 Latest.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.csv" afterPath="$PROJECT_DIR$/temp.csv" />
     </list>
     <ignored path="movingaverages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,7 +20,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -65,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45975">
-              <caret line="3065" column="59" selection-start-line="3065" selection-start-column="41" selection-end-line="3065" selection-end-column="59" />
+              <caret line="3065" column="59" lean-forward="false" selection-start-line="3065" selection-start-column="41" selection-end-line="3065" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -96,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/j.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1245">
-              <caret line="83" column="171" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="171" />
+              <caret line="83" column="171" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="171" />
               <folding />
             </state>
           </provider>
@@ -106,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/get_dates.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,8 +83,8 @@
       <file leaf-file-name="t.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="67" column="173" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="173" />
+            <state relative-caret-position="1005">
+              <caret line="67" column="173" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="173" />
               <folding />
             </state>
           </provider>
@@ -125,8 +93,8 @@
       <file leaf-file-name="t2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/t2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="45" column="173" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="173" />
+            <state relative-caret-position="675">
+              <caret line="45" column="173" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="173" />
               <folding />
             </state>
           </provider>
@@ -136,27 +104,27 @@
         <entry file="file://$PROJECT_DIR$/Airlilnes.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cleanup.csv" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cleanup.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Cleanup.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1016">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="15">
+              <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chips.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chips.csv">
+      <file leaf-file-name="Bull Flag Setup.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bull Flag Setup.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -166,7 +134,7 @@
         <entry file="file://$PROJECT_DIR$/IBD 2016 Top Stocks.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1185">
-              <caret line="79" column="15" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="15" />
+              <caret line="79" column="15" lean-forward="false" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -176,7 +144,7 @@
         <entry file="file://$PROJECT_DIR$/Bottoming.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -262,16 +230,6 @@
     <option name="width" value="1440" />
     <option name="height" value="873" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -289,12 +247,6 @@
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="movingaverages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="movingaverages" />
@@ -341,14 +293,47 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="movingaverages" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
@@ -357,13 +342,64 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="movingaverages" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="movingaverages" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="movingaverages" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="movingaverages" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -376,23 +412,46 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>$USER_HOME$/.nvm/versions/node/v6.8.0/bin/node</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
       <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="movingaverages" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="movingaverages" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
   </component>
@@ -591,23 +650,34 @@
       <option name="project" value="LOCAL" />
       <updated>1490576608887</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Snapshot as of Aug27th, 2017. Tracking in Github">
+      <created>1505861762812</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1505861762812</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="62966000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20436928" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21030043" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12549537" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5403329" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39878234" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -616,17 +686,17 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39878234" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -656,20 +726,14 @@
     <MESSAGE value="REMOVED" />
     <MESSAGE value="Snapshot as of Feb26th" />
     <MESSAGE value="Snapshot as of Mar26th, 2017. Tracking in Github" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snapshot as of Mar26th, 2017. Tracking in Github" />
+    <MESSAGE value="Snapshot as of Aug27th, 2017. Tracking in Github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snapshot as of Aug27th, 2017. Tracking in Github" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sector-spdr/sector-spdr-xlf.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sector-spdr/sector-spdr-xly-Consumer Discretionary.csv" />
     <entry file="file://$PROJECT_DIR$/sector-spdr/sector-spdr-xle.csv" />
     <entry file="file://$PROJECT_DIR$/sector-spdr/sector-spdr-xlp-Consumer-staples.csv" />
@@ -677,98 +741,98 @@
     <entry file="file://$PROJECT_DIR$/sector-spdr/xli-Industrials.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
-          <caret line="68" column="3" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+          <caret line="68" column="3" lean-forward="false" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sector-spdr/xly-Healthcare.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
-          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+          <caret line="59" column="4" lean-forward="false" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sector-spdr/xlv-Consumer Discretionary.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sector-spdr/xlre-Real Estate.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sector-spdr/xlk-Technology.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sector-spdr/xlu-Utilities.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+          <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sector-spdr/xlf-financials.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Earnings Power.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IBD - Leading IPO Issues.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/swingtrader.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sector-spdr/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10710">
-          <caret line="714" column="56" selection-start-line="714" selection-start-column="56" selection-end-line="714" selection-end-column="56" />
+          <caret line="714" column="56" lean-forward="false" selection-start-line="714" selection-start-column="56" selection-end-line="714" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Best Performing ETFs of 2017/U.S Diversified Stock.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Best Performing ETFs of 2017/Sectors.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Best Performing ETFs of 2017/Foreign Stock.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -776,7 +840,7 @@
     <entry file="file://$PROJECT_DIR$/Steel Stocks.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -784,27 +848,27 @@
     <entry file="file://$PROJECT_DIR$/output.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gapups.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Nasdaq 100.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -812,7 +876,7 @@
     <entry file="file://$PROJECT_DIR$/Buiding and Construction.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -820,35 +884,35 @@
     <entry file="file://$PROJECT_DIR$/Pullbacks.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IBD.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/IPO LEADERS_latest.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NYSE.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Leaders Up.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -856,7 +920,7 @@
     <entry file="file://$PROJECT_DIR$/IBD50 Latest.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
-          <caret line="43" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <caret line="43" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -864,30 +928,28 @@
     <entry file="file://$PROJECT_DIR$/Big 20.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CANSLIM SELECT.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/For Shorting.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chips.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -895,7 +957,7 @@
     <entry file="file://$PROJECT_DIR$/IBD 2016 Top Stocks.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1185">
-          <caret line="79" column="15" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="15" />
+          <caret line="79" column="15" lean-forward="false" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -903,7 +965,7 @@
     <entry file="file://$PROJECT_DIR$/Bottoming.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -911,7 +973,7 @@
     <entry file="file://$PROJECT_DIR$/get_dates.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -919,14 +981,14 @@
     <entry file="file://$PROJECT_DIR$/input.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/j.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1245">
-          <caret line="83" column="171" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="171" />
+          <caret line="83" column="171" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="171" />
           <folding />
         </state>
       </provider>
@@ -934,7 +996,7 @@
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45975">
-          <caret line="3065" column="59" selection-start-line="3065" selection-start-column="41" selection-end-line="3065" selection-end-column="59" />
+          <caret line="3065" column="59" lean-forward="false" selection-start-line="3065" selection-start-column="41" selection-end-line="3065" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#span#0;n#li#0;n#ul#1;n#div#0;n#div#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -963,16 +1025,16 @@
     <entry file="file://$PROJECT_DIR$/build_mw_watchlist.py" />
     <entry file="file://$PROJECT_DIR$/t.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="67" column="173" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="173" />
+        <state relative-caret-position="1005">
+          <caret line="67" column="173" lean-forward="false" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="173" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/t2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="45" column="173" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="173" />
+        <state relative-caret-position="675">
+          <caret line="45" column="173" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="173" />
           <folding />
         </state>
       </provider>
@@ -980,15 +1042,23 @@
     <entry file="file://$PROJECT_DIR$/Airlilnes.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Cleanup.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1016">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bull Flag Setup.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
