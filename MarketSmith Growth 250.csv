@@ -1,260 +1,266 @@
-Order,Symbol,Name,Current Price,Price $ Chg,Price % Chg,% Off High,Vol % Chg vs 50-Day,50-Day Avg Vol (1000s),50-Day Avg $ Vol (1000s),Market Cap (mil),Comp Rating,EPS Rating,RS Rating,A/D Rating,SMR Rating,Ind Group Rank,Industry Name,IPO Date
-1,LGND,Ligand Pharmaceuticals,144.83,1.71,1.2,-0.02,2.8,232,33687,3049.1,99,91,91,A-,A,3,Medical-Biomed/Biotech,11/18/92
-2,CORT,Corcept Therapeutics Inc,18.64,0.39,2.1,-10.26,-34.2,1513,28219,2113.7,99,79,99,B,A,3,Medical-Biomed/Biotech,4/14/04
-3,VRTX,Vertex Pharmaceuticals,150.11,6.35,4.4,-10.57,80.6,1521,228407,37845.4,96,78,92,B-,A,3,Medical-Biomed/Biotech,7/24/91
-4,EXAS,Exact Sciences Corp,51.16,1.83,3.7,1.01,41.7,1457,74565,6093,88,41,99,A,D,3,Medical-Biomed/Biotech,1/31/01
-5,MDGL,Madrigal Pharmaceuticals,45.95,0.55,1.2,-12.22,-35.4,109,5022,574.1,86,61,99,B+,,3,Medical-Biomed/Biotech,2/6/07
-6,DHI,D R Horton Inc,44.3,0.3,0.7,0.54,-37.5,3969,175844,16580.7,99,92,92,A,B,1,Bldg-Resident/Comml,6/4/92
-7,KBH,K B Home,27.05,0.15,0.6,-2.59,-50,2728,73800,2339.8,98,96,94,B,C,1,Bldg-Resident/Comml,8/1/86
-8,LGIH,L G I Homes Inc,59.04,2.01,3.5,1.93,-32.2,326,19276,1276.1,99,91,97,B+,A,1,Bldg-Resident/Comml,11/7/13
-9,PHM,Pulte Group Inc,30.07,0.31,1,0.84,18,4108,123530,8839.6,98,94,92,B+,B,1,Bldg-Resident/Comml,
-10,TOL,Toll Brothers Inc,45.54,0.22,0.5,0.31,-33.4,1848,84171,7206.9,98,97,91,A-,B,1,Bldg-Resident/Comml,7/8/86
-11,TPH,TRI Pointe Group Inc,17.23,0.26,1.5,0.17,197,1781,30691,2591.9,95,71,92,A+,C,1,Bldg-Resident/Comml,1/31/13
-12,AMAT,Applied Materials Inc,56.69,0.76,1.4,-0.07,0.5,10467,593385,60459.1,99,99,95,B+,A,2,Elec-Semiconductor Equip,10/5/72
-13,LRCX,Lam Research Corp,208,1.22,0.6,-0.31,-3.6,2059,428417,33684.8,99,99,96,B+,A,2,Elec-Semiconductor Equip,5/4/84
-14,MKSI,M K S Instruments Inc,106.85,0.95,0.9,0.14,63.5,446,47676,5799.3,99,99,96,A+,A,2,Elec-Semiconductor Equip,3/30/99
-15,AEIS,Advanced Energy Inds,94.25,2.82,3.1,2.33,75.5,339,32007,3764.5,99,99,95,A,A,2,Elec-Semiconductor Equip,11/16/95
-16,ENTG,Entegris Inc,32.3,0.3,0.9,0.16,30,824,26628,4579.9,99,96,95,A-,A,2,Elec-Semiconductor Equip,7/11/00
-17,ICHR,Ichor Holdings Ltd,31.08,-0.12,-0.4,-12.48,54.2,704,21898,780.6,98,84,98,B,A,2,Elec-Semiconductor Equip,12/9/16
-18,BRKS,Brooks Automation,33.35,0.57,1.7,1.58,4.7,603,20110,2326.5,99,96,97,A-,B,2,Elec-Semiconductor Equip,2/1/95
-19,NVMI,Nova Measuring Instrumnt,30.48,0.39,1.3,-2.78,-54,228,6970,842.9,99,97,98,B+,A,2,Elec-Semiconductor Equip,4/11/00
-20,ASML,A S M L Holding N.V. NY,178.93,1.11,0.6,-0.2,-14.4,821,147062,75830.5,98,85,92,A-,A,2,Elec-Semiconductor Equip,3/15/95
-21,TER,Teradyne Inc,42.74,0.71,1.7,1.16,77.5,2242,95840,8455.3,98,91,93,A,A,2,Elec-Semiconductor Equip,
-22,ACLS,Axcelis Technologies Inc,32.3,0.15,0.5,-4.08,-1.7,593,19157,1008.5,98,79,98,A,C,2,Elec-Semiconductor Equip,7/11/00
-23,FORM,Formfactor Inc,17.65,0.15,0.9,-1.4,-6,645,11387,1280.4,98,79,95,A-,A,2,Elec-Semiconductor Equip,6/12/03
-24,COHU,Cohu Inc,25.16,0.1,0.4,-0.71,-44.1,254,6405,703.4,97,84,97,A-,C,2,Elec-Semiconductor Equip,
-25,ASYS,Amtech Systems Inc,13.67,-0.26,-1.9,-11.52,-41.2,222,3045,196.6,93,51,99,A+,D,2,Elec-Semiconductor Equip,
-26,KLIC,Kulicke & Soffa Ind Inc,22.31,0.08,0.4,-3,-38,364,8131,1586.2,93,73,81,A,B,2,Elec-Semiconductor Equip,
-27,KLAC,K L A Tencor Corp,108.07,-0.78,-0.7,-1.56,111.6,1170,126539,16955.9,97,77,83,B-,A,2,Elec-Semiconductor Equip,10/8/80
-28,ESIO,Electro Scientific Ind,17.25,0.24,1.4,-1.99,6.2,427,7376,571.6,91,43,99,A+,E,2,Elec-Semiconductor Equip,10/18/83
-29,THO,Thor Industries Inc,134.96,1.72,1.3,0.82,-34.5,708,95578,7097,99,98,93,A,A,5,Bldg-Mobile/Mfg & Rv,1/10/84
-30,WGO,Winnebago Industries Inc,48.45,0.55,1.1,-0.31,-8.9,617,29893,1541,99,98,95,A+,B,5,Bldg-Mobile/Mfg & Rv,
-31,EA,Electronic Arts Inc,116.89,1.06,0.9,-4.8,22.3,2365,276468,36087.1,96,99,83,D-,A,11,Computer Sftwr-Gaming,9/20/89
-32,ODFL,Old Dominion Fght Line,123.84,6.61,5.6,5.03,115.2,495,61412,10202.7,97,93,93,A,B,6,Transportation-Truck,10/21/91
-33,ESNT,Essent Group Ltd,43.96,0.23,0.5,-2.53,37.8,733,32240,4106.9,99,98,89,A-,A,7,Finance-Mrtg&Rel Svc,10/31/13
-34,NMIH,N M I Holdings Inc Cl A,14.65,0.1,0.7,-1.35,-4.7,896,13133,877,99,79,94,A+,B,7,Finance-Mrtg&Rel Svc,11/8/13
-35,HF,H F F Inc Cl A,43.51,0.32,0.7,-1.18,-23.9,149,6522,1678.4,99,95,93,A-,A,7,Finance-Mrtg&Rel Svc,1/31/07
-36,TREE,Lendingtree Inc,266.4,11,4.3,-1.33,94.5,188,50322,3196.3,99,94,99,B-,A,7,Finance-Mrtg&Rel Svc,
-37,TRTX,Tpg Re Finance Trust Inc,19.31,0.16,0.8,-6.71,-52.5,138,2678,1184,71,72,28,D-,A,7,Finance-Mrtg&Rel Svc,7/20/17
-38,CRS,Carpenter Technology,50.29,0.11,0.2,-2.65,-14.7,450,22670,2351.4,97,77,90,A-,D,9,Steel-Specialty Alloys,
-39,FOXF,Fox Factory Holding Corp,44.18,0.33,0.7,-5.61,-61.7,303,13385,1653.4,98,97,95,C+,A,8,Leisure-Products,8/8/13
-40,JOUT,Johnson Outdoors Cl A,73.44,0.54,0.7,-3.6,10.6,45,3326,734.1,98,89,98,A+,D,8,Leisure-Products,10/8/87
-41,CTRL,Control4 Corporation,28.65,1.55,5.7,-7.07,8.3,643,18447,696.4,98,98,98,B,A,10,Computer Sftwr-Edu/Media,8/2/13
-42,ROG,Rogers Corp,145.27,2.77,1.9,1.73,21,103,15020,2640,99,97,97,A-,B,13,Chemicals-Plastics,
-43,KRA,Kraton Corporation,48.47,-0.1,-0.2,-0.55,107.9,297,14410,1516.9,98,96,96,A,B,13,Chemicals-Plastics,12/17/09
-44,PQG,Pq Group Holdings Inc,16.96,0.04,0.2,-3.91,-64.8,1438,24395,2253.2,50,40,28,,D,13,Chemicals-Plastics,9/29/17
-45,CGNX,Cognex Corp,125.4,2.05,1.7,0.63,26.6,584,73308,10856.1,99,96,97,B+,A,15,Elec-Scientific/Msrng,7/20/89
-46,IPGP,I P G Photonics Corp,208.3,-0.45,-0.2,-1.62,26.9,315,65760,11211.7,99,98,97,B+,A,15,Elec-Scientific/Msrng,12/13/06
-47,WAT,Waters Corp,199.75,5.12,2.6,2.44,83.5,481,96079,15944.6,93,82,87,B,A,15,Elec-Scientific/Msrng,11/16/95
-48,CACC,Credit Acceptance Corp,299,4.44,1.5,1.01,158.1,182,54507,5773.7,99,95,93,A,A,12,Finance-Consumer Loans,6/4/92
-49,FLIR,Flir Systems Inc,47.17,-0.55,-1.2,-1.85,45.2,1188,56047,6471.5,97,68,91,A-,B,16,Aerospace/Defense,6/21/93
-50,MRCY,Mercury Systems Inc,49.99,0.24,0.5,-8.26,-12.4,290,14542,2404.8,96,95,92,D+,A,16,Aerospace/Defense,1/26/98
-51,SPR,Spirit Aerosystems Hldgs,80.13,0.46,0.6,-1.16,-14.7,865,69360,9481.1,92,88,93,B,B,16,Aerospace/Defense,11/21/06
-52,OSIS,O S I Systems Inc,91.24,-0.19,-0.2,-5.59,172.2,169,15446,1730.5,95,87,78,B-,B,16,Aerospace/Defense,10/2/97
-53,VMW,Vmware Inc Cl A,120.97,1.96,1.6,1.01,-6.4,1725,208697,49470.3,99,92,92,A,A,22,Comp Sftwr-Spec Enterprs,8/14/07
-54,TEAM,Atlassian Corp Plc Cl A,47.03,-0.88,-1.8,-7.57,37.2,918,43201,10730.2,99,96,94,B+,A,22,Comp Sftwr-Spec Enterprs,12/10/15
-55,ALRM,Alarm.com Holdings Inc,46.95,0.86,1.9,-5.13,20.7,442,20765,2192.9,99,98,94,B,A,22,Comp Sftwr-Spec Enterprs,6/26/15
-56,RP,Realpage Inc,43.2,0.1,0.2,-1.48,-26.5,461,19949,3570.7,98,90,88,B+,A,22,Comp Sftwr-Spec Enterprs,8/12/10
-57,MFGP,Micro Focus Intl Plc Ads,33.98,0.31,0.9,0.27,-83.1,5201,176753,7806.6,97,97,86,,A,22,Comp Sftwr-Spec Enterprs,
-58,HUBS,Hubspot Inc,86.5,2.65,3.2,-0.46,44.4,307,26616,3202.7,94,79,93,B+,D,22,Comp Sftwr-Spec Enterprs,10/9/14
-59,CAT,Caterpillar Inc,137.81,0.87,0.6,-1.87,12.1,3624,499492,81441.9,98,78,92,A,B,17,Machinery-Constr/Mining,
-60,OSK,Oshkosh Corp,91.02,0.41,0.5,0.12,23.9,492,44781,6810.9,93,69,93,A,C,20,Trucks & Parts-Hvy Duty,10/2/85
-61,SPAR,Spartan Motors Inc,16.35,-0.3,-1.8,-4.94,-24.9,263,4301,573.8,80,28,98,A+,C,20,Trucks & Parts-Hvy Duty,5/10/84
-62,ISRG,Intuitive Surgical Inc,373.78,1.42,0.4,-2.19,-8.1,829,309938,41880.9,98,84,93,A-,A,39,Medical-Systems/Equip,6/13/00
-63,CMD,Cantel Medical Corp,98.1,2.27,2.4,-1.73,-19.8,164,16098,4093.4,98,93,90,A-,A,39,Medical-Systems/Equip,
-64,IDXX,Idexx Laboratories Inc,168.37,4.12,2.5,-2.68,3.5,432,72853,14694.5,95,96,81,B+,A,39,Medical-Systems/Equip,6/20/91
-65,STE,Steris Plc,92.8,1.6,1.8,0.66,6.7,362,33593,7909.3,92,87,86,A-,B,39,Medical-Systems/Equip,6/1/92
-66,SUPV,Grupo Superviel Cl B Ads,25.72,-0.37,-1.4,-5.61,-36.4,564,14518,1871.3,99,94,96,A-,A,23,Banks-Foreign,5/19/16
-67,NTB,Bank Of N T Butterfield,38.01,-0.03,-0.1,-0.24,113.7,261,9920,2024,98,91,81,A,A,23,Banks-Foreign,
-68,GGAL,Grupo Finan Galicia Adr,55,-0.65,-1.2,-6.16,-64.5,549,30217,7756.4,96,84,96,A+,B,23,Banks-Foreign,
-69,HTHT,China Lodging Group Ads,130.44,0.26,0.2,-8.66,44.5,395,51641,9101.5,99,98,98,B+,A,32,Leisure-Lodging,3/26/10
-70,MAR,Marriott International,118.87,0.06,0.1,-0.41,-2.9,2128,253002,44269.6,97,91,91,B-,A,32,Leisure-Lodging,
-71,HLT,Hilton Worldwide Hldgs,71.91,-0.57,-0.8,-1.4,35.8,2147,154412,23314.1,96,94,87,B+,B,32,Leisure-Lodging,12/12/13
-72,B,Barnes Group Inc,66.91,-4.82,-6.7,-8.18,45,270,18079,3602.2,93,80,89,B-,A,21,Metal Proc & Fabrication,
-73,ALGN,Align Technology Inc,235.94,32.96,16.2,13.62,243.9,958,226054,18910.6,99,97,98,A,A,29,Medical-Products,1/26/01
-74,ABMD,Abiomed Inc,181.07,1.48,0.8,0.51,106.7,327,59264,7985.5,98,99,94,B,A,29,Medical-Products,7/29/87
-75,INGN,Inogen Inc,98.25,3.36,3.5,-6.74,-25,169,16673,2036.3,94,92,90,D+,A,29,Medical-Products,2/14/14
-76,SCCO,Southern Copper Corp,42.48,-0.74,-1.7,-4.95,-4.9,964,40963,32838.2,92,75,81,B,A,27,Mining-Metal Ores,
-77,AA,Alcoa Corporation,47.91,-1.24,-2.5,-4.77,-3.6,4014,192315,8831.7,92,79,95,B,D,27,Mining-Metal Ores,
-78,YY,YY Inc Ads,85.34,-1.81,-2.1,-12.55,-8.5,1492,127387,5277.1,99,99,96,B-,A,24,Internet-Content,11/21/12
-79,YELP,Yelp Inc,45.4,0.4,0.9,-2.91,20.3,1398,63505,3713.9,97,98,89,B,B,24,Internet-Content,3/2/12
-80,FB,Facebook Inc Cl A,177.88,7.25,4.2,0.65,115.9,14026,2495016,516598.4,98,99,80,B-,A,24,Internet-Content,5/18/12
-81,GRUB,Grubhub Inc,60.02,0.98,1.7,0.05,31.5,1779,106787,5185.2,98,94,93,B,A,24,Internet-Content,4/4/14
-82,SINA,Sina Corporation,105,-0.39,-0.4,-11.91,3.1,951,99886,7509,96,98,92,E,B,24,Internet-Content,4/13/00
-83,BABA,Alibaba Group Hldg Ads,176.15,5.83,3.4,-4.63,11.5,17674,3113275,452353.2,99,98,94,C,A,42,Retail-Internet,9/19/14
-84,STMP,Stamps.com Inc,220.2,6.2,2.9,-5.54,-1,326,71917,3723.1,98,99,98,B-,A,42,Retail-Internet,6/25/99
-85,WUBA,58.com Inc Cl A Ads,62.91,0.38,0.6,-9.87,-52.1,1599,100630,9158.1,95,79,96,B,C,42,Retail-Internet,10/31/13
-86,PNK,Pinnacle Entertainment,25.5,1.17,4.8,0.63,-22.1,628,16024,1473.3,84,21,96,A+,B,19,Leisure-Gaming/Equip,
-87,TTD,The Trade Desk Inc Cl A,63.97,1.29,2.1,-4.95,-39.2,835,53440,2608.8,99,82,98,B,A,26,Comml Svcs-Advertising,9/21/16
-88,EEX,Emerald Expositions Evnt,23.32,0.45,2,-5.05,-18.5,78,1828,1683.8,69,59,68,B-,C,26,Comml Svcs-Advertising,4/28/17
-89,DAN,Dana Incorporated,30.18,0.76,2.6,1.62,101.2,1108,33463,4372.2,98,92,96,A-,A,28,Auto/Truck-Original Eqp,
-90,LEA,Lear Corporation,174.94,-2.22,-1.3,-2.16,-11,687,120288,11818.9,97,97,86,A-,B,28,Auto/Truck-Original Eqp,4/6/94
-91,ALSN,Allison Transmission Hld,42.94,1.97,4.8,4.48,66.1,1838,78962,6389.9,96,96,82,A-,B,28,Auto/Truck-Original Eqp,3/15/12
-92,WBC,Wabco Hldgs Inc,150.24,-3.62,-2.4,-3.74,16.4,399,60050,8060.1,96,83,87,A-,A,28,Auto/Truck-Original Eqp,
-93,MOD,Modine Mfg Co,21.15,-0.35,-1.6,-2.31,-7,227,4805,1060.1,96,71,96,A,C,28,Auto/Truck-Original Eqp,
-94,MTOR,Meritor Inc,26.15,-0.16,-0.6,-3.26,-54.1,1682,44002,2316,82,64,98,B+,,28,Auto/Truck-Original Eqp,
-95,ADBE,Adobe Systems Inc,177.33,3.58,2.1,0.83,1.3,2771,491487,87413.6,99,93,93,B,A,18,Computer Sftwr-Desktop,8/14/86
-96,RHT,Red Hat Inc,120.77,0.48,0.4,-1.77,-38.3,1701,205441,21369.9,99,94,93,B,A,18,Computer Sftwr-Desktop,8/11/99
-97,MSFT,Microsoft Corp,83.81,5.05,6.4,5.53,280.9,18656,1563601,646630.4,92,67,85,B-,A,18,Computer Sftwr-Desktop,3/17/86
-98,ANET,Arista Networks Inc,195.65,3.82,2,-0.32,-5.9,591,115687,14190.3,99,99,97,B-,A,25,Computer-Networking,6/6/14
-99,EXTR,Extreme Networks Inc,12.03,0.36,3.1,-8.86,-17.6,1459,17555,1360.4,98,91,98,B,A,25,Computer-Networking,4/9/99
-100,UPLD,Upland Software Inc,21.92,0.04,0.2,-14.24,-6.8,102,2255,451.5,96,84,94,B-,B,25,Computer-Networking,11/6/14
-101,LOGM,Logmein Inc,122.05,0,0,-1.53,317.5,465,56850,6435.5,99,99,70,B+,A,31,Computer Sftwr-Enterprse,7/1/09
-102,PCTY,Paylocity Holding Corp,52.35,0.38,0.7,-0.48,-6.2,205,10752,2739.4,98,79,89,A-,A,31,Computer Sftwr-Enterprse,3/19/14
-103,PAYC,Paycom Software Inc,82.01,1.03,1.3,0.99,17,373,30606,4885.7,99,97,93,B,A,31,Computer Sftwr-Enterprse,4/15/14
-104,CRM,Salesforce.com Inc,100.7,0.65,0.6,-0.06,-4.2,4205,423443,72373.1,97,95,81,B+,B,31,Computer Sftwr-Enterprse,6/23/04
-105,NOW,Servicenow Inc,125.73,-0.41,-0.3,-2.96,100.4,1312,164995,21462.1,98,74,89,B,A,31,Computer Sftwr-Enterprse,6/29/12
-106,RNG,RingCentral Inc Cl A,42.3,0.85,2.1,-5.9,-14.7,507,21467,3241.6,95,79,95,B-,C,31,Computer Sftwr-Enterprse,9/27/13
-107,WDAY,Workday Inc Cl A,108.51,1.39,1.3,-2.64,-44,1748,189740,22570.1,89,79,78,C,C,31,Computer Sftwr-Enterprse,10/12/12
-108,GDDY,Godaddy Inc Cl A,46.54,0.79,1.7,0.98,10.3,1557,72500,7669.5,78,51,78,B+,D,31,Computer Sftwr-Enterprse,4/1/15
-109,KEM,Kemet Corp,24.86,0.79,3.3,-9.1,-23,2352,58483,1185.7,99,99,99,B,B,35,Electronic-Parts,10/21/92
-110,VSH,Vishay Intertechnology,21.8,0.05,0.2,-0.46,10.2,1630,35553,3188.3,99,92,91,A+,C,35,Electronic-Parts,2/27/73
-111,LFUS,Littelfuse Inc,209.88,2.34,1.1,-1.22,3.5,157,32972,4766.8,98,94,90,B+,A,35,Electronic-Parts,
-112,IIVI,Ii-Vi Incorporated,44.55,0.2,0.5,0,-7,682,30423,2800.6,97,92,90,B+,A,35,Electronic-Parts,10/2/87
-113,CBOE,Cboe Global Markets Inc,111.95,0.46,0.4,0.3,-37.2,1046,117178,12625.4,99,94,93,C+,A,37,Financial Svcs-Specialty,6/15/10
-114,TRU,TransUnion,53.75,2.56,5,4.05,125.8,1994,107188,9777.1,98,97,94,A-,A,37,Financial Svcs-Specialty,6/25/15
-115,ENV,Envestnet Inc,53.4,0.2,0.4,-3.17,-18.3,292,15592,2350.7,98,97,94,A,B,37,Financial Svcs-Specialty,7/29/10
-116,BR,Broadridge Finl Sltns,85.95,0.87,1,0.77,-10,415,35712,10016.9,96,92,84,B,A,37,Financial Svcs-Specialty,
-117,MSCI,M S C I Inc,120,-0.25,-0.2,-3.62,27.3,416,49944,10807.1,96,92,87,B,A,37,Financial Svcs-Specialty,11/15/07
-118,ADI,Analog Devices,91.21,0.65,0.7,0.27,-27.4,2239,204273,33534.9,99,97,83,B+,A,34,Elec-Semiconductor Mfg,
-119,MCHP,Microchip Tech,94.72,1.6,1.7,0.06,15.4,1707,161696,22044,98,97,90,B+,A,34,Elec-Semiconductor Mfg,3/18/93
-120,TXN,Texas Instruments,97.5,1.35,1.4,0.58,38,4148,404459,96528.7,98,96,86,A-,A,34,Elec-Semiconductor Mfg,
-121,STM,Stmicroelectronics N V,23.29,0.21,0.9,-0.21,37,3683,85793,21219.5,97,98,97,B+,C,34,Elec-Semiconductor Mfg,12/8/94
-122,DIOD,Diodes Incorporated,35.03,0.21,0.6,0.26,-20,267,9367,1719,96,82,94,A+,C,34,Elec-Semiconductor Mfg,
-123,ON,O N Semiconductor Corp,20.75,0.35,1.7,1.22,0.4,5263,109207,8747.4,95,62,95,A,A,34,Elec-Semiconductor Mfg,4/28/00
-124,GGG,Graco Inc,132.87,-0.63,-0.5,-0.71,66.8,237,31543,7440.2,97,94,92,B+,A,36,Machinery-Gen Industrial,
-125,SNHY,Sun Hydraulics Inc,56.64,0.21,0.4,-1.89,-27,106,6032,1532.6,96,84,95,B,A,36,Machinery-Gen Industrial,1/9/97
-126,GDI,Gardner Denver Holdings,30.42,1.32,4.5,3.22,177.4,516,15724,5960.9,96,80,93,B+,C,36,Machinery-Gen Industrial,5/12/17
-127,PH,Parker-Hannifin Corp,183.88,-0.95,-0.5,-0.88,-31.3,835,153576,24492.8,91,86,83,B-,B,36,Machinery-Gen Industrial,
-128,CARG,Cargurus Inc Cl A,30.96,0.93,3.1,-11.54,-83.2,1783,55223,3282.1,89,79,78,,A,51,Retail/Whlsle-Automobile,10/12/17
-129,GPI,Group I Automotive Inc,78.46,-0.27,-0.3,-5.67,72.5,333,26127,1636.3,84,70,82,A+,C,51,Retail/Whlsle-Automobile,10/29/97
-130,URI,United Rentals Inc,145.94,4.7,3.3,-1.12,-6.8,1465,213802,12342.7,98,94,92,B,A,33,Comml Svcs-Leasing,12/18/97
-131,TRTN,Triton International Ltd,38.68,0.27,0.7,-4.52,-53.8,605,23401,3090,98,79,97,B+,B,33,Comml Svcs-Leasing,
-132,HEES,H & E Equipment Svcs Inc,32.49,2.56,8.6,6.7,125.4,331,10773,1155.7,93,87,96,A+,C,33,Comml Svcs-Leasing,1/31/06
-133,CAI,C A I International Inc,37.33,0.49,1.3,-6.93,17.2,231,8626,719.3,91,72,99,B+,C,33,Comml Svcs-Leasing,5/16/07
-134,PRAH,P R A Health Sciences,82.04,-0.2,-0.2,-2.77,21.1,574,47107,5139.9,99,97,89,A-,A,46,Medical-Research Eqp/Svc,11/13/14
-135,CTLT,Catalent Inc,43.02,0.44,1,-0.85,-23.7,1258,54123,5673.5,95,93,95,B,A,46,Medical-Research Eqp/Svc,7/31/14
-136,NVDA,Nvidia Corp,201.86,6.17,3.2,1.14,-3.8,14872,3002203,121116,99,98,98,B,A,40,Elec-Semicondctor Fablss,1/22/99
-137,MPWR,Monolithic Power Systems,120.89,6.04,5.3,4.25,91.9,242,29267,5002.9,99,97,90,A-,A,40,Elec-Semicondctor Fablss,11/19/04
-138,AVGO,Broadcom Limited,252.9,9.14,3.7,-2.49,68.8,2650,670412,103070.2,95,98,78,C-,A,40,Elec-Semicondctor Fablss,8/6/09
-139,CDNS,Cadence Design Systems,43.08,0.36,0.8,0.47,-37.6,3395,146286,12071.1,96,92,93,A-,A,38,Computer Sftwr-Design,6/10/87
-140,PTC,P T C Inc,66.43,1.76,2.7,1.57,154.7,963,63972,7679.8,85,63,87,A-,B,38,Computer Sftwr-Design,12/8/89
-141,PYPL,Paypal Holdings Inc,71.06,-0.28,-0.4,-1.4,18.1,7836,556833,85407.7,99,96,95,B+,A,45,Finance-CrdtCard/PmtPr,
-142,EEFT,Euronet Worldwide Inc,98.28,0.1,0.1,-2.76,-13.4,278,27370,5162.9,98,94,77,B-,A,45,Finance-CrdtCard/PmtPr,3/7/97
-143,GDOT,Green Dot Corp Cl A,56.94,0.46,0.8,-0.19,-38.6,383,21808,2872.9,97,88,98,A,B,45,Finance-CrdtCard/PmtPr,7/22/10
-144,SQ,Square Inc Cl A,35.2,1.09,3.2,1.29,48.5,6855,241324,13506.2,96,80,99,A,C,45,Finance-CrdtCard/PmtPr,11/19/15
-145,V,Visa Inc Cl A,109.71,-0.09,-0.1,-0.93,17.7,6681,733027,229081.3,94,94,82,B-,A,45,Finance-CrdtCard/PmtPr,3/19/08
-146,MA,Mastercard Inc Cl A,148.52,1.93,1.3,0.05,9.2,3198,475100,158158.5,94,93,87,B,A,45,Finance-CrdtCard/PmtPr,5/25/06
-147,GPN,Global Payments Inc,101.57,1.17,1.2,0.98,23.4,904,91880,15488.2,94,96,83,B-,A,45,Finance-CrdtCard/PmtPr,
-148,VNTV,Vantiv Inc Cl A,68.01,-0.74,-1.1,-7.01,185,2345,159497,13434.5,86,91,60,D+,A,45,Finance-CrdtCard/PmtPr,3/22/12
-149,VRNS,Varonis Systems Inc,44.25,0.45,1,-2.1,-9.5,257,11385,1217.1,76,27,92,A,D,44,Computer Sftwr-Database,2/28/14
-150,MDB,Mongodb Inc Cl A,30.89,-0.21,-0.7,-9.15,-77.9,2487,76832,1549.7,30,14,24,,D,44,Computer Sftwr-Database,10/19/17
-151,VNTR,Venator Materials PLC,24.81,-0.69,-2.7,-3.01,221.1,594,14747,2636.6,74,79,81,B,E,48,Chemicals-Basic,8/3/17
-152,OLED,Universal Display Corp,136.1,2.55,1.9,-6.33,-28.5,814,110894,6400.9,96,99,97,B-,A,53,Elec-Misc Products,4/11/96
-153,ZBRA,Zebra Tech Corp Cl A,111.61,0.13,0.1,-1.33,-13.1,259,28940,5927.4,93,97,87,A+,B,53,Elec-Misc Products,8/15/91
-154,TRMB,Trimble Inc,42.89,1.68,4.1,3.13,187.3,899,38596,10857.6,94,72,89,A,B,53,Elec-Misc Products,7/20/90
-155,INTU,Intuit Inc,153.46,2.13,1.4,0.99,-14.2,1367,209795,39128.2,95,88,85,A-,A,52,Computer Sftwr-Financial,3/11/93
-156,GWRE,Guidewire Software Inc,77.7,0.48,0.6,-4.62,-20.3,534,41515,5828.2,95,93,86,B-,A,52,Computer Sftwr-Financial,1/25/12
-157,SSNC,S S & C Technologies,40.61,0.06,0.1,-4.4,76.3,847,34412,8342.4,91,94,73,B+,A,52,Computer Sftwr-Financial,5/31/96
-158,HOFT,Hooker Furniture Corp,47.4,-1.35,-2.8,-6.2,11.7,58,2753,549.2,96,98,89,B,A,65,Hsehold/Office Furniture,
-159,NVEE,N V 5 Global Inc,56.8,0.3,0.5,-0.7,-10.4,57,3288,610.9,98,97,96,A-,A,55,Comml Svcs-Consulting,
-160,FOE,Ferro Corp,23.68,0,0,-1.13,35,508,12041,1981.9,99,92,94,A+,A,50,Chemicals-Specialty,
-161,KRO,Kronos Worldwide Inc,26.95,0.12,0.4,-0.52,-28.2,424,11448,3123.6,96,79,98,A,C,50,Chemicals-Specialty,
-162,TROX,Tronox Ltd,26.97,-0.17,-0.6,-1.89,-7.7,1543,41630,3208.8,89,67,98,A,E,50,Chemicals-Specialty,11/22/05
-163,NGVT,Ingevity Corporation,71.48,1.12,1.6,0.87,-52,240,17155,3012.2,87,60,90,A-,B,50,Chemicals-Specialty,
-164,UNH,Unitedhealth Group Inc,212.6,3.45,1.6,0.43,43.7,3051,648663,205554.2,93,93,86,A,B,59,Medical-Managed Care,10/17/84
-165,FTNT,Fortinet Inc,38.74,-1.36,-3.4,-6.79,296.7,1294,50145,6811.8,92,94,60,B+,A,60,Computer Sftwr-Security,11/18/09
-166,PANW,Palo Alto Networks,146.66,-2.14,-1.4,-11.49,4.2,1455,213522,13489.3,91,99,62,C+,A,60,Computer Sftwr-Security,7/20/12
-167,CTAS,Cintas Corp,151.56,0.01,0,-0.83,-34.5,573,86904,16111.4,98,93,85,B-,A,58,Comml Svcs-Outsourcing,8/19/83
-168,HQY,Healthequity Inc,49.78,0.6,1.2,-9.41,-47,581,28952,3011.1,93,95,74,B,A,58,Comml Svcs-Outsourcing,7/31/14
-169,HLI,Houlihan Lokey Inc Cl A,41.73,0.4,1,-5.48,9.8,271,11317,2792.4,98,98,89,B+,A,66,Finance-Invest Bnk/Bkrs,8/13/15
-170,BGCP,B G C Partners Inc Cl A,15.1,-0.24,-1.6,-8.54,10.4,1667,25179,4324.1,96,92,92,B+,A,66,Finance-Invest Bnk/Bkrs,12/10/99
-171,SCHW,Charles Schwab Corp,44.91,-0.44,-1,-2.81,-20,6540,293738,60139.8,94,96,74,B,A,66,Finance-Invest Bnk/Bkrs,9/21/87
-172,AMTD,T D Ameritrade Hldg Corp,50.51,-0.43,-0.8,-1.39,-28.5,2030,102560,26676.8,94,82,83,B+,A,66,Finance-Invest Bnk/Bkrs,3/3/97
-173,AMP,Ameriprise Financial Inc,160.62,-2.18,-1.3,-1.48,-23.5,962,154612,24083.8,93,96,91,A-,B,66,Finance-Invest Bnk/Bkrs,
-174,IBKR,Interactive Brokers Grp,53.59,1.07,2,0.95,36.2,545,29233,3829.8,91,63,94,A+,C,66,Finance-Invest Bnk/Bkrs,5/4/07
-175,TBK,Triumph Bancorp Inc,32.3,-0.25,-0.8,-2.12,-57.1,95,3087,672.5,97,97,91,A-,A,70,Banks-West/Southwest,11/7/14
-176,WAL,Western Alliance Bancorp,56.25,0.05,0.1,-0.74,5.1,695,39116,5936.4,96,96,82,A-,A,70,Banks-West/Southwest,6/30/05
-177,PPBI,Pacific Premier Bancorp,41.05,-0.6,-1.4,-3.53,280.6,475,19535,1644.3,94,81,83,B,A,70,Banks-West/Southwest,6/24/97
-178,CATY,Cathay General Bancorp,42.32,0.49,1.2,-0.75,13.1,352,14930,3418.9,95,89,78,A,A,70,Banks-West/Southwest,
-179,TCBI,Texas Capital Bancshares,87.85,0.3,0.3,-5.89,10.6,407,35772,4359.6,91,85,80,B,A,70,Banks-West/Southwest,8/13/03
-180,GBCI,Glacier Bancorp Inc,37.83,0.57,1.5,-0.92,-27.5,342,12968,2950.8,88,83,74,A-,A,70,Banks-West/Southwest,3/22/84
-181,ZION,Zions Bancorp,47.11,0.18,0.4,-2.52,13.9,2103,99072,9524.3,87,90,76,B,B,70,Banks-West/Southwest,
-182,COLB,Columbia Banking System,44.09,0.78,1.8,-3.49,100.4,283,12499,2574,88,89,77,A-,B,70,Banks-West/Southwest,6/16/92
-183,CIFS,China Internet Natw Finl,40.14,2.79,7.5,4.5,197.2,181,7277,802.8,97,82,99,A+,A,63,Finance-Investment Mgmt,8/8/17
-184,TROW,Price T Rowe Group Inc,93.98,-1.09,-1.1,-3.46,42.7,1228,115492,22772.3,92,87,89,B-,A,63,Finance-Investment Mgmt,4/2/86
-185,BLK,Blackrock Inc,475.13,1.65,0.3,-2.99,-13.9,502,238705,76485.5,90,81,84,A,A,63,Finance-Investment Mgmt,10/1/99
-186,SEIC,S E I Investments Co,64.45,-0.42,-0.6,-1.3,-15.4,505,32605,10190,91,91,87,B+,A,63,Finance-Investment Mgmt,3/25/81
-187,CG,The Carlyle Group L P,22.4,-0.2,-0.9,-9.86,-6.9,829,18589,2039.5,86,73,84,C-,A,63,Finance-Investment Mgmt,5/3/12
-188,TRHC,Tabula Rasa Healthcare,26.37,0.22,0.8,-7.57,-70.6,115,3040,457.8,97,82,98,A-,A,83,Computer Sftwr-Medical,9/29/16
-189,VEEV,Veeva Systems Inc Cl A,59.44,-0.05,-0.1,-12.68,-43.1,1456,86586,8358.2,95,99,80,B+,A,83,Computer Sftwr-Medical,10/16/13
-190,MB,Mindbody Inc Cl A,32.65,4.3,15.2,9.75,378.5,434,14199,1513.5,67,36,90,B+,D,83,Computer Sftwr-Medical,6/19/15
-191,EPAM,Epam Systems Inc,90.95,0.61,0.7,-1.11,-18.5,289,26302,4777,98,88,83,A-,A,76,Computer-Tech Services,2/8/12
-192,IBP,Installed Building Prod,66.65,0.55,0.8,-0.74,-34.1,156,10404,2123.6,98,99,95,B-,A,72,Bldg-Maintenance & Svc,2/13/14
-193,ABT,Abbott Laboratories,55.37,-0.11,-0.2,-2.32,-15.8,5613,310791,96202.2,86,72,86,B,A,90,Medical-Diversified,
-194,XYL,Xylem Inc,64.86,0.05,0.1,-2.14,-23.9,877,56934,11646.8,89,82,84,B,A,105,Machinery-Tools & Rel,
-195,LOPE,Grand Canyon Education,89.39,0.15,0.2,-3.96,-8.9,253,22624,4301,97,97,94,A,A,69,Consumer Svcs-Education,11/20/08
-196,BFAM,Bright Horizns Fam Solns,86.45,0.85,1,-1.91,-41.5,161,13987,5114.1,94,95,77,B+,B,69,Consumer Svcs-Education,
-197,EDU,New Orientl Edu&Tech Ads,85.36,2.61,3.2,-9.8,90.7,1695,144719,13485.4,89,91,92,D+,A,69,Consumer Svcs-Education,9/7/06
-198,CHGG,Chegg Inc,16.48,0.68,4.3,1.54,123.1,880,14515,1766.4,82,69,98,A-,D,69,Consumer Svcs-Education,11/13/13
-199,FIVE,Five Below Inc,55.45,-0.18,-0.3,-4.51,24.1,883,48995,3060.8,98,99,89,B-,A,91,Retail-Discount&Variety,7/19/12
-200,OLLI,Ollie's Bargain Outlet,46.85,0.4,0.9,-0.11,-18.8,528,24736,2877.2,98,97,90,B-,A,91,Retail-Discount&Variety,7/16/15
-201,DLTR,Dollar Tree Inc,93.21,-0.02,0,-0.5,-10.5,2448,228187,22076.2,87,85,85,A-,B,91,Retail-Discount&Variety,3/6/95
-202,ATSG,Air Transport Svcs Grp,24.06,0.35,1.5,-7.14,-40.1,449,10822,1422.5,85,80,89,B-,C,82,Transport-Air Freight,
-203,CSGP,Costar Group Inc,299.38,10.13,3.5,1.73,83.7,234,70084,10821.4,95,83,89,A-,B,84,Comml Svcs-Market Rsrch,7/1/98
-204,FDS,Factset Research Sys Inc,189.1,-0.34,-0.2,-0.99,-7.8,360,68208,7418,91,83,74,A-,A,84,Comml Svcs-Market Rsrch,6/27/96
-205,SPGI,S&P Global Inc,162.16,-2.84,-1.7,-2.41,81.8,939,152316,41675.1,90,95,81,C+,A,84,Comml Svcs-Market Rsrch,
-206,MCO,Moodys Corporation,146.4,-0.98,-0.7,-1.08,33.2,648,94925,27962.4,82,93,87,B+,,84,Comml Svcs-Market Rsrch,
-207,NFLX,Netflix Inc,199.54,4.33,2.2,-2.37,11.3,7303,1457360,86347.1,92,98,89,B+,C,79,Leisure-Movies & Related,5/23/02
-208,VAC,Marriott Vacations Wrld,131.24,0.19,0.1,-0.24,-16.7,258,33925,3547.3,98,98,93,A-,B,88,Leisure-Services,
-209,LYV,Live Nation Entertmnt,43.19,0.93,2.2,-1.52,-19,1588,68620,8903.1,78,59,91,B-,D,88,Leisure-Services,
-210,ABBV,AbbVie Inc,91.93,2.37,2.6,-6.44,26.6,7162,658402,146545.1,95,87,94,B,A,92,Medical-Ethical Drugs,
-211,ATH,Athene Holding Ltd Cl A,53.24,-0.01,0,-3.59,-17,888,47319,10651.6,88,92,60,B,A,85,Insurance-Life,12/9/16
-212,LFC,China Life Insurance Adr,16.66,0.46,2.8,0.3,28.7,534,8909,91241.5,85,87,74,B+,C,85,Insurance-Life,12/17/03
-213,VLO,Valero Energy Corp,77.75,1.46,1.9,-1.13,62.4,3768,293008,34339.3,82,73,81,B,C,81,Oil&Gas-Refining/Mktg,
-214,PSX,Phillips 66,91.99,0.81,0.9,-3.17,3.4,2013,185258,47053.8,69,66,68,B,C,81,Oil&Gas-Refining/Mktg,
-215,FRME,First Merchants Corp Mun,43.91,0.02,0,-1.01,2.7,267,11723,2156.9,95,92,81,A-,A,96,Banks-Midwest,
-216,WTFC,Wintrust Financial Corp,81.4,0.92,1.1,-0.07,-18.9,288,23443,4542.9,89,92,80,B+,B,96,Banks-Midwest,3/13/97
-217,BY,Byline Bancorp Inc,20.16,-0.51,-2.5,-7.61,49.2,73,1475,590.8,62,79,36,D-,A,96,Banks-Midwest,6/30/17
-218,FBR,Fibria Celulose Sa Adr,16.21,0.02,0.1,-5.81,-22,1602,25971,8968.4,83,47,97,A-,A,102,Paper & Paper Products,4/14/00
-219,BAC,Bank Of America Corp,27.8,0.06,0.2,-0.64,-10.5,65770,1828406,273846.1,87,90,87,A-,C,103,Banks-Money Center,
-220,MS,Morgan Stanley,51.16,0.39,0.8,-0.7,18.3,7828,400500,93959.4,86,90,82,B-,B,103,Banks-Money Center,2/22/93
-221,TSU,T I M Participacoes Ads,19.01,0.35,1.9,-2.11,-26.2,924,17565,9204.8,80,72,84,A,B,97,Telecom Svcs- Foreign,
-222,STRL,Sterling Construction Co,15.45,0.18,1.2,-3.74,-38.2,470,7270,417.6,88,64,96,A,D,78,Bldg-Heavy Construction,
-223,GVA,Granite Construction Inc,63.15,5.28,9.1,1.56,259.9,299,18932,2516,87,88,87,B+,C,78,Bldg-Heavy Construction,4/19/90
-224,LAYN,Layne Christensen Co,13.51,0.06,0.4,-0.95,-59,162,2196,268.6,70,49,94,A,E,78,Bldg-Heavy Construction,8/20/92
-225,CONN,Conns Inc,31.35,-0.35,-1.1,-4.71,-58.4,671,21048,978.3,75,69,99,A,E,128,Retail-Consumer Elec,11/25/03
-226,SHW,Sherwin-Williams Co,397.29,0.79,0.2,-0.23,-8.9,660,262489,37151.8,97,88,89,A,A,98,Chemicals-Paints,
-227,NBN,Northeast Bancorp,26.5,0.25,1,-11.52,-28.9,48,1293,209.3,97,99,97,A,A,95,Banks-Northeast,
-228,CFG,Citizens Financial Group,38.45,-0.06,-0.2,-3.27,-49.5,4876,187489,19250.8,85,96,74,B,B,95,Banks-Northeast,9/24/14
-229,WBS,Webster Financial Corp,55.7,-0.08,-0.1,-3.13,0.6,499,27799,5128.6,80,88,70,B+,B,95,Banks-Northeast,12/12/86
-230,SNV,Synovus Financial Corp,47.17,0.08,0.2,-1.05,-40.3,752,35500,5731.2,94,96,77,B+,A,93,Banks-Southeast,
-231,CSFL,Centerstate Bank Corp,27.54,0.34,1.3,-0.86,-21.3,300,8275,1653.1,95,90,78,B+,A,93,Banks-Southeast,
-232,SBCF,Seacoast Banking Corp Fl,25.32,0.68,2.7,-2.16,49.4,168,4276,1100.4,90,95,76,B-,A,93,Banks-Southeast,2/2/84
-233,DVMT,Dell Technologies Inc,83.88,0.91,1.1,0.64,-23.8,1274,106863,64820.3,95,82,93,B+,A,108,Computer-Hardware/Perip,
-234,BLD,Topbuild Corp,64.71,0.39,0.6,-3.81,-25.5,235,15226,2299.9,93,99,96,B+,C,109,Bldg-Constr Prds/Misc,
-235,TREX,Trex Company Inc,89.16,0.42,0.5,-2.93,-42.5,224,19980,2621.8,91,94,90,B-,A,109,Bldg-Constr Prds/Misc,4/8/99
-236,BLDR,Builders Firstsource Inc,17.89,0.02,0.1,-2.93,-57.1,1302,23299,2015.1,89,79,92,A-,B,109,Bldg-Constr Prds/Misc,6/22/05
-237,OC,Owens Corning,79.41,0.2,0.3,-2.04,13.1,1116,88677,8833.6,88,84,91,B,B,109,Bldg-Constr Prds/Misc,
-238,MAS,Masco Corp,40.16,0.05,0.1,-2.29,9.1,2207,88649,12632.9,83,96,73,B,B,109,Bldg-Constr Prds/Misc,
-239,RACE,Ferrari N V,115.59,0.52,0.5,-2.13,-40.8,597,69088,21841.1,97,93,96,A,A,124,Auto Manufacturers,10/21/15
-240,FCAU,Fiat Chrysler Automobile,17.15,-0.12,-0.7,-5.25,-54.9,4821,82688,26647.5,88,97,97,B+,C,124,Auto Manufacturers,
-241,ROP,Roper Technologies Inc,257.57,0.05,0,-0.07,20.3,329,84869,26328.5,92,90,87,C,A,119,Diversified Operations,2/12/92
-242,TX,Ternium Sa Adr,32.25,-0.1,-0.3,-3.41,-33.1,338,10916,6330.9,86,77,84,B+,B,116,Steel-Producers,2/1/06
-243,STL,Sterling Bancorp,25.5,0.25,1,-1.35,-34.7,2324,59262,3459.3,90,93,77,B,A,122,Finance-Savings & Loan,1/8/99
-244,NEWA,Newater Technology Inc,13.62,2.37,21.1,15.42,44.4,135,1846,147.2,80,79,96,B,B,126,Pollution Control,7/28/17
-245,TPRE,Third Point Reinsurance,16.7,0,0,-1.47,-20.5,939,15694,1793.3,80,74,90,B-,C,125,Insurance-Prop/Cas/Titl,8/15/13
-246,RDSB,Royal Dutch Shell B Ads,63.46,0.32,0.5,-0.67,-22.7,1190,75561,256105.1,77,78,73,A,C,129,Oil&Gas-Integrated,
-247,OMP,Oasis Midstream Prtns LP,16.56,0.2,1.2,-9.21,-77.3,310,5135,455.4,57,62,31,,A,129,Oil&Gas-Integrated,9/21/17
-248,CGBD,T C G Bdc Inc,18.55,0.24,1.3,-3.64,-15.3,88,1636,1147.5,57,68,42,C+,B,123,Finance-Commercial Loans,6/14/17
-249,SIVB,S V B Financial Group,216.69,24.32,12.6,8.98,375.6,394,85440,11418,98,96,91,A,A,106,Banks-Super Regional,
-250,CMA,Comerica Inc,79.79,0.08,0.1,-0.57,-41.8,1658,132363,14035.9,87,89,82,B+,B,106,Banks-Super Regional,
-251,GTT,G T T Communications Inc,35.55,0.25,0.7,0.57,48.4,298,10593,1471,71,47,87,B+,C,137,Internet-Network Sltns,
-252,COP,Conocophillips,51.21,-0.25,-0.5,-3.69,35.1,5799,297012,62320,71,79,62,A-,D,132,Oil&Gas-Intl Expl&Prod,
-253,MNST,Monster Beverage Corp,56.75,0,0,-0.87,-6.4,1761,99942,32243.6,88,93,78,B+,A,145,Beverages-Non-Alcoholic,12/5/85
-254,CDEV,Centennial Res Dvlp Cl A,19.05,0.53,2.9,-9.16,29.2,1138,21688,5254.5,66,79,73,B-,D,139,Oil&Gas-U S Expl&Prod,
-255,HCC,Warrior Met Coal Inc,26.01,-0.5,-1.9,-6.94,76.2,651,16932,1390.1,74,79,92,B,,155,Energy-Coal,4/13/17
-256,RES,R P C Inc,23.42,0.53,2.3,-6.32,-1,1500,35144,5090.4,72,79,77,B-,D,152,Oil&Gas-Field Services,
-257,PUMP,Propetro Holding Corp,14.49,0.5,3.6,-7.77,-36,925,13414,1203.2,42,34,49,B,D,152,Oil&Gas-Field Services,3/17/17
-258,WWE,World Wrestling Entmnt,26.09,1.69,6.9,6.58,298.5,487,12708,2011.7,81,79,89,B+,B,171,Media-Diversified,10/19/99
-259,CPRT,Copart Inc,35.88,-0.03,-0.1,-2.1,91.3,1156,41509,8280.1,86,88,82,B+,A,179,Retail/Whlsle-Auto Parts,3/16/94
+"Order","Symbol","Name","Current Price","Price $ Chg","Price % Chg","% Off High","Vol % Chg vs 50-Day","50-Day Avg Vol (1000s)","50-Day Avg $ Vol (1000s)","Market Cap (mil)","Comp Rating","EPS Rating","RS Rating","A/D Rating","SMR Rating","Ind Group Rank","Industry Name","IPO Date"
+"1","ETSY","Etsy Inc","26.09","0.42","1.6","-0.80","27.1","2424","63263","3175.5","99","79","98","A+","D","2","Retail-Internet","04-16-2015"
+"2","BZUN","Baozun Inc Cl A Ads","44.14","-4.07","-8.4","-9.46","240.4","2076","91665","2413.3","98","97","98","B-","B","8","Computer Sftwr-Enterprse","05-21-2015"
+"3","AMZN","Amazon.com Inc","1545.00","7.36","0.5","0.19","-23.1","5430","8390431","747945.3","92","45","95","C-","B","2","Retail-Internet","05-15-1997"
+"4","SFLY","Shutterfly Inc","83.90","0.87","1.0","0.93","-38.1","1232","103423","2728.1","89","45","98","A","D","2","Retail-Internet","09-29-2006"
+"5","NFLX","Netflix Inc","321.16","-4.06","-1.2","-1.42","61.9","10582","3398547","139366.7","99","98","98","A+","B","1","Leisure-Movies & Related","05-23-2002"
+"6","TWOU","2U Inc","88.96","2.16","2.5","1.71","47.7","374","33271","4689.5","93","34","98","A+","D","3","Computer Sftwr-Edu/Media","03-28-2014"
+"7","CRM","Salesforce.com Inc","125.33","0.85","0.7","0.51","30.8","5159","646602","90525.9","99","97","90","A","B","8","Computer Sftwr-Enterprse","06-23-2004"
+"8","NOW","Servicenow Inc","173.06","1.99","1.2","0.67","-10.7","1851","320472","30233.6","99","98","96","B","A","8","Computer Sftwr-Enterprse","06-29-2012"
+"9","PAYC","Paycom Software Inc","107.50","1.64","1.5","1.03","-14.5","728","78281","6362.1","99","99","96","C+","A","8","Computer Sftwr-Enterprse","04-15-2014"
+"10","ULTI","Ultimate Software Group","253.38","1.27","0.5","-0.58","10.8","295","74873","7746.6","99","95","86","B+","A","8","Computer Sftwr-Enterprse","06-02-1998"
+"11","RNG","RingCentral Inc Cl A","65.80","1.10","1.7","0.08","25.8","615","40506","5176.6","98","79","97","A-","B","8","Computer Sftwr-Enterprse","09-27-2013"
+"12","UPLD","Upland Software Inc","27.22","0.44","1.6","-1.98","61.0","198","5403","565.5","99","79","94","B+","B","8","Computer Sftwr-Enterprse","11-06-2014"
+"13","SHOP","Shopify Inc Cl A","143.68","2.17","1.5","-1.67","-9.7","1646","236554","14350.3","97","79","97","B","C","8","Computer Sftwr-Enterprse","05-21-2015"
+"14","WDAY","Workday Inc Cl A","137.58","1.63","1.2","1.18","54.5","1715","235977","28891.8","97","77","93","A-","C","8","Computer Sftwr-Enterprse","10-12-2012"
+"15","FIVN","Five9 Inc","31.41","0.17","0.5","-1.84","61.8","406","12780","1782.0","97","79","95","A-","D","8","Computer Sftwr-Enterprse","04-04-2014"
+"16","LOGM","Logmein Inc","123.10","3.00","2.5","-8.68","-6.1","573","70573","6454.3","97","99","72","D","A","8","Computer Sftwr-Enterprse","07-01-2009"
+"17","COUP","Coupa Software Inc","47.75","1.02","2.2","-0.38","-31.6","682","32565","2628.4","90","41","96","A","D","8","Computer Sftwr-Enterprse","10-06-2016"
+"18","APTI","Apptio Inc Cl A","29.92","0.35","1.2","-0.27","-9.9","608","18194","1275.0","91","47","97","A","D","8","Computer Sftwr-Enterprse","09-23-2016"
+"19","ZEN","Zendesk Inc","45.30","0.88","2.0","0.11","38.8","927","41993","4683.2","89","49","95","B+","D","8","Computer Sftwr-Enterprse","05-15-2014"
+"20","WIX","Wix.com Ltd","81.75","2.40","3.0","-5.11","28.7","664","54331","3723.9","91","51","91","A","D","8","Computer Sftwr-Enterprse","11-06-2013"
+"21","MODN","Model N Inc","17.45","0.15","0.9","-2.51","11.5","246","4297","514.5","89","63","90","B-","D","8","Computer Sftwr-Enterprse","03-20-2013"
+"22","BAND","Bandwidth Inc Cl A","28.64","-0.09","-0.3","-1.75","88.8","107","3075","505.2","84","39","90","B-","B","8","Computer Sftwr-Enterprse","11-10-2017"
+"23","GDDY","Godaddy Inc Cl A","62.66","1.75","2.9","1.31","45.2","1347","84415","10522.7","80","22","94","B","D","8","Computer Sftwr-Enterprse","04-01-2015"
+"24","VRTX","Vertex Pharmaceuticals","170.17","1.45","0.9","-2.73","-34.1","1844","313946","43204.6","99","77","91","B","A","6","Medical-Biomed/Biotech","07-24-1991"
+"25","LGND","Ligand Pharmaceuticals","168.06","2.19","1.3","-1.32","60.7","282","47409","3563.5","98","98","92","A+","A","6","Medical-Biomed/Biotech","11-18-1992"
+"26","NBIX","Neurocrine Biosciences","91.43","1.43","1.6","-0.42","-18.5","916","83832","8162.2","93","67","97","B+","E","6","Medical-Biomed/Biotech","05-23-1996"
+"27","MGNX","MacroGenics Inc","32.46","0.41","1.3","0.95","34.3","246","8001","1198.4","92","39","97","A+","D","6","Medical-Biomed/Biotech","10-10-2013"
+"28","NKTR","Nektar Therapeutics","101.30","3.21","3.3","-4.20","-5.4","2666","270086","16301.4","89","53","99","A-","D","6","Medical-Biomed/Biotech","05-03-1994"
+"29","GLYC","Glycomimetics Inc","18.14","-0.61","-3.3","-30.36","150.5","756","13726","622.9","66","34","97","D","E","6","Medical-Biomed/Biotech","01-10-2014"
+"30","CTMX","Cytomx Therapeutics Inc","33.87","1.51","4.7","-1.08","21.0","329","11143","1300.9","76","15","98","A-","D","6","Medical-Biomed/Biotech","10-08-2015"
+"31","MYOK","Myokardia Inc","55.00","-2.95","-5.1","-12.46","105.5","392","21582","1965.8","69","7","99","C","D","6","Medical-Biomed/Biotech","10-29-2015"
+"32","HRTX","Heron Therapeutics Inc","22.30","0.35","1.6","-10.08","-27.5","973","21702","1441.7","77","33","94","B","D","6","Medical-Biomed/Biotech",""
+"33","CRSP","Crispr Therapeutics AG","51.49","2.56","5.2","-0.21","48.6","1019","52473","2362.9","71","4","99","A-","D","6","Medical-Biomed/Biotech","10-19-2016"
+"34","SLDB","Solid Biosciences Inc","29.01","-1.54","-5.0","-14.02","-60.4","314","9109","960.6","52","1","93","","0","6","Medical-Biomed/Biotech","01-26-2018"
+"35","DCPH","Deciphera Pharma","24.40","0.13","0.5","-18.61","20.9","181","4416","795.2","50","1","93","C+","","6","Medical-Biomed/Biotech","09-28-2017"
+"36","SKX","Skechers U S A Inc Cl A","41.19","0.01","0.0","-3.60","-41.0","2120","87359","6599.3","98","98","93","B","A","14","Apparel-Shoes & Rel Mfg","06-09-1999"
+"37","DECK","Deckers Outdoor Corp","97.79","-0.50","-0.5","-0.95","191.5","802","78486","3106.0","93","82","94","B+","C","14","Apparel-Shoes & Rel Mfg","10-15-1993"
+"38","CROX","Crocs Inc","14.32","0.37","2.7","-4.21","6.0","1113","15948","985.6","86","58","97","B-","D","14","Apparel-Shoes & Rel Mfg","02-08-2006"
+"39","CARB","Carbonite Inc","29.30","0.70","2.4","-4.40","-29.3","301","8831","818.8","98","78","92","B+","A","5","Computer-Data Storage","08-11-2011"
+"40","NTAP","Netapp Inc","63.35","-0.45","-0.7","-1.68","-17.2","3208","203271","16972.9","94","80","93","B","A","5","Computer-Data Storage","11-20-1995"
+"41","PSTG","Pure Storage Inc Cl A","20.34","-0.20","-1.0","-10.00","55.1","2574","52371","4409.4","92","70","94","C-","D","5","Computer-Data Storage","10-07-2015"
+"42","FB","Facebook Inc Cl A","183.71","3.93","2.2","-5.94","-17.3","23105","4244656","533677.6","99","99","75","B","A","13","Internet-Content","05-18-2012"
+"43","BIDU","Baidu Inc Ads","257.26","-1.47","-0.6","-6.44","-40.2","2780","715182","89327.1","98","90","86","A-","A","13","Internet-Content","08-05-2005"
+"44","WB","Weibo Corp Cl A Ads","138.93","3.33","2.5","-2.24","-23.4","1894","263244","30868.7","99","99","97","B-","A","13","Internet-Content","04-17-2014"
+"45","GRUB","Grubhub Inc","104.16","2.74","2.7","1.47","-38.0","1809","188498","9082.1","99","98","98","B-","A","13","Internet-Content","04-04-2014"
+"46","YY","YY Inc","126.33","7.57","6.4","-11.64","147.2","1378","174183","8361.8","99","98","98","B-","A","13","Internet-Content","11-21-2012"
+"47","ATHM","Autohome Inc Cl A Ads","79.82","-1.13","-1.4","-8.10","149.6","792","63257","9321.7","97","99","96","C+","A","13","Internet-Content","12-11-2013"
+"48","TWTR","Twitter Inc","35.76","1.33","3.9","2.17","12.5","29911","1069649","26852.3","98","95","98","A+","D","13","Internet-Content","11-07-2013"
+"49","SINA","Sina Corporation","122.92","1.50","1.2","-1.35","9.9","950","116774","8784.8","98","94","92","B","B","13","Internet-Content","04-13-2000"
+"50","WUBA","58.com Inc Cl A Ads","77.11","0.41","0.5","-12.03","36.4","1000","77125","11297.4","98","79","94","B","C","13","Internet-Content","10-31-2013"
+"51","GOOG","Alphabet Inc Cl C","1109.64","14.58","1.3","-6.51","-23.5","1689","1874182","771529.4","96","95","79","E","A","13","Internet-Content",""
+"52","YNDX","Yandex N V Class A","43.16","0.50","1.2","-2.99","-12.0","2676","115496","14083.3","97","50","95","A","A","13","Internet-Content","05-24-2011"
+"53","SEND","Sendgrid Inc","30.02","1.38","4.8","3.02","0.1","234","7042","1244.2","97","80","96","A-","C","13","Internet-Content","11-15-2017"
+"54","GOOGL","Alphabet Inc Cl A","1115.04","14.14","1.3","-6.92","-22.1","1974","2201981","775284.0","96","94","77","D-","A","13","Internet-Content","08-19-2004"
+"55","IAC","I A C/Interactivecorp","156.87","1.62","1.0","0.86","-33.5","794","124680","12861.0","87","30","95","B+","B","13","Internet-Content",""
+"56","ANGI","ANGI Homeservices Cl A","15.27","-0.04","-0.3","-0.52","201.3","886","13533","7290.0","81","19","88","A-","C","13","Internet-Content",""
+"57","ANET","Arista Networks Inc","291.58","2.98","1.0","-6.45","-2.5","1273","371327","21540.5","99","99","97","B+","A","7","Computer-Networking","06-06-2014"
+"58","TJX","T J X Cos Inc","82.63","-1.76","-2.1","-2.55","49.8","4436","366563","52247.1","96","88","69","B-","A","23","Retail-Apparel/Shoes/Acc",""
+"59","LULU","Lululemon Athletica","81.32","-2.37","-2.8","-3.17","4.4","1652","134373","10213.7","95","69","89","B+","A","23","Retail-Apparel/Shoes/Acc","07-30-2007"
+"60","ROST","Ross Stores Inc","75.40","-5.11","-6.3","-11.98","249.4","2509","189238","28813.7","96","93","72","D","A","23","Retail-Apparel/Shoes/Acc","08-08-1985"
+"61","PLCE","Childrens Place Inc","139.10","-5.10","-3.5","-13.95","13.4","394","54930","2419.6","90","91","79","C-","B","23","Retail-Apparel/Shoes/Acc","09-18-1997"
+"62","BURL","Burlington Stores Inc","116.08","-6.66","-5.4","-9.97","176.3","886","102928","7922.1","85","99","79","D+","","23","Retail-Apparel/Shoes/Acc","10-02-2013"
+"63","ANF","Abercrombie & Fitch Co","23.89","2.54","11.9","1.53","424.5","2664","63647","1626.9","92","78","97","B+","E","23","Retail-Apparel/Shoes/Acc","09-26-1996"
+"64","PRLB","Proto Labs Inc","117.50","2.20","1.9","-0.13","2.4","169","19869","3130.8","99","90","97","B-","A","11","Machinery-Mtl Hdlg/Autmn","02-24-2012"
+"65","HOLI","Hollysys Automation Tech","26.16","0.07","0.3","-3.89","26.4","255","6686","1578.5","94","78","90","B-","B","11","Machinery-Mtl Hdlg/Autmn",""
+"66","ASGN","On Assignment Inc","82.25","2.25","2.8","2.79","34.7","291","23934","4291.4","97","97","95","B+","B","9","Comml Svcs-Staffing","09-21-1992"
+"67","ADBE","Adobe Systems Inc","216.86","4.85","2.3","1.60","10.6","2527","548157","106603.6","99","95","94","B","A","12","Computer Sftwr-Desktop","08-14-1986"
+"68","RHT","Red Hat Inc","153.31","3.59","2.4","0.66","39.2","1685","258434","27136.5","99","95","95","A","A","12","Computer Sftwr-Desktop","08-11-1999"
+"69","MSFT","Microsoft Corp","93.86","0.54","0.6","-2.30","-11.6","30214","2835895","722702.5","88","50","87","D+","A","12","Computer Sftwr-Desktop","03-17-1986"
+"70","ATVI","Activision Blizzard Inc","74.07","0.15","0.2","-1.87","-7.5","6305","467026","56004.3","92","77","88","C+","A","16","Computer Sftwr-Gaming",""
+"71","EA","Electronic Arts Inc","127.17","2.62","2.1","-2.93","-32.2","3950","502385","39006.5","89","72","84","C","B","16","Computer Sftwr-Gaming","09-20-1989"
+"72","CMA","Comerica Inc","101.17","0.52","0.5","-0.55","-21.4","1450","146716","17483.5","99","88","92","A-","A","4","Banks-Super Regional",""
+"73","SIVB","S V B Financial Group","266.43","0.32","0.1","0.08","3.8","407","108650","14051.5","99","97","92","A+","A","4","Banks-Super Regional",""
+"74","NTRS","Northern Trust Corp","107.62","0.90","0.8","-2.07","8.3","1180","127013","24475.0","98","89","81","C-","A","4","Banks-Super Regional",""
+"75","PNC","P N C Financial Svcs Grp","159.64","0.30","0.2","-2.41","-36.6","2247","358838","75956.9","92","82","84","D-","B","4","Banks-Super Regional",""
+"76","STI","Suntrust Banks Inc","71.47","0.40","0.6","-1.58","-46.9","3443","246135","34022.1","93","89","83","B","B","4","Banks-Super Regional",""
+"77","KEY","Keycorp","21.97","0.27","1.2","-1.13","-6.0","9845","216301","23626.5","92","84","82","B-","A","4","Banks-Super Regional",""
+"78","RF","Regions Financial Corp","19.87","-0.03","-0.2","-1.14","-38.1","10684","212293","23048.6","91","81","90","B-","C","4","Banks-Super Regional",""
+"79","BBT","B B & T Corp","55.02","-0.23","-0.4","-2.08","-23.1","3928","216129","43406.4","84","61","81","B-","B","4","Banks-Super Regional",""
+"80","FIVE","Five Below Inc","68.97","-2.58","-3.6","-6.23","12.3","1032","71183","3809.6","98","99","90","B-","A","67","Retail-Discount&Variety","07-19-2012"
+"81","OLLI","Ollie's Bargain Outlet","60.10","-1.85","-3.0","-3.14","16.7","532","31973","3705.6","96","97","93","B+","B","67","Retail-Discount&Variety","07-16-2015"
+"82","HCC","Warrior Met Coal Inc","31.46","-0.33","-1.0","-6.70","-35.2","690","21729","1676.3","98","79","98","B","A","21","Energy-Coal","04-13-2017"
+"83","PYPL","Paypal Holdings Inc","79.52","0.29","0.4","-7.88","-43.0","9724","773324","95436.7","99","96","92","C","A","26","Finance-CrdtCard/PmtPr",""
+"84","MA","Mastercard Inc Cl A","179.21","1.68","0.9","-0.49","-28.7","3878","695119","188418.5","99","95","92","C","A","26","Finance-CrdtCard/PmtPr","05-25-2006"
+"85","WP","Worldpay Inc Cl A","83.40","-0.87","-1.0","-1.99","-19.4","4804","400653","14832.5","99","92","85","A","A","26","Finance-CrdtCard/PmtPr","03-22-2012"
+"86","PAGS","Pagseguro Digital Cl A","35.10","0.34","1.0","-1.96","-53.6","4672","164008","11616.2","99","99","89","","A","26","Finance-CrdtCard/PmtPr","01-24-2018"
+"87","SQ","Square Inc Cl A","50.72","1.12","2.3","0.44","19.1","15377","779962","20103.2","99","82","98","B","A","26","Finance-CrdtCard/PmtPr","11-19-2015"
+"88","FLT","Fleetcor Technologies","205.16","1.74","0.9","-4.01","-33.1","588","120818","18413.7","97","94","88","B-","A","26","Finance-CrdtCard/PmtPr","12-15-2010"
+"89","GPN","Global Payments Inc","114.31","0.13","0.1","-1.00","-46.8","1133","129513","18198.7","97","95","86","B+","A","26","Finance-CrdtCard/PmtPr",""
+"90","TSS","Total System Services","89.39","0.48","0.5","-0.59","-30.7","1321","118146","16244.4","97","94","92","B+","A","26","Finance-CrdtCard/PmtPr","08-11-1983"
+"91","GDOT","Green Dot Corp Cl A","66.86","0.43","0.6","-3.62","-0.5","347","23200","3428.8","97","93","95","B","A","26","Finance-CrdtCard/PmtPr","07-22-2010"
+"92","V","Visa Inc Cl A","121.85","0.79","0.7","-3.96","-10.3","8084","985108","249565.5","94","93","83","C","A","26","Finance-CrdtCard/PmtPr","03-19-2008"
+"93","HTHT","China Lodging Group Ads","154.67","2.52","1.7","-6.93","-22.7","531","82238","10812.5","99","98","97","C-","A","29","Leisure-Lodging","03-26-2010"
+"94","MAR","Marriott International","138.98","1.37","1.0","-6.86","-31.8","2389","332134","49676.6","96","96","89","D+","A","29","Leisure-Lodging",""
+"95","PANW","Palo Alto Networks","186.27","3.05","1.7","1.48","52.6","1464","272848","17108.5","99","99","92","A+","A","19","Computer Sftwr-Security","07-20-2012"
+"96","QLYS","Qualys Inc","77.60","0.25","0.3","-1.40","12.9","264","20494","2997.5","99","98","97","A","A","19","Computer Sftwr-Security","09-28-2012"
+"97","FTNT","Fortinet Inc","52.47","0.62","1.2","1.04","-1.2","1776","93197","8816.2","98","83","91","B","A","19","Computer Sftwr-Security","11-18-2009"
+"98","SAIL","Sailpoint Tech Holdings","21.89","-1.19","-5.2","-8.52","54.5","361","7917","1994.9","98","50","96","A+","C","19","Computer Sftwr-Security","11-17-2017"
+"99","PFPT","Proofpoint Inc","118.69","1.33","1.1","0.56","95.8","574","68128","5999.3","98","71","93","A","A","19","Computer Sftwr-Security","04-20-2012"
+"100","MIME","Mimecast Limited","37.45","0.13","0.3","0.11","55.8","331","12403","2165.0","87","41","94","A-","C","19","Computer Sftwr-Security","11-19-2015"
+"101","OKTA","Okta Inc Cl A","39.14","0.92","2.4","-1.14","45.1","1580","61872","3989.3","75","20","94","A","D","19","Computer Sftwr-Security","04-07-2017"
+"102","RPD","Rapid7 Inc","27.82","0.52","1.9","1.42","-43.9","427","11901","1261.8","71","6","96","A-","D","19","Computer Sftwr-Security","07-17-2015"
+"103","AMTD","T D Ameritrade Hldg Corp","59.63","0.60","1.0","-0.40","-37.1","3417","203767","33832.2","99","94","92","B+","A","24","Finance-Invest Bnk/Bkrs","03-03-1997"
+"104","ETFC","E*Trade Financial Corp","54.91","0.51","0.9","-1.95","1.0","2617","143721","14624.4","99","95","91","B","A","24","Finance-Invest Bnk/Bkrs","08-16-1996"
+"105","IBKR","Interactive Brokers Grp","70.82","-0.43","-0.6","-0.67","-34.1","984","69694","5061.7","99","93","96","B","A","24","Finance-Invest Bnk/Bkrs","05-04-2007"
+"106","RJF","Raymond James Financial","96.00","0.15","0.2","-3.13","-24.8","927","88992","13978.9","97","92","82","B+","A","24","Finance-Invest Bnk/Bkrs","07-05-1983"
+"107","SCHW","Charles Schwab Corp","55.43","0.70","1.3","-1.46","8.4","7061","391419","74635.0","98","94","88","B","A","24","Finance-Invest Bnk/Bkrs","09-21-1987"
+"108","LPLA","L P L Financial Holdings","64.02","-0.25","-0.4","-3.93","-24.6","894","57278","5774.0","96","87","93","B","B","24","Finance-Invest Bnk/Bkrs","11-18-2010"
+"109","XPO","X P O Logistics Inc","101.90","-0.67","-0.7","-1.21","-8.7","1793","182727","12221.2","94","75","96","B","D","31","Transportation-Logistics",""
+"110","GWW","Grainger W W Inc","271.26","3.50","1.3","-9.02","-5.0","1061","287915","15219.0","84","62","92","B-","B","38","Retail/Whlsle-Bldg Prds",""
+"111","SPLK","Splunk Inc","105.65","1.76","1.7","0.92","105.7","1676","177080","14945.0","99","99","95","B+","B","15","Computer Sftwr-Database","04-19-2012"
+"112","VRNS","Varonis Systems Inc","58.75","-0.30","-0.5","-0.84","-18.0","308","18130","1654.2","98","75","95","B","C","15","Computer Sftwr-Database","02-28-2014"
+"113","AYX","Alteryx Inc Cl A","38.17","0.11","0.3","0.03","-40.3","610","23287","2258.4","97","79","98","A","D","15","Computer Sftwr-Database","03-24-2017"
+"114","NEWR","New Relic Inc","75.37","2.04","2.8","0.51","121.2","476","35883","4178.6","91","61","96","B+","D","15","Computer Sftwr-Database","12-12-2014"
+"115","MDB","Mongodb Inc Cl A","38.02","3.50","10.1","1.85","229.7","239","9086","1923.1","67","7","88","A-","D","15","Computer Sftwr-Database","10-19-2017"
+"116","USAK","U S A Truck Inc","25.30","0.97","4.0","-9.44","-23.8","123","3129","209.7","84","79","99","C","E","55","Transportation-Truck","03-18-1992"
+"117","TAL","T A L Education Gp A Ads","36.50","0.43","1.2","-7.08","-11.9","6118","223332","19800.4","98","92","96","B-","A","18","Consumer Svcs-Education","10-20-2010"
+"118","BFAM","Bright Horizns Fam Solns","98.34","1.77","1.8","-0.50","-6.8","193","19038","5831.8","98","96","84","B","B","18","Consumer Svcs-Education",""
+"119","REDU","Rise Education Cymn Ads","15.81","-0.03","-0.2","-11.48","-88.4","285","4510","869.6","86","59","79","D","B","18","Consumer Svcs-Education","10-20-2017"
+"120","CHGG","Chegg Inc","22.50","0.49","2.2","1.76","7.9","1124","25305","2474.1","94","47","98","A","C","18","Consumer Svcs-Education","11-13-2013"
+"121","TS","Tenaris Sa Adr","35.20","-0.08","-0.2","-3.12","23.8","2118","74564","20777.4","95","79","82","B+","C","48","Steel-Producers",""
+"122","STLD","Steel Dynamics Inc","47.33","0.36","0.8","-6.65","14.1","2623","124165","11173.2","95","84","90","B","A","48","Steel-Producers","11-21-1996"
+"123","X","United States Steel Corp","45.69","1.16","2.6","-4.09","45.4","13027","595212","8036.1","94","79","96","B+","C","48","Steel-Producers",""
+"124","CHDN","Churchill Downs Inc","273.15","4.95","1.8","1.54","-27.7","148","40562","4213.3","96","93","94","B+","B","36","Leisure-Gaming/Equip",""
+"125","AGS","Playags Inc","20.84","-0.12","-0.6","-4.14","-73.3","378","7890","732.9","61","29","82","","E","36","Leisure-Gaming/Equip","01-26-2018"
+"126","WHD","Cactus Inc Cl A","25.48","-0.13","-0.5","-3.01","-75.3","1378","35116","1908.2","83","79","93","","0","46","Oil&Gas-Machinery/Equip","02-08-2018"
+"127","FANG","Diamondback Energy Inc","126.27","-0.82","-0.6","-6.13","-7.4","1323","167156","12395.5","97","97","89","B-","A","44","Oil&Gas-U S Expl&Prod","10-12-2012"
+"128","RSPP","R S P Permian Inc","40.19","-0.59","-1.4","-7.29","-3.1","2375","95467","6374.1","89","79","77","B+","C","44","Oil&Gas-U S Expl&Prod","01-17-2014"
+"129","ALGN","Align Technology Inc","262.90","6.93","2.7","-8.50","-43.9","1211","318424","21067.5","99","98","96","E","A","27","Medical-Products","01-26-2001"
+"130","ABMD","Abiomed Inc","285.38","3.84","1.4","-0.04","17.7","397","113381","12635.8","99","99","98","B+","A","27","Medical-Products","07-29-1987"
+"131","EW","Edwards Lifesciences Cp","137.77","-0.08","-0.1","-0.51","-33.8","1268","174775","28934.9","99","96","88","B+","A","27","Medical-Products",""
+"132","GMED","Globus Medical Inc Cl A","49.83","-0.18","-0.4","-2.06","-3.0","684","34103","4819.8","98","84","95","A-","A","27","Medical-Products","08-03-2012"
+"133","SEDG","Solaredge Technologies","51.65","-0.85","-1.6","-1.81","-39.5","791","40891","2267.0","99","99","99","A","A","33","Energy-Solar","03-26-2015"
+"134","RUTH","Ruths Hospitality Group","24.80","0.05","0.2","-2.75","-24.5","246","6113","775.7","96","78","84","A","A","32","Retail-Restaurants","08-09-2005"
+"135","DPZ","Dominos Pizza Inc","222.96","1.52","0.7","-5.53","-32.2","1113","248332","9591.3","87","97","81","B+","","32","Retail-Restaurants","07-13-2004"
+"136","BBY","Best Buy Co Inc","73.64","-3.13","-4.1","-6.30","51.8","3621","266672","21526.9","93","93","90","C","B","64","Retail-Consumer Elec",""
+"137","HEI","Heico Corp","87.49","1.49","1.7","-1.40","1.7","294","25765","11552.6","99","94","92","B+","A","35","Aerospace/Defense",""
+"138","HEIA","Heico Corp Cl A","72.65","1.20","1.7","-3.84","-20.3","166","12067","6090.0","99","94","91","B+","A","35","Aerospace/Defense",""
+"139","BA","Boeing Co","347.04","-1.88","-0.5","-6.61","-20.3","5740","1992044","204229.6","91","81","96","B-","C","35","Aerospace/Defense",""
+"140","TEAM","Atlassian Corp Plc Cl A","59.77","0.63","1.1","-0.07","15.3","1074","64199","13759.5","99","96","96","B+","A","28","Comp Sftwr-Spec Enterprs","12-10-2015"
+"141","HUBS","Hubspot Inc","120.00","1.65","1.4","1.18","14.6","431","51780","4543.0","99","79","97","A","C","28","Comp Sftwr-Spec Enterprs","10-09-2014"
+"142","RP","Realpage Inc","52.85","0.45","0.9","-3.82","-11.3","450","23787","4380.2","99","81","91","B","A","28","Comp Sftwr-Spec Enterprs","08-12-2010"
+"143","TYL","Tyler Technologies Inc","211.35","-0.53","-0.3","-0.33","37.4","200","42333","8010.4","98","94","86","B-","A","28","Comp Sftwr-Spec Enterprs",""
+"144","BL","Blackline Inc","44.24","-0.17","-0.4","-2.11","-36.5","425","18828","2338.1","94","68","93","A","D","28","Comp Sftwr-Spec Enterprs","10-28-2016"
+"145","MULE","Mulesoft Inc Cl A","34.10","0.69","2.1","-0.55","-11.1","1867","63681","4484.2","68","4","95","B+","D","28","Comp Sftwr-Spec Enterprs","03-17-2017"
+"146","ALTR","Altair Engineering Cl A","29.98","2.69","9.9","3.74","232.4","231","6940","1885.8","61","19","96","B+","","28","Comp Sftwr-Spec Enterprs","11-01-2017"
+"147","GSM","Ferroglobe Plc","16.65","-0.11","-0.7","-5.45","-32.1","477","7952","2862.9","95","79","89","A","D","25","Steel-Specialty Alloys","07-30-2009"
+"148","EPAM","Epam Systems Inc","116.66","1.30","1.1","-2.11","-35.0","283","33096","6161.0","98","96","91","B","A","49","Computer-Tech Services","02-08-2012"
+"149","GLOB","Globant SA","52.98","0.94","1.8","-0.91","-30.9","258","13679","1864.9","97","93","92","A","A","49","Computer-Tech Services","07-18-2014"
+"150","CTSH","Cognizant Tech Sol Cl A","83.25","0.18","0.2","-0.64","-28.0","3757","312811","49087.9","95","91","86","B-","A","49","Computer-Tech Services","06-19-1998"
+"151","VRTU","Virtusa Corp","49.98","0.64","1.3","-1.67","6.0","208","10400","1470.9","96","84","92","A-","C","49","Computer-Tech Services","08-03-2007"
+"152","ACN","Accenture Plc","158.55","0.52","0.3","-4.25","48.2","2142","339741","105033.8","91","89","79","C","B","49","Computer-Tech Services","07-19-2001"
+"153","DXC","Dxc Technology Company","102.40","0.55","0.5","-2.48","-17.8","1603","164177","29254.3","89","82","87","C","C","49","Computer-Tech Services",""
+"154","HPE","Hewlett Packard Ent Co","19.15","-0.26","-1.3","-1.67","-9.3","12188","233400","30404.4","88","72","93","A","D","49","Computer-Tech Services",""
+"155","PRFT","Perficient Inc","23.58","0.40","1.7","1.59","125.0","244","5755","821.0","95","86","89","A+","C","49","Computer-Tech Services","07-29-1999"
+"156","INTU","Intuit Inc","170.66","1.20","0.7","-3.86","0.3","1347","229998","43707.9","99","92","82","B+","A","34","Computer Sftwr-Financial","03-11-1993"
+"157","SSNC","S S & C Technologies","52.49","0.91","1.8","0.27","-38.2","1722","90435","10805.6","96","93","92","A+","A","34","Computer Sftwr-Financial","05-31-1996"
+"158","QTWO","Q2 Holdings Inc","46.95","0.80","1.7","-0.32","123.9","342","16085","1973.2","93","79","83","A","D","34","Computer Sftwr-Financial","03-20-2014"
+"159","ZNH","China South Airline Ads","62.55","-1.08","-1.7","-11.30","60.3","50","3165","12281.8","95","95","96","C-","B","42","Transportation-Airline","07-25-1997"
+"160","RYAAY","Ryanair Hldgs Plc Adr","123.16","1.72","1.4","-3.29","-65.2","356","43906","29445.1","96","93","78","D+","A","42","Transportation-Airline","05-29-1997"
+"161","AZUL","Azul S A Ads Pfd","30.66","-0.64","-2.0","-3.71","-35.7","332","10206","12767.3","94","67","89","A+","D","42","Transportation-Airline","04-11-2017"
+"162","CPRT","Copart Inc","49.53","0.49","1.0","-2.33","57.9","1349","66825","11490.7","99","96","93","A","A","68","Retail/Whlsle-Auto Parts","03-16-1994"
+"163","FTSI","Fts International Inc","19.61","-0.53","-2.6","-8.88","-62.8","1483","29085","2131.7","53","79","26","","0","51","Oil&Gas-Field Services","02-02-2018"
+"164","CMD","Cantel Medical Corp","118.92","1.05","0.9","-0.72","-1.9","133","15923","4971.5","95","90","91","B","A","40","Medical-Systems/Equip",""
+"165","MZOR","Mazor Robotics Ltd ADS","69.04","2.67","4.0","-0.48","-3.2","529","36529","1696.8","89","68","98","B+","D","40","Medical-Systems/Equip",""
+"166","SPGI","S&P Global Inc","189.70","-1.29","-0.7","-3.18","63.3","1251","237390","48164.8","96","97","87","C+","A","53","Comml Svcs-Market Rsrch",""
+"167","FDS","Factset Research Sys Inc","208.04","-2.43","-1.2","-1.20","-5.9","295","61392","8118.3","92","86","79","B-","A","53","Comml Svcs-Market Rsrch","06-27-1996"
+"168","MCO","Moodys Corporation","166.76","0.70","0.4","-2.85","-6.6","827","138060","31867.8","86","88","88","B","","53","Comml Svcs-Market Rsrch",""
+"169","NTB","Bank Of N T Butterfield","47.09","0.47","1.0","-1.07","44.6","336","15855","2554.9","97","93","91","B+","A","85","Banks-Foreign",""
+"170","PGTI","P G T Innovations Inc","19.30","0.15","0.8","-1.28","56.5","402","7772","958.4","94","83","94","A","B","73","Bldg-Constr Prds/Misc","06-28-2006"
+"171","BLDR","Builders Firstsource Inc","21.61","0.13","0.6","-7.17","-51.7","1413","30554","2440.7","72","40","88","C-","B","73","Bldg-Constr Prds/Misc","06-22-2005"
+"172","CURO","Curo Group Holdings Corp","17.28","-0.01","-0.1","-3.84","84.8","159","2759","787.3","97","60","84","B+","A","37","Finance-Consumer Loans","12-07-2017"
+"173","ABBV","AbbVie Inc","114.72","0.16","0.1","-8.85","-17.5","6409","735332","182172.1","97","90","94","B-","A","92","Medical-Ethical Drugs",""
+"174","ZTS","Zoetis Inc","81.76","0.25","0.3","-2.04","4.1","2765","226115","39674.3","96","96","89","A-","A","92","Medical-Ethical Drugs","02-01-2013"
+"175","POOL","Pool Corp","146.14","-1.47","-1.0","-2.74","1.0","218","31975","5903.5","97","97","86","A-","B","65","Retail-Leisure Products","10-13-1995"
+"176","NYT","New York Times Co Cl A","24.30","-0.10","-0.4","-5.45","-43.6","2459","59756","4005.2","94","93","93","B+","B","56","Media-Newspapers",""
+"177","TBK","Triumph Bancorp Inc","42.75","0.65","1.5","0.83","-29.5","132","5672","890.3","98","96","95","A+","A","39","Banks-West/Southwest","11-07-2014"
+"178","WAL","Western Alliance Bancorp","62.11","0.39","0.6","0.19","11.2","676","42036","6552.0","98","95","83","A-","A","39","Banks-West/Southwest","06-30-2005"
+"179","EWBC","East West Bancorp Inc","68.39","-0.68","-1.0","-1.24","37.7","800","54746","9885.2","96","88","83","B+","A","39","Banks-West/Southwest",""
+"180","ZION","Zions Bancorp","56.93","0.39","0.7","-0.25","-40.1","2346","133574","11371.4","94","89","87","B+","B","39","Banks-West/Southwest",""
+"181","FFWM","First Foundation Inc","18.74","-0.01","-0.1","-5.54","9.5","152","2865","660.2","92","88","69","B","A","39","Banks-West/Southwest",""
+"182","CFR","Cullen Frost Bankers Inc","109.18","0.15","0.1","-0.16","27.8","408","44578","6952.8","87","82","83","C+","A","39","Banks-West/Southwest",""
+"183","PTC","P T C Inc","79.63","1.56","2.0","1.88","11.2","940","74868","9259.7","88","67","92","A","B","54","Computer Sftwr-Design","12-08-1989"
+"184","CASA","Casa Systems Inc","24.10","-0.23","-0.9","-4.37","170.8","359","8668","2018.5","98","96","97","B+","A","61","Telecom-Infrastructure","12-15-2017"
+"185","URI","United Rentals Inc","181.35","-3.64","-2.0","-4.05","36.2","1383","250825","15310.8","96","95","93","D+","A","77","Comml Svcs-Leasing","12-18-1997"
+"186","TROW","Price T Rowe Group Inc","113.09","-0.27","-0.2","-5.81","-31.2","1690","191144","27644.2","92","89","91","D-","A","74","Finance-Investment Mgmt","04-02-1986"
+"187","VCTR","Victory Capital Hld Cl A","13.00","0.15","1.2","-3.70","-63.1","458","5959","891.4","88","73","81","","A","74","Finance-Investment Mgmt","02-08-2018"
+"188","STT","State Street Corp","105.35","-0.11","-0.1","-7.81","-15.2","1755","184984","39067.6","86","89","81","B-","B","74","Finance-Investment Mgmt",""
+"189","PLNT","Planet Fitness Inc Cl A","39.23","0.17","0.4","-0.10","-49.7","1248","48994","3858.8","97","93","96","B+","A","83","Leisure-Services","08-06-2015"
+"190","NVDA","Nvidia Corp","241.84","-0.32","-0.1","-4.02","-8.7","15917","3849488","146313.2","98","98","96","D+","A","30","Elec-Semicondctor Fablss","01-22-1999"
+"191","MPWR","Monolithic Power Systems","119.37","0.34","0.3","-5.86","-30.1","320","38210","4955.8","97","96","79","D+","A","30","Elec-Semicondctor Fablss","11-19-2004"
+"192","AQ","Aquantia Corp","15.04","-0.67","-4.3","-11.74","-19.1","372","5594","503.7","72","19","95","B","C","30","Elec-Semicondctor Fablss","11-03-2017"
+"193","SBT","Sterling Bancorp Inc","14.10","0.22","1.6","-5.87","18.8","121","1713","746.8","99","98","75","A","A","63","Finance-Savings & Loan","11-17-2017"
+"194","BOFI","B O F I Holding Inc","40.38","-0.22","-0.5","-1.20","-21.6","727","29356","2523.7","98","93","95","A+","A","63","Finance-Savings & Loan","03-15-2005"
+"195","BKU","Bankunited Inc","42.23","-0.09","-0.2","-3.67","-6.5","894","37783","4511.0","94","87","78","B","A","63","Finance-Savings & Loan","01-28-2011"
+"196","FTV","Fortive Corporation","77.96","2.84","3.8","-1.10","80.3","1626","126817","27132.5","85","79","81","B-","A","90","Machinery-Gen Industrial",""
+"197","SCCO","Southern Copper Corp","54.81","0.06","0.1","-1.28","20.5","1020","55944","42369.7","96","79","93","B","A","75","Mining-Metal Ores",""
+"198","BAC","Bank Of America Corp","32.18","0.07","0.2","-2.04","-28.3","73545","2366707","335657.1","90","89","87","C","C","72","Banks-Money Center",""
+"199","STM","Stmicroelectronics N V","23.44","0.17","0.7","-7.35","-0.3","4047","94878","21356.4","93","99","88","D+","C","57","Elec-Semiconductor Mfg","12-08-1994"
+"200","ON","O N Semiconductor Corp","25.76","0.29","1.1","0.12","20.0","7537","194168","10959.3","90","92","95","B-","A","57","Elec-Semiconductor Mfg","04-28-2000"
+"201","CY","Cypress Semiconductor","18.10","0.03","0.2","-0.93","-5.8","6059","109682","6425.3","96","77","88","B-","A","57","Elec-Semiconductor Mfg","05-29-1986"
+"202","AMAT","Applied Materials Inc","59.42","-0.57","-1.0","-2.41","20.0","14402","855814","62431.8","98","98","89","A-","A","62","Elec-Semiconductor Equip","10-05-1972"
+"203","LRCX","Lam Research Corp","211.74","3.80","1.8","-3.62","54.1","3650","772893","34503.5","98","99","91","B+","A","62","Elec-Semiconductor Equip","05-04-1984"
+"204","ASML","A S M L Holding N.V. NY","206.05","3.21","1.6","-1.21","28.3","1020","210171","87324.0","98","88","93","B+","A","62","Elec-Semiconductor Equip","03-15-1995"
+"205","MKSI","M K S Instruments Inc","119.40","0.50","0.4","0.34","2.3","550","65753","6505.7","97","99","94","B-","A","62","Elec-Semiconductor Equip","03-30-1999"
+"206","ENTG","Entegris Inc","35.60","0.45","1.3","0.71","-12.8","901","32093","5024.6","97","98","92","C+","A","62","Elec-Semiconductor Equip","07-11-2000"
+"207","CCMP","Cabot Microelectronics","109.89","3.28","3.1","3.00","11.0","176","19417","2814.2","96","90","92","B-","A","62","Elec-Semiconductor Equip","04-04-2000"
+"208","RTEC","Rudolph Technologies Inc","28.00","0.60","2.2","-1.75","-15.0","222","6238","885.0","94","92","83","B-","B","62","Elec-Semiconductor Equip","11-12-1999"
+"209","TRU","TransUnion","57.09","0.04","0.1","-7.05","126.8","1204","68753","10481.7","96","93","84","B-","A","89","Financial Svcs-Specialty","06-25-2015"
+"210","MSCI","M S C I Inc","148.30","-0.69","-0.5","-0.57","8.5","510","75633","13338.7","97","94","90","A-","A","89","Financial Svcs-Specialty","11-15-2007"
+"211","BR","Broadridge Finl Sltns","106.07","0.52","0.5","0.46","78.8","576","61160","12373.5","97","98","91","A+","A","89","Financial Svcs-Specialty",""
+"212","FISV","Fiserv Inc","145.06","0.84","0.6","-1.61","-33.4","1172","170010","29970.4","89","91","78","C+","A","89","Financial Svcs-Specialty","09-25-1986"
+"213","VIRT","Virtu Financial Inc Cl A","32.55","0.70","2.2","-4.26","-45.1","740","24100","6093.7","83","20","98","A","A","89","Financial Svcs-Specialty","04-16-2015"
+"214","HQY","Healthequity Inc","58.55","0.54","0.9","0.46","-30.9","602","35264","3552.3","99","97","88","A","A","86","Comml Svcs-Outsourcing","07-31-2014"
+"215","WNS","W N S Holdings Ltd Ads","45.69","0.63","1.4","-0.82","6.0","220","10092","2492.3","98","93","90","A","A","86","Comml Svcs-Outsourcing","07-26-2006"
+"216","NSP","Insperity Inc","69.15","0.80","1.2","0.95","9.0","213","14749","2868.6","98","98","95","A+","A","86","Comml Svcs-Outsourcing","01-28-1997"
+"217","RS","Reliance Steel & Aluminm","94.31","1.48","1.6","-1.73","59.3","470","44401","6876.6","88","72","83","A","C","84","Metal Proc & Fabrication","09-16-1994"
+"218","LITE","Lumentum Holdings Inc","65.30","0.00","0.0","-4.85","-35.6","2357","153912","4074.7","96","91","88","B+","A","58","Telecom-Fiber Optics",""
+"219","EC","Ecopetrol Sa Adr","17.11","-0.49","-2.8","-16.74","-18.1","1779","30440","35175.3","85","79","97","B-","C","132","Oil&Gas-Integrated",""
+"220","FBR","Fibria Celulose Sa Adr","19.33","-0.05","-0.3","-1.38","-7.5","1609","31103","10707.5","91","79","96","B","B","93","Paper & Paper Products","04-14-2000"
+"221","LOB","Live Oak Bancshares Inc","28.00","0.65","2.4","-0.71","28.8","118","3304","1116.5","96","99","82","B","A","60","Banks-Southeast","07-23-2015"
+"222","SNV","Synovus Financial Corp","52.27","0.60","1.2","0.36","38.0","808","42249","6247.0","95","97","81","B-","A","60","Banks-Southeast",""
+"223","SBCF","Seacoast Banking Corp Fl","27.69","0.05","0.2","0.04","-8.1","498","13792","1204.8","95","94","77","B-","A","60","Banks-Southeast","02-02-1984"
+"224","FCB","F C B Financial Hdg Cl A","57.25","0.90","1.6","0.09","59.9","193","11100","2509.0","95","88","83","B","A","60","Banks-Southeast","08-01-2014"
+"225","IPGP","I P G Photonics Corp","242.76","1.32","0.5","-8.08","19.9","678","164615","13015.6","96","97","95","B-","A","59","Elec-Scientific/Msrng","12-13-2006"
+"226","NOVT","Novanta Inc","55.60","0.60","1.1","-7.79","-14.4","236","13160","1923.5","97","96","95","B+","A","59","Elec-Scientific/Msrng",""
+"227","VPG","Vishay Precision Group","31.70","-0.10","-0.3","-0.31","5.8","62","1974","421.3","97","92","95","B+","C","59","Elec-Scientific/Msrng",""
+"228","MCB","Metropolitan Bank Hldg","46.72","0.29","0.6","-8.93","-81.3","72","3401","383.1","95","80","79","A-","A","87","Banks-Northeast","11-08-2017"
+"229","EBSB","Meridian Bancorp Inc","20.60","-0.05","-0.2","-5.72","-27.1","262","5413","1111.8","92","98","72","B-","A","87","Banks-Northeast",""
+"230","MTB","M & T Bank Corp","195.19","-0.15","-0.1","-1.10","-8.8","651","127166","29379.0","78","72","83","B-","B","87","Banks-Northeast",""
+"231","CIT","C I T Group Inc","55.78","0.47","0.8","0.52","-4.5","964","53805","7321.6","87","76","84","B+","C","79","Finance-Commercial Loans",""
+"232","EL","Estee Lauder Cos Cl A","143.55","0.87","0.6","-0.06","-5.3","1718","246647","52794.4","95","91","92","B-","A","81","Cosmetics/Personal Care","11-16-1995"
+"233","HLF","Herbalife Ltd","98.13","1.29","1.3","1.07","25.0","1390","136489","8578.4","84","54","95","A","B","81","Cosmetics/Personal Care","12-16-2004"
+"234","CMPR","Cimpress Nv","168.81","8.36","5.2","-0.48","-14.3","332","56044","5176.6","73","49","97","C","D","78","Comml Svcs-Document Mgmt","09-30-2005"
+"235","FCN","F T I Consulting Inc","48.91","0.94","2.0","-3.74","-8.9","253","12374","1831.0","82","86","87","B+","D","94","Comml Svcs-Consulting","05-09-1996"
+"236","AQUA","Evoqua Water Tech Corp","23.82","-0.08","-0.3","-4.87","-15.3","287","6853","2697.9","59","62","69","B-","D","115","Pollution Control","11-02-2017"
+"237","ZBRA","Zebra Tech Corp Cl A","143.98","0.76","0.5","-0.38","4.3","365","52581","7658.2","92","95","94","A","B","102","Elec-Misc Products","08-15-1991"
+"238","MBIN","Merchants Bancorp","22.28","-0.18","-0.8","-2.92","57.4","50","1129","639.1","94","83","87","B-","A","91","Banks-Midwest","10-27-2017"
+"239","EFSC","Enterprise Finl Services","49.00","0.10","0.2","-1.36","-31.3","130","6370","1130.1","91","88","79","C+","A","91","Banks-Midwest",""
+"240","TCF","T C F Financial Corp","23.51","0.21","0.9","0.02","19.9","1435","33746","4042.1","91","85","92","A-","B","91","Banks-Midwest","06-17-1986"
+"241","GNTX","Gentex Corp","22.92","-0.25","-1.1","-4.78","-10.0","2527","57939","6289.7","86","91","78","B-","A","120","Auto/Truck-Original Eqp",""
+"242","NATI","National Instrument Corp","53.32","0.35","0.7","0.66","-0.2","553","29502","6995.8","91","85","92","A-","B","82","Computer-Integrated Syst","03-13-1995"
+"243","COLL","Collegium Pharmaceutical","23.76","-1.01","-4.1","-11.24","24.3","575","13678","773.7","64","45","98","B","D","157","Medical-Generic Drugs","05-07-2015"
+"244","KMG","K M G Chemicals Inc","61.92","1.25","2.1","-9.11","-3.9","124","7696","951.8","95","97","88","B-","A","98","Chemicals-Specialty",""
+"245","HRS","Harris Corp","155.76","1.09","0.7","-3.28","1.9","750","116944","18493.2","77","74","87","C+","B","107","Telecom-Cable/Satl Eqp",""
+"246","XYL","Xylem Inc","76.38","1.10","1.5","-0.56","19.3","1030","78709","13717.8","87","84","89","B-","A","113","Machinery-Tools & Rel",""
+"247","QNST","Quinstreet Inc","13.34","0.35","2.7","-3.82","0.4","616","8218","616.8","89","79","99","B","D","131","Comml Svcs-Advertising","02-11-2010"
+"248","ILMN","Illumina Inc","241.20","5.44","2.3","-3.12","-10.9","918","221542","35456.4","92","94","87","B-","A","119","Medical-Research Eqp/Svc","07-28-2000"
+"249","TECH","Bio-Techne Corp","144.29","-0.50","-0.3","-0.45","127.8","183","26506","5407.1","89","82","83","B-","A","119","Medical-Research Eqp/Svc",""
+"250","BIO","Bio Rad Labs Inc Cl A","265.63","3.29","1.3","-4.99","29.7","181","48265","7905.9","66","70","79","B+","D","119","Medical-Research Eqp/Svc",""
+"251","BKNG","Booking Holdings Inc","2122.93","37.42","1.8","1.29","14.7","506","1074202","102512.0","91","92","82","B-","A","103","Leisure-Travel Booking","03-30-1999"
+"252","WWE","World Wrestling Entmnt","38.50","0.09","0.2","-0.49","14.5","946","36421","2970.2","89","79","96","B+","B","143","Media-Diversified","10-19-1999"
+"253","MBUU","Malibu Boats Inc Cl A","36.47","0.49","1.4","0.96","27.6","212","7753","748.0","98","96","93","A","A","108","Leisure-Products","01-31-2014"
+"254","KAR","Kar Auction Svcs Inc","56.23","0.35","0.6","0.45","45.0","926","52097","7557.8","90","95","83","A-","A","126","Retail/Whlsle-Automobile","12-11-2009"
+"255","CARG","Cargurus Inc Cl A","35.52","-0.54","-1.5","-3.50","-7.5","168","5981","3768.3","53","12","86","B","B","126","Retail/Whlsle-Automobile","10-12-2017"
+"256","FSS","Federal Signal Corp","22.47","0.30","1.4","-4.94","-25.3","277","6224","1348.2","94","92","88","B","B","140","Security/Sfty",""
+"257","AAXN","Axon Enterprise Inc","39.77","0.68","1.7","0.05","39.7","912","36290","2109.2","74","30","97","A","B","140","Security/Sfty",""
+"258","SPAR","Spartan Motors Inc","17.75","1.30","7.9","-1.93","59.5","276","4900","623.1","91","99","97","B+","C","156","Trucks & Parts-Hvy Duty","05-10-1984"
+"259","SYX","Systemax Inc","27.98","-0.21","-0.7","-16.73","39.7","106","2965","1037.2","81","98","96","D-","C","137","Wholesale-Electronics","06-27-1995"
+"260","FSCT","Forescout Technologies","34.49","0.41","1.2","-1.45","78.0","132","4576","1323.3","43","15","93","C","E","155","Computer-Hardware/Perip","10-27-2017"
+"261","MB","Mindbody Inc Cl A","38.05","0.15","0.4","-2.19","-20.8","391","14885","1793.7","76","51","92","A-","D","121","Computer Sftwr-Medical","06-19-2015"
+"262","ENSG","Ensign Group Inc","27.61","0.50","1.8","-1.99","0.8","239","6604","1421.5","83","79","91","B+","B","166","Medical-Long-term Care","11-09-2007"
+"263","SODA","Sodastream Intl Ltd","85.66","0.59","0.7","-1.26","-15.5","256","21963","1873.4","95","76","94","A+","A","183","Hsehold-Appliances/Wares","11-03-2010"
+"264","KL","Kirkland Lake Gold Ltd","15.75","-0.40","-2.5","-6.75","-19.3","755","11896","3269.0","84","84","87","B","A","191","Mining-Gold/Silver/Gems",""
+"265","NEXA","Nexa Resources S.A.","20.10","-0.11","-0.5","-6.99","-18.4","261","5248","2679.7","79","78","81","B+","C","191","Mining-Gold/Silver/Gems","10-27-2017"
