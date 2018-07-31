@@ -75,6 +75,21 @@ h1High = security(tickerid, period1, high[1])
 h1Close = security(tickerid, period1, close[1])
 h1vpp = (h1High + h1Low + h1Close)/3
 
+dHigh = security(tickerid, "D", high[1])
+dLow = security(tickerid, "D", low[1])
+dClose = security(tickerid, "D", close[1])
+dvpp = (dHigh + dLow + dClose)/3
+
+period = "60"
+hLow = security(tickerid, period, low[1])
+hHigh = security(tickerid, period, high[1])
+hClose = security(tickerid, period, close[1])
+hvpp = (hHigh + hLow + hClose)/3
+
+plot(dvpp, color=purple, title="DP", style=circles, linewidth=3)
+plot(hvpp, color=blue, title="HP", style=circles, linewidth=4)
+  
+
 plot(d15vpp, color=black, title="15m", style=cross, linewidth=3)
 plot(h5vpp, color=red, title="5m", style=cross, linewidth=2)
 plot(h1vpp, color=orange, title="1m", style=cross, linewidth=2)
